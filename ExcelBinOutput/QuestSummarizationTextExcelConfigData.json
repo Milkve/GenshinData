@@ -778,5 +778,609 @@
     {
         "Id": 800302,
         "DescTextMapHash": 3922113061
+    },
+    {
+        "Id": 1112301,
+        "DescTextMapHash": 3444923853
+    },
+    {
+        "Id": 1112302,
+        "DescTextMapHash": 3674125197
+    },
+    {
+        "Id": 1112303,
+        "DescTextMapHash": 2976442301
+    },
+    {
+        "Id": 1112304,
+        "DescTextMapHash": 2205392125
+    },
+    {
+        "Id": 1012008,
+        "DescTextMapHash": 2232170501
+    },
+    {
+        "Id": 1012112,
+        "DescTextMapHash": 1451898149
+    },
+    {
+        "Id": 1012113,
+        "DescTextMapHash": 3058707173
+    },
+    {
+        "Id": 1012206,
+        "DescTextMapHash": 1360833365
+    },
+    {
+        "Id": 1012211,
+        "DescTextMapHash": 636834381
+    },
+    {
+        "Id": 200005,
+        "DescTextMapHash": 2991559813
+    },
+    {
+        "Id": 200102,
+        "DescTextMapHash": 2084650221
+    },
+    {
+        "Id": 200103,
+        "DescTextMapHash": 3420254653
+    },
+    {
+        "Id": 200106,
+        "DescTextMapHash": 3121770317
+    },
+    {
+        "Id": 200211,
+        "DescTextMapHash": 501960693
+    },
+    {
+        "Id": 1200505,
+        "DescTextMapHash": 1009982221
+    },
+    {
+        "Id": 1200510,
+        "DescTextMapHash": 3084099653
+    },
+    {
+        "Id": 1200601,
+        "DescTextMapHash": 1342989693
+    },
+    {
+        "Id": 1200801,
+        "DescTextMapHash": 2106269813
+    },
+    {
+        "Id": 1200808,
+        "DescTextMapHash": 250836205
+    },
+    {
+        "Id": 1200803,
+        "DescTextMapHash": 2891079061
+    },
+    {
+        "Id": 1200804,
+        "DescTextMapHash": 741668829
+    },
+    {
+        "Id": 1201101,
+        "DescTextMapHash": 1131756013
+    },
+    {
+        "Id": 1201102,
+        "DescTextMapHash": 386203173
+    },
+    {
+        "Id": 1201201,
+        "DescTextMapHash": 2250540709
+    },
+    {
+        "Id": 1201301,
+        "DescTextMapHash": 10848949
+    },
+    {
+        "Id": 1201302,
+        "DescTextMapHash": 2405329277
+    },
+    {
+        "Id": 1201303,
+        "DescTextMapHash": 1746242005
+    },
+    {
+        "Id": 1201304,
+        "DescTextMapHash": 758755373
+    },
+    {
+        "Id": 1201305,
+        "DescTextMapHash": 475860173
+    },
+    {
+        "Id": 1201306,
+        "DescTextMapHash": 316937853
+    },
+    {
+        "Id": 1201307,
+        "DescTextMapHash": 828059805
+    },
+    {
+        "Id": 1200401,
+        "DescTextMapHash": 1709506221
+    },
+    {
+        "Id": 1200402,
+        "DescTextMapHash": 1980679645
+    },
+    {
+        "Id": 1200403,
+        "DescTextMapHash": 2054878413
+    },
+    {
+        "Id": 1200404,
+        "DescTextMapHash": 85594621
+    },
+    {
+        "Id": 1200405,
+        "DescTextMapHash": 1742683741
+    },
+    {
+        "Id": 1200406,
+        "DescTextMapHash": 1487733357
+    },
+    {
+        "Id": 1200407,
+        "DescTextMapHash": 2460309837
+    },
+    {
+        "Id": 1200408,
+        "DescTextMapHash": 3946033869
+    },
+    {
+        "Id": 1200409,
+        "DescTextMapHash": 1068013485
+    },
+    {
+        "Id": 1200410,
+        "DescTextMapHash": 3176398405
+    },
+    {
+        "Id": 1200411,
+        "DescTextMapHash": 1049719837
+    },
+    {
+        "Id": 1200412,
+        "DescTextMapHash": 4030092861
+    },
+    {
+        "Id": 1200413,
+        "DescTextMapHash": 773615365
+    },
+    {
+        "Id": 1200414,
+        "DescTextMapHash": 3510565541
+    },
+    {
+        "Id": 1200415,
+        "DescTextMapHash": 210260429
+    },
+    {
+        "Id": 1200416,
+        "DescTextMapHash": 2753070933
+    },
+    {
+        "Id": 1200417,
+        "DescTextMapHash": 2649942125
+    },
+    {
+        "Id": 1200418,
+        "DescTextMapHash": 2129102941
+    },
+    {
+        "Id": 1200419,
+        "DescTextMapHash": 690480413
+    },
+    {
+        "Id": 1200420,
+        "DescTextMapHash": 3539014053
+    },
+    {
+        "Id": 1200421,
+        "DescTextMapHash": 3805090581
+    },
+    {
+        "Id": 1200422,
+        "DescTextMapHash": 748819421
+    },
+    {
+        "Id": 201101,
+        "DescTextMapHash": 3587873725
+    },
+    {
+        "Id": 201102,
+        "DescTextMapHash": 1934543021
+    },
+    {
+        "Id": 201103,
+        "DescTextMapHash": 899651805
+    },
+    {
+        "Id": 201104,
+        "DescTextMapHash": 2524584429
+    },
+    {
+        "Id": 201201,
+        "DescTextMapHash": 749234901
+    },
+    {
+        "Id": 201202,
+        "DescTextMapHash": 4178052301
+    },
+    {
+        "Id": 201203,
+        "DescTextMapHash": 1774306181
+    },
+    {
+        "Id": 201204,
+        "DescTextMapHash": 1423303277
+    },
+    {
+        "Id": 201301,
+        "DescTextMapHash": 3682622165
+    },
+    {
+        "Id": 201302,
+        "DescTextMapHash": 507843829
+    },
+    {
+        "Id": 201303,
+        "DescTextMapHash": 2001965909
+    },
+    {
+        "Id": 1201501,
+        "DescTextMapHash": 1558976237
+    },
+    {
+        "Id": 1201502,
+        "DescTextMapHash": 4211238053
+    },
+    {
+        "Id": 1201701,
+        "DescTextMapHash": 532286909
+    },
+    {
+        "Id": 1201801,
+        "DescTextMapHash": 3389934997
+    },
+    {
+        "Id": 1201802,
+        "DescTextMapHash": 1428048501
+    },
+    {
+        "Id": 1201803,
+        "DescTextMapHash": 2997541853
+    },
+    {
+        "Id": 1201804,
+        "DescTextMapHash": 2765897381
+    },
+    {
+        "Id": 1202001,
+        "DescTextMapHash": 3425324301
+    },
+    {
+        "Id": 1202101,
+        "DescTextMapHash": 1315103997
+    },
+    {
+        "Id": 1202201,
+        "DescTextMapHash": 1400664269
+    },
+    {
+        "Id": 1202202,
+        "DescTextMapHash": 2983798453
+    },
+    {
+        "Id": 1202203,
+        "DescTextMapHash": 512880957
+    },
+    {
+        "Id": 1202301,
+        "DescTextMapHash": 3718570813
+    },
+    {
+        "Id": 1202302,
+        "DescTextMapHash": 3612252677
+    },
+    {
+        "Id": 1202303,
+        "DescTextMapHash": 522067381
+    },
+    {
+        "Id": 1202401,
+        "DescTextMapHash": 4017406285
+    },
+    {
+        "Id": 1202402,
+        "DescTextMapHash": 1474504565
+    },
+    {
+        "Id": 201001,
+        "DescTextMapHash": 1317774533
+    },
+    {
+        "Id": 201501,
+        "DescTextMapHash": 3031839093
+    },
+    {
+        "Id": 201601,
+        "DescTextMapHash": 2127815173
+    },
+    {
+        "Id": 201602,
+        "DescTextMapHash": 151387861
+    },
+    {
+        "Id": 201701,
+        "DescTextMapHash": 788141173
+    },
+    {
+        "Id": 201702,
+        "DescTextMapHash": 3693509405
+    },
+    {
+        "Id": 201801,
+        "DescTextMapHash": 3580796197
+    },
+    {
+        "Id": 201901,
+        "DescTextMapHash": 377712845
+    },
+    {
+        "Id": 202001,
+        "DescTextMapHash": 4035322901
+    },
+    {
+        "Id": 202002,
+        "DescTextMapHash": 3785214693
+    },
+    {
+        "Id": 1200901,
+        "DescTextMapHash": 3418415933
+    },
+    {
+        "Id": 1202501,
+        "DescTextMapHash": 963097429
+    },
+    {
+        "Id": 1202502,
+        "DescTextMapHash": 3952291085
+    },
+    {
+        "Id": 1202601,
+        "DescTextMapHash": 3655835645
+    },
+    {
+        "Id": 1202602,
+        "DescTextMapHash": 824996389
+    },
+    {
+        "Id": 1202603,
+        "DescTextMapHash": 383432005
+    },
+    {
+        "Id": 1202604,
+        "DescTextMapHash": 683424029
+    },
+    {
+        "Id": 1202605,
+        "DescTextMapHash": 1244973949
+    },
+    {
+        "Id": 1202606,
+        "DescTextMapHash": 1213245261
+    },
+    {
+        "Id": 1202607,
+        "DescTextMapHash": 1074364069
+    },
+    {
+        "Id": 1100901,
+        "DescTextMapHash": 4180696661
+    },
+    {
+        "Id": 1100902,
+        "DescTextMapHash": 2624877149
+    },
+    {
+        "Id": 1100903,
+        "DescTextMapHash": 3872892485
+    },
+    {
+        "Id": 1100904,
+        "DescTextMapHash": 3808880749
+    },
+    {
+        "Id": 1100905,
+        "DescTextMapHash": 3814460757
+    },
+    {
+        "Id": 1101301,
+        "DescTextMapHash": 617363437
+    },
+    {
+        "Id": 1101302,
+        "DescTextMapHash": 2115981461
+    },
+    {
+        "Id": 1101401,
+        "DescTextMapHash": 479501301
+    },
+    {
+        "Id": 1101402,
+        "DescTextMapHash": 256323445
+    },
+    {
+        "Id": 1101403,
+        "DescTextMapHash": 1682234885
+    },
+    {
+        "Id": 1101404,
+        "DescTextMapHash": 1622361773
+    },
+    {
+        "Id": 1101501,
+        "DescTextMapHash": 1060742917
+    },
+    {
+        "Id": 1101502,
+        "DescTextMapHash": 271140253
+    },
+    {
+        "Id": 1101503,
+        "DescTextMapHash": 90126637
+    },
+    {
+        "Id": 1101504,
+        "DescTextMapHash": 1365010045
+    },
+    {
+        "Id": 1101505,
+        "DescTextMapHash": 1033646621
+    },
+    {
+        "Id": 1101506,
+        "DescTextMapHash": 1248930317
+    },
+    {
+        "Id": 1202801,
+        "DescTextMapHash": 1173796189
+    },
+    {
+        "Id": 1202802,
+        "DescTextMapHash": 3062478221
+    },
+    {
+        "Id": 1202803,
+        "DescTextMapHash": 2817517133
+    },
+    {
+        "Id": 1202804,
+        "DescTextMapHash": 182522421
+    },
+    {
+        "Id": 1202805,
+        "DescTextMapHash": 2053336477
+    },
+    {
+        "Id": 1202806,
+        "DescTextMapHash": 3657081541
+    },
+    {
+        "Id": 1202807,
+        "DescTextMapHash": 332866285
+    },
+    {
+        "Id": 1202808,
+        "DescTextMapHash": 1344435477
+    },
+    {
+        "Id": 1204001,
+        "DescTextMapHash": 1950740357
+    },
+    {
+        "Id": 1204002,
+        "DescTextMapHash": 82609189
+    },
+    {
+        "Id": 1204101,
+        "DescTextMapHash": 4147614893
+    },
+    {
+        "Id": 1204102,
+        "DescTextMapHash": 3282513277
+    },
+    {
+        "Id": 1204103,
+        "DescTextMapHash": 2549911933
+    },
+    {
+        "Id": 1204201,
+        "DescTextMapHash": 3600280885
+    },
+    {
+        "Id": 1204202,
+        "DescTextMapHash": 347384805
+    },
+    {
+        "Id": 1204303,
+        "DescTextMapHash": 316228669
+    },
+    {
+        "Id": 1203301,
+        "DescTextMapHash": 2263516181
+    },
+    {
+        "Id": 1203302,
+        "DescTextMapHash": 2153949925
+    },
+    {
+        "Id": 1203303,
+        "DescTextMapHash": 4241514077
+    },
+    {
+        "Id": 1203304,
+        "DescTextMapHash": 1229786581
+    },
+    {
+        "Id": 1203305,
+        "DescTextMapHash": 915885421
+    },
+    {
+        "Id": 1203501,
+        "DescTextMapHash": 3374118317
+    },
+    {
+        "Id": 800401,
+        "DescTextMapHash": 1587850157
+    },
+    {
+        "Id": 800501,
+        "DescTextMapHash": 1701920309
+    },
+    {
+        "Id": 800502,
+        "DescTextMapHash": 2672450917
+    },
+    {
+        "Id": 800503,
+        "DescTextMapHash": 1089751173
+    },
+    {
+        "Id": 800601,
+        "DescTextMapHash": 1889887037
+    },
+    {
+        "Id": 800602,
+        "DescTextMapHash": 272315685
+    },
+    {
+        "Id": 800603,
+        "DescTextMapHash": 2808271133
+    },
+    {
+        "Id": 800604,
+        "DescTextMapHash": 1685478477
+    },
+    {
+        "Id": 800605,
+        "DescTextMapHash": 2525103629
+    },
+    {
+        "Id": 800701,
+        "DescTextMapHash": 4158107437
+    },
+    {
+        "Id": 800702,
+        "DescTextMapHash": 985897789
     }
 ]

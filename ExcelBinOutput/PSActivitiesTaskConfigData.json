@@ -1,0 +1,109 @@
+[
+    {
+        "activityID": 1,
+        "taskNameTextMapHash": 4123016973,
+        "isRequiredForCompletion": true,
+        "ID": 1,
+        "objectID": "quest1_1",
+        "KJJCPPOLEJN": "1.5.0"
+    },
+    {
+        "activityID": 1,
+        "taskNameTextMapHash": 3761040189,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 2,
+        "objectID": "quest1_2",
+        "KJJCPPOLEJN": "1.5.0"
+    },
+    {
+        "activityID": 1,
+        "taskNameTextMapHash": 1941639781,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 3,
+        "objectID": "quest1_3",
+        "KJJCPPOLEJN": "1.5.0"
+    },
+    {
+        "activityID": 2,
+        "taskNameTextMapHash": 3832365885,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 4,
+        "objectID": "quest2_1",
+        "KJJCPPOLEJN": "1.5.0"
+    },
+    {
+        "activityID": 2,
+        "taskNameTextMapHash": 3848168861,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 5,
+        "objectID": "quest2_2",
+        "KJJCPPOLEJN": "1.5.0"
+    },
+    {
+        "activityID": 2,
+        "taskNameTextMapHash": 2837333837,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 6,
+        "objectID": "quest2_3",
+        "KJJCPPOLEJN": "1.5.0"
+    },
+    {
+        "activityID": 2,
+        "taskNameTextMapHash": 1511167597,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 7,
+        "objectID": "quest2_4",
+        "KJJCPPOLEJN": "1.5.0"
+    },
+    {
+        "activityID": 3,
+        "taskNameTextMapHash": 3687366901,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 8,
+        "objectID": "quest3_1",
+        "KJJCPPOLEJN": "1.6.0"
+    },
+    {
+        "activityID": 3,
+        "taskNameTextMapHash": 301635173,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 9,
+        "objectID": "quest3_2",
+        "KJJCPPOLEJN": "2.0.0"
+    },
+    {
+        "activityID": 3,
+        "taskNameTextMapHash": 4170838189,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 10,
+        "objectID": "quest3_3",
+        "KJJCPPOLEJN": "2.0.0"
+    },
+    {
+        "activityID": 3,
+        "taskNameTextMapHash": 586395669,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 11,
+        "objectID": "quest3_4",
+        "KJJCPPOLEJN": "2.1.0"
+    },
+    {
+        "activityID": 3,
+        "taskNameTextMapHash": 1754904781,
+        "isRequiredForCompletion": true,
+        "hidden": true,
+        "ID": 12,
+        "objectID": "quest3_5",
+        "KJJCPPOLEJN": "2.6.0"
+    }
+]

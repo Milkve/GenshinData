@@ -1,0 +1,130 @@
+[
+    {
+        "KEDACNHHIDM": "Abyssalisle",
+        "ACLHIBFHHCD": "200_6",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "16",
+        "NMAMMPKNHGI": "迷雾关闭",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "Abyssalisle",
+        "ACLHIBFHHCD": "200_7",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "16",
+        "NMAMMPKNHGI": "迷雾关闭",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "Abyssalisle",
+        "ACLHIBFHHCD": "200_8",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "16",
+        "NMAMMPKNHGI": "迷雾关闭",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "MichiaeMatsuri",
+        "ACLHIBFHHCD": "210_1",
+        "conditionType": "ErosionArea",
+        "DKINPGDDDLC": "10",
+        "NMAMMPKNHGI": "",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "MichiaeMatsuri",
+        "ACLHIBFHHCD": "210_2",
+        "conditionType": "ErosionArea",
+        "DKINPGDDDLC": "11",
+        "NMAMMPKNHGI": "",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "MichiaeMatsuri",
+        "ACLHIBFHHCD": "210_3",
+        "conditionType": "ErosionArea",
+        "DKINPGDDDLC": "12",
+        "NMAMMPKNHGI": "",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "MichiaeMatsuri",
+        "ACLHIBFHHCD": "210_4",
+        "conditionType": "ErosionArea",
+        "DKINPGDDDLC": "13",
+        "NMAMMPKNHGI": "",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "MichiaeMatsuri",
+        "ACLHIBFHHCD": "210_5",
+        "conditionType": "ErosionArea",
+        "DKINPGDDDLC": "14",
+        "NMAMMPKNHGI": "",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "MichiaeMatsuri",
+        "ACLHIBFHHCD": "210_6",
+        "conditionType": "ErosionArea",
+        "DKINPGDDDLC": "15",
+        "NMAMMPKNHGI": "",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "TheChasm",
+        "ACLHIBFHHCD": "300_1",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "18",
+        "NMAMMPKNHGI": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "TheChasm",
+        "ACLHIBFHHCD": "300_2",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "18",
+        "NMAMMPKNHGI": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "TheChasm",
+        "ACLHIBFHHCD": "300_3",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "22",
+        "NMAMMPKNHGI": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "TheChasm",
+        "ACLHIBFHHCD": "300_4",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "20",
+        "NMAMMPKNHGI": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "TheChasm",
+        "ACLHIBFHHCD": "300_5",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "21",
+        "NMAMMPKNHGI": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "TheChasm",
+        "ACLHIBFHHCD": "300_6",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "23",
+        "NMAMMPKNHGI": "迷雾开启",
+        "actionType": "Close"
+    },
+    {
+        "KEDACNHHIDM": "TheChasm",
+        "ACLHIBFHHCD": "300_7",
+        "conditionType": "MapArea",
+        "DKINPGDDDLC": "22",
+        "NMAMMPKNHGI": "迷雾开启",
+        "actionType": "Close"
+    }
+]

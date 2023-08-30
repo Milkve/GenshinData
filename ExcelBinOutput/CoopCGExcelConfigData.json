@@ -1,1290 +1,3698 @@
 [
     {
-        "Id": 10140101,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140191,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10140101,
+        "chapterId": 101401,
+        "unlockPointId": 10140191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140103,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2904877149,
-        "DCFGMLNKBNC": 212,
-        "CHACMNEBJGO": 429629735,
-        "IFOADILDCCF": 208,
-        "POKEBGGOPDK": 674095378,
-        "EDPEJIGGCMO": 1405667876,
-        "SortId": 1
+        "showImageHashSuffix": 939624940,
+        "showImageHashPre": 27,
+        "showImageSmallHashSuffix": 1075971904,
+        "showImageSmallHashPre": 208,
+        "cgNameTextMapHash": 674095378,
+        "cgDesTextMapHash": 1405667876,
+        "sortId": 1
     },
     {
-        "Id": 10140102,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140192,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10140102,
+        "chapterId": 101401,
+        "unlockPointId": 10140192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140113,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1718376521,
-        "DCFGMLNKBNC": 18,
-        "CHACMNEBJGO": 3737631683,
-        "IFOADILDCCF": 188,
-        "POKEBGGOPDK": 778502978,
-        "EDPEJIGGCMO": 1914439500,
-        "SortId": 2
+        "showImageHashSuffix": 134245001,
+        "showImageHashPre": 247,
+        "showImageSmallHashSuffix": 3212055623,
+        "showImageSmallHashPre": 92,
+        "cgNameTextMapHash": 778502978,
+        "cgDesTextMapHash": 1914439500,
+        "sortId": 2
     },
     {
-        "Id": 10140103,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140193,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10140103,
+        "chapterId": 101401,
+        "unlockPointId": 10140193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140114,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3221266426,
-        "DCFGMLNKBNC": 106,
-        "CHACMNEBJGO": 1454619212,
-        "IFOADILDCCF": 248,
-        "POKEBGGOPDK": 2387169178,
-        "EDPEJIGGCMO": 2861249292,
-        "SortId": 3
+        "showImageHashSuffix": 1905430242,
+        "showImageHashPre": 94,
+        "showImageSmallHashSuffix": 2711369168,
+        "showImageSmallHashPre": 61,
+        "cgNameTextMapHash": 2387169178,
+        "cgDesTextMapHash": 2861249292,
+        "sortId": 3
     },
     {
-        "Id": 10140104,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140194,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10140104,
+        "chapterId": 101401,
+        "unlockPointId": 10140194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140116,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2227857530,
-        "DCFGMLNKBNC": 45,
-        "CHACMNEBJGO": 873703504,
-        "IFOADILDCCF": 242,
-        "POKEBGGOPDK": 2505358866,
-        "EDPEJIGGCMO": 1780451332,
-        "SortId": 4
+        "showImageHashSuffix": 1941436994,
+        "showImageHashPre": 65,
+        "showImageSmallHashSuffix": 576399995,
+        "showImageSmallHashPre": 182,
+        "cgNameTextMapHash": 2505358866,
+        "cgDesTextMapHash": 1780451332,
+        "sortId": 4
     },
     {
-        "Id": 10140105,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140195,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10140105,
+        "chapterId": 101401,
+        "unlockPointId": 10140195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140119,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 4270872581,
-        "DCFGMLNKBNC": 88,
-        "CHACMNEBJGO": 3842481805,
-        "IFOADILDCCF": 62,
-        "POKEBGGOPDK": 3824407634,
-        "EDPEJIGGCMO": 3846371420,
-        "SortId": 5
+        "showImageHashSuffix": 3018027663,
+        "showImageHashPre": 107,
+        "showImageSmallHashSuffix": 2693846192,
+        "showImageSmallHashPre": 114,
+        "cgNameTextMapHash": 3824407634,
+        "cgDesTextMapHash": 3846371420,
+        "sortId": 5
     },
     {
-        "Id": 10140111,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140191,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10140111,
+        "chapterId": 101401,
+        "unlockPointId": 10140191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140103,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1497378866,
-        "DCFGMLNKBNC": 169,
-        "CHACMNEBJGO": 825031359,
-        "IFOADILDCCF": 242,
-        "POKEBGGOPDK": 4239376554,
-        "EDPEJIGGCMO": 3122578500,
-        "SortId": 1
+        "showImageHashSuffix": 894980960,
+        "showImageHashPre": 124,
+        "showImageSmallHashSuffix": 2961181336,
+        "showImageSmallHashPre": 57,
+        "cgNameTextMapHash": 4239376554,
+        "cgDesTextMapHash": 3122578500,
+        "sortId": 1
     },
     {
-        "Id": 10140112,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140192,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10140112,
+        "chapterId": 101401,
+        "unlockPointId": 10140192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140113,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 157297801,
-        "DCFGMLNKBNC": 121,
-        "CHACMNEBJGO": 3525575345,
-        "IFOADILDCCF": 181,
-        "POKEBGGOPDK": 3983004018,
-        "EDPEJIGGCMO": 2108384156,
-        "SortId": 2
+        "showImageHashSuffix": 3031312707,
+        "showImageHashPre": 228,
+        "showImageSmallHashSuffix": 305605857,
+        "showImageSmallHashPre": 98,
+        "cgNameTextMapHash": 3983004018,
+        "cgDesTextMapHash": 2108384156,
+        "sortId": 2
     },
     {
-        "Id": 10140113,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140193,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10140113,
+        "chapterId": 101401,
+        "unlockPointId": 10140193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140114,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2125244306,
-        "DCFGMLNKBNC": 202,
-        "CHACMNEBJGO": 411134543,
-        "IFOADILDCCF": 45,
-        "POKEBGGOPDK": 4229603770,
-        "EDPEJIGGCMO": 4123576852,
-        "SortId": 3
+        "showImageHashSuffix": 2325529396,
+        "showImageHashPre": 240,
+        "showImageSmallHashSuffix": 1422664573,
+        "showImageSmallHashPre": 96,
+        "cgNameTextMapHash": 4229603770,
+        "cgDesTextMapHash": 4123576852,
+        "sortId": 3
     },
     {
-        "Id": 10140114,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140194,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10140114,
+        "chapterId": 101401,
+        "unlockPointId": 10140194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140116,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1522156617,
-        "DCFGMLNKBNC": 54,
-        "CHACMNEBJGO": 2531429337,
-        "IFOADILDCCF": 98,
-        "POKEBGGOPDK": 611067506,
-        "EDPEJIGGCMO": 4180193668,
-        "SortId": 4
+        "showImageHashSuffix": 197588600,
+        "showImageHashPre": 8,
+        "showImageSmallHashSuffix": 1555507045,
+        "showImageSmallHashPre": 43,
+        "cgNameTextMapHash": 611067506,
+        "cgDesTextMapHash": 4180193668,
+        "sortId": 4
     },
     {
-        "Id": 10140115,
-        "ChapterId": 101401,
-        "UnlockPointId": 10140195,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10140115,
+        "chapterId": 101401,
+        "unlockPointId": 10140195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10140119,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1696434876,
-        "DCFGMLNKBNC": 19,
-        "CHACMNEBJGO": 1903603930,
-        "IFOADILDCCF": 82,
-        "POKEBGGOPDK": 812504842,
-        "EDPEJIGGCMO": 1742528996,
-        "SortId": 5
+        "showImageHashSuffix": 1468738800,
+        "showImageHashPre": 9,
+        "showImageSmallHashSuffix": 1078058594,
+        "showImageSmallHashPre": 57,
+        "cgNameTextMapHash": 812504842,
+        "cgDesTextMapHash": 1742528996,
+        "sortId": 5
     },
     {
-        "Id": 10360101,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360191,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10360101,
+        "chapterId": 103601,
+        "unlockPointId": 10360191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360104,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 993195169,
-        "DCFGMLNKBNC": 88,
-        "CHACMNEBJGO": 1127826661,
-        "IFOADILDCCF": 136,
-        "POKEBGGOPDK": 2063132554,
-        "EDPEJIGGCMO": 1619287220,
-        "SortId": 1
+        "showImageHashSuffix": 3377075186,
+        "showImageHashPre": 166,
+        "showImageSmallHashSuffix": 12275197,
+        "showImageSmallHashPre": 19,
+        "cgNameTextMapHash": 2063132554,
+        "cgDesTextMapHash": 1619287220,
+        "sortId": 1
     },
     {
-        "Id": 10360102,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360192,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10360102,
+        "chapterId": 103601,
+        "unlockPointId": 10360192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360108,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3553881677,
-        "DCFGMLNKBNC": 22,
-        "CHACMNEBJGO": 1908705873,
-        "IFOADILDCCF": 197,
-        "POKEBGGOPDK": 2891086946,
-        "EDPEJIGGCMO": 1561671340,
-        "SortId": 2
+        "showImageHashSuffix": 2594969494,
+        "showImageHashPre": 55,
+        "showImageSmallHashSuffix": 1472760742,
+        "showImageSmallHashPre": 67,
+        "cgNameTextMapHash": 2891086946,
+        "cgDesTextMapHash": 1561671340,
+        "sortId": 2
     },
     {
-        "Id": 10360103,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360193,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10360103,
+        "chapterId": 103601,
+        "unlockPointId": 10360193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360119,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3646428469,
-        "DCFGMLNKBNC": 244,
-        "CHACMNEBJGO": 3241995556,
-        "IFOADILDCCF": 229,
-        "POKEBGGOPDK": 4008558146,
-        "EDPEJIGGCMO": 3569952908,
-        "SortId": 3
+        "showImageHashSuffix": 183558287,
+        "showImageHashPre": 22,
+        "showImageSmallHashSuffix": 975676755,
+        "showImageSmallHashPre": 9,
+        "cgNameTextMapHash": 4008558146,
+        "cgDesTextMapHash": 3569952908,
+        "sortId": 3
     },
     {
-        "Id": 10360104,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360195,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10360104,
+        "chapterId": 103601,
+        "unlockPointId": 10360195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360109,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1909298066,
-        "DCFGMLNKBNC": 61,
-        "CHACMNEBJGO": 1052169726,
-        "IFOADILDCCF": 126,
-        "POKEBGGOPDK": 3698253458,
-        "EDPEJIGGCMO": 940007532,
-        "SortId": 4
+        "showImageHashSuffix": 1603197346,
+        "showImageHashPre": 120,
+        "showImageSmallHashSuffix": 3384394013,
+        "showImageSmallHashPre": 172,
+        "cgNameTextMapHash": 3698253458,
+        "cgDesTextMapHash": 940007532,
+        "sortId": 4
     },
     {
-        "Id": 10360105,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360196,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10360105,
+        "chapterId": 103601,
+        "unlockPointId": 10360196,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360113,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 346511460,
-        "DCFGMLNKBNC": 175,
-        "CHACMNEBJGO": 695030691,
-        "IFOADILDCCF": 237,
-        "POKEBGGOPDK": 4281725202,
-        "EDPEJIGGCMO": 3287550308,
-        "SortId": 5
+        "showImageHashSuffix": 3900892838,
+        "showImageHashPre": 30,
+        "showImageSmallHashSuffix": 3985734447,
+        "showImageSmallHashPre": 172,
+        "cgNameTextMapHash": 4281725202,
+        "cgDesTextMapHash": 3287550308,
+        "sortId": 5
     },
     {
-        "Id": 10360106,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360197,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10360106,
+        "chapterId": 103601,
+        "unlockPointId": 10360197,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360197,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3739554074,
-        "DCFGMLNKBNC": 244,
-        "CHACMNEBJGO": 1174137392,
-        "IFOADILDCCF": 28,
-        "POKEBGGOPDK": 1687996594,
-        "EDPEJIGGCMO": 1032548564,
-        "SortId": 6
+        "showImageHashSuffix": 3495065617,
+        "showImageHashPre": 0,
+        "showImageSmallHashSuffix": 3791432414,
+        "showImageSmallHashPre": 65,
+        "cgNameTextMapHash": 1687996594,
+        "cgDesTextMapHash": 1032548564,
+        "sortId": 6
     },
     {
-        "Id": 10360111,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360191,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10360111,
+        "chapterId": 103601,
+        "unlockPointId": 10360191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360104,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3260680367,
-        "DCFGMLNKBNC": 255,
-        "CHACMNEBJGO": 2106925256,
-        "IFOADILDCCF": 158,
-        "POKEBGGOPDK": 3511693538,
-        "EDPEJIGGCMO": 2039448196,
-        "SortId": 1
+        "showImageHashSuffix": 3632611458,
+        "showImageHashPre": 92,
+        "showImageSmallHashSuffix": 2192006248,
+        "showImageSmallHashPre": 136,
+        "cgNameTextMapHash": 3511693538,
+        "cgDesTextMapHash": 2039448196,
+        "sortId": 1
     },
     {
-        "Id": 10360112,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360192,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10360112,
+        "chapterId": 103601,
+        "unlockPointId": 10360192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360108,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 4011607710,
-        "DCFGMLNKBNC": 56,
-        "CHACMNEBJGO": 2582031954,
-        "IFOADILDCCF": 140,
-        "POKEBGGOPDK": 228444722,
-        "EDPEJIGGCMO": 3247169516,
-        "SortId": 2
+        "showImageHashSuffix": 2076418814,
+        "showImageHashPre": 214,
+        "showImageSmallHashSuffix": 3509074075,
+        "showImageSmallHashPre": 242,
+        "cgNameTextMapHash": 228444722,
+        "cgDesTextMapHash": 3247169516,
+        "sortId": 2
     },
     {
-        "Id": 10360113,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360193,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10360113,
+        "chapterId": 103601,
+        "unlockPointId": 10360193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360119,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3304012838,
-        "DCFGMLNKBNC": 47,
-        "CHACMNEBJGO": 1480895599,
-        "IFOADILDCCF": 34,
-        "POKEBGGOPDK": 1586418874,
-        "EDPEJIGGCMO": 2183452020,
-        "SortId": 3
+        "showImageHashSuffix": 501400410,
+        "showImageHashPre": 233,
+        "showImageSmallHashSuffix": 433133875,
+        "showImageSmallHashPre": 24,
+        "cgNameTextMapHash": 1586418874,
+        "cgDesTextMapHash": 2183452020,
+        "sortId": 3
     },
     {
-        "Id": 10360114,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360195,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10360114,
+        "chapterId": 103601,
+        "unlockPointId": 10360195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360109,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2264636182,
-        "DCFGMLNKBNC": 200,
-        "CHACMNEBJGO": 1842556470,
-        "IFOADILDCCF": 118,
-        "POKEBGGOPDK": 3167732706,
-        "EDPEJIGGCMO": 2107450620,
-        "SortId": 4
+        "showImageHashSuffix": 3670945496,
+        "showImageHashPre": 157,
+        "showImageSmallHashSuffix": 2651092880,
+        "showImageSmallHashPre": 143,
+        "cgNameTextMapHash": 3167732706,
+        "cgDesTextMapHash": 2107450620,
+        "sortId": 4
     },
     {
-        "Id": 10360115,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360196,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10360115,
+        "chapterId": 103601,
+        "unlockPointId": 10360196,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360113,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2119591060,
-        "DCFGMLNKBNC": 61,
-        "CHACMNEBJGO": 1012099194,
-        "IFOADILDCCF": 194,
-        "POKEBGGOPDK": 2331149474,
-        "EDPEJIGGCMO": 1783775492,
-        "SortId": 5
+        "showImageHashSuffix": 517045768,
+        "showImageHashPre": 107,
+        "showImageSmallHashSuffix": 3065426943,
+        "showImageSmallHashPre": 163,
+        "cgNameTextMapHash": 2331149474,
+        "cgDesTextMapHash": 1783775492,
+        "sortId": 5
     },
     {
-        "Id": 10360116,
-        "ChapterId": 103601,
-        "UnlockPointId": 10360197,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10360116,
+        "chapterId": 103601,
+        "unlockPointId": 10360197,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10360197,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 736784773,
-        "DCFGMLNKBNC": 216,
-        "CHACMNEBJGO": 1241120754,
-        "IFOADILDCCF": 27,
-        "POKEBGGOPDK": 4084973570,
-        "EDPEJIGGCMO": 3674072884,
-        "SortId": 6
+        "showImageHashSuffix": 3474066487,
+        "showImageHashPre": 30,
+        "showImageSmallHashSuffix": 3311678151,
+        "showImageSmallHashPre": 53,
+        "cgNameTextMapHash": 4084973570,
+        "cgDesTextMapHash": 3674072884,
+        "sortId": 6
     },
     {
-        "Id": 10340101,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340191,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10340101,
+        "chapterId": 103401,
+        "unlockPointId": 10340191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340191,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3769636925,
-        "DCFGMLNKBNC": 95,
-        "CHACMNEBJGO": 330386769,
-        "IFOADILDCCF": 86,
-        "POKEBGGOPDK": 701821634,
-        "EDPEJIGGCMO": 3259636004,
-        "SortId": 1
+        "showImageHashSuffix": 1658598249,
+        "showImageHashPre": 108,
+        "showImageSmallHashSuffix": 3179767424,
+        "showImageSmallHashPre": 194,
+        "cgNameTextMapHash": 701821634,
+        "cgDesTextMapHash": 3259636004,
+        "sortId": 1
     },
     {
-        "Id": 10340102,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340192,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10340102,
+        "chapterId": 103401,
+        "unlockPointId": 10340192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340104,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 875645908,
-        "DCFGMLNKBNC": 49,
-        "CHACMNEBJGO": 3301347891,
-        "IFOADILDCCF": 53,
-        "POKEBGGOPDK": 1521148906,
-        "EDPEJIGGCMO": 4212765516,
-        "SortId": 2
+        "showImageHashSuffix": 2741803663,
+        "showImageHashPre": 233,
+        "showImageSmallHashSuffix": 3599472638,
+        "showImageSmallHashPre": 237,
+        "cgNameTextMapHash": 1521148906,
+        "cgDesTextMapHash": 4212765516,
+        "sortId": 2
     },
     {
-        "Id": 10340103,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340193,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10340103,
+        "chapterId": 103401,
+        "unlockPointId": 10340193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340106,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1572057900,
-        "DCFGMLNKBNC": 217,
-        "CHACMNEBJGO": 4181929113,
-        "IFOADILDCCF": 238,
-        "POKEBGGOPDK": 1249291554,
-        "EDPEJIGGCMO": 276831572,
-        "SortId": 3
+        "showImageHashSuffix": 1606264008,
+        "showImageHashPre": 226,
+        "showImageSmallHashSuffix": 1594659524,
+        "showImageSmallHashPre": 149,
+        "cgNameTextMapHash": 1249291554,
+        "cgDesTextMapHash": 276831572,
+        "sortId": 3
     },
     {
-        "Id": 10340104,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340194,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10340104,
+        "chapterId": 103401,
+        "unlockPointId": 10340194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340107,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 372604565,
-        "DCFGMLNKBNC": 38,
-        "CHACMNEBJGO": 1193300656,
-        "IFOADILDCCF": 89,
-        "POKEBGGOPDK": 814045898,
-        "EDPEJIGGCMO": 3882858148,
-        "SortId": 4
+        "showImageHashSuffix": 1120510674,
+        "showImageHashPre": 223,
+        "showImageSmallHashSuffix": 3976197874,
+        "showImageSmallHashPre": 82,
+        "cgNameTextMapHash": 814045898,
+        "cgDesTextMapHash": 3882858148,
+        "sortId": 4
     },
     {
-        "Id": 10340105,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340195,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10340105,
+        "chapterId": 103401,
+        "unlockPointId": 10340195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340110,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1622859945,
-        "DCFGMLNKBNC": 120,
-        "CHACMNEBJGO": 395316335,
-        "IFOADILDCCF": 244,
-        "POKEBGGOPDK": 715145834,
-        "EDPEJIGGCMO": 2136877748,
-        "SortId": 5
+        "showImageHashSuffix": 382963891,
+        "showImageHashPre": 100,
+        "showImageSmallHashSuffix": 1852473590,
+        "showImageSmallHashPre": 169,
+        "cgNameTextMapHash": 715145834,
+        "cgDesTextMapHash": 2136877748,
+        "sortId": 5
     },
     {
-        "Id": 10340106,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340196,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10340106,
+        "chapterId": 103401,
+        "unlockPointId": 10340196,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340112,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 657366665,
-        "DCFGMLNKBNC": 106,
-        "CHACMNEBJGO": 642852068,
-        "IFOADILDCCF": 202,
-        "POKEBGGOPDK": 1912331770,
-        "EDPEJIGGCMO": 1017526556,
-        "SortId": 6
+        "showImageHashSuffix": 415988785,
+        "showImageHashPre": 69,
+        "showImageSmallHashSuffix": 3778666354,
+        "showImageSmallHashPre": 6,
+        "cgNameTextMapHash": 1912331770,
+        "cgDesTextMapHash": 1017526556,
+        "sortId": 6
     },
     {
-        "Id": 10340111,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340191,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10340111,
+        "chapterId": 103401,
+        "unlockPointId": 10340191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340191,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 721577308,
-        "DCFGMLNKBNC": 47,
-        "CHACMNEBJGO": 1436975275,
-        "IFOADILDCCF": 56,
-        "POKEBGGOPDK": 1655066770,
-        "EDPEJIGGCMO": 2280382012,
-        "SortId": 1
+        "showImageHashSuffix": 2989247421,
+        "showImageHashPre": 209,
+        "showImageSmallHashSuffix": 3769647523,
+        "showImageSmallHashPre": 137,
+        "cgNameTextMapHash": 1655066770,
+        "cgDesTextMapHash": 2280382012,
+        "sortId": 1
     },
     {
-        "Id": 10340112,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340192,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10340112,
+        "chapterId": 103401,
+        "unlockPointId": 10340192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340104,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3000894905,
-        "DCFGMLNKBNC": 146,
-        "CHACMNEBJGO": 3214952150,
-        "IFOADILDCCF": 9,
-        "POKEBGGOPDK": 1373697658,
-        "EDPEJIGGCMO": 195872724,
-        "SortId": 2
+        "showImageHashSuffix": 4226449989,
+        "showImageHashPre": 65,
+        "showImageSmallHashSuffix": 1074205918,
+        "showImageSmallHashPre": 186,
+        "cgNameTextMapHash": 1373697658,
+        "cgDesTextMapHash": 195872724,
+        "sortId": 2
     },
     {
-        "Id": 10340113,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340193,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10340113,
+        "chapterId": 103401,
+        "unlockPointId": 10340193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340106,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 4243041433,
-        "DCFGMLNKBNC": 220,
-        "CHACMNEBJGO": 421513855,
-        "IFOADILDCCF": 69,
-        "POKEBGGOPDK": 1630873602,
-        "EDPEJIGGCMO": 4105052076,
-        "SortId": 3
+        "showImageHashSuffix": 3004137863,
+        "showImageHashPre": 120,
+        "showImageSmallHashSuffix": 4056054430,
+        "showImageSmallHashPre": 54,
+        "cgNameTextMapHash": 1630873602,
+        "cgDesTextMapHash": 4105052076,
+        "sortId": 3
     },
     {
-        "Id": 10340114,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340194,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10340114,
+        "chapterId": 103401,
+        "unlockPointId": 10340194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340107,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3969064282,
-        "DCFGMLNKBNC": 148,
-        "CHACMNEBJGO": 161580183,
-        "IFOADILDCCF": 200,
-        "POKEBGGOPDK": 3963063082,
-        "EDPEJIGGCMO": 2620904396,
-        "SortId": 4
+        "showImageHashSuffix": 573890140,
+        "showImageHashPre": 31,
+        "showImageSmallHashSuffix": 2459966811,
+        "showImageSmallHashPre": 103,
+        "cgNameTextMapHash": 3963063082,
+        "cgDesTextMapHash": 2620904396,
+        "sortId": 4
     },
     {
-        "Id": 10340115,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340195,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10340115,
+        "chapterId": 103401,
+        "unlockPointId": 10340195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340110,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3481735368,
-        "DCFGMLNKBNC": 199,
-        "CHACMNEBJGO": 796243314,
-        "IFOADILDCCF": 226,
-        "POKEBGGOPDK": 1451251330,
-        "EDPEJIGGCMO": 4152244212,
-        "SortId": 5
+        "showImageHashSuffix": 1858305863,
+        "showImageHashPre": 96,
+        "showImageSmallHashSuffix": 2226385624,
+        "showImageSmallHashPre": 180,
+        "cgNameTextMapHash": 1451251330,
+        "cgDesTextMapHash": 4152244212,
+        "sortId": 5
     },
     {
-        "Id": 10340116,
-        "ChapterId": 103401,
-        "UnlockPointId": 10340196,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10340116,
+        "chapterId": 103401,
+        "unlockPointId": 10340196,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10340112,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3929635509,
-        "DCFGMLNKBNC": 56,
-        "CHACMNEBJGO": 3262342672,
-        "IFOADILDCCF": 122,
-        "POKEBGGOPDK": 3911127418,
-        "EDPEJIGGCMO": 3005123828,
-        "SortId": 6
+        "showImageHashSuffix": 2368434953,
+        "showImageHashPre": 54,
+        "showImageSmallHashSuffix": 2727142822,
+        "showImageSmallHashPre": 236,
+        "cgNameTextMapHash": 3911127418,
+        "cgDesTextMapHash": 3005123828,
+        "sortId": 6
     },
     {
-        "Id": 10320101,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320191,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10320101,
+        "chapterId": 103201,
+        "unlockPointId": 10320191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320104,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 918546625,
-        "DCFGMLNKBNC": 4,
-        "CHACMNEBJGO": 3365007093,
-        "IFOADILDCCF": 63,
-        "POKEBGGOPDK": 1937993194,
-        "EDPEJIGGCMO": 2325036620,
-        "SortId": 1
+        "showImageHashSuffix": 1119050800,
+        "showImageHashPre": 30,
+        "showImageSmallHashSuffix": 3875493223,
+        "showImageSmallHashPre": 158,
+        "cgNameTextMapHash": 1937993194,
+        "cgDesTextMapHash": 2325036620,
+        "sortId": 1
     },
     {
-        "Id": 10320102,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320192,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10320102,
+        "chapterId": 103201,
+        "unlockPointId": 10320192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320107,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2497414162,
-        "DCFGMLNKBNC": 227,
-        "CHACMNEBJGO": 3365991669,
-        "IFOADILDCCF": 246,
-        "POKEBGGOPDK": 644851106,
-        "EDPEJIGGCMO": 3169905420,
-        "SortId": 2
+        "showImageHashSuffix": 1039960016,
+        "showImageHashPre": 204,
+        "showImageSmallHashSuffix": 91254906,
+        "showImageSmallHashPre": 58,
+        "cgNameTextMapHash": 644851106,
+        "cgDesTextMapHash": 3169905420,
+        "sortId": 2
     },
     {
-        "Id": 10320103,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320193,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10320103,
+        "chapterId": 103201,
+        "unlockPointId": 10320193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320193,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 580851205,
-        "DCFGMLNKBNC": 143,
-        "CHACMNEBJGO": 322138655,
-        "IFOADILDCCF": 70,
-        "POKEBGGOPDK": 3887588234,
-        "EDPEJIGGCMO": 174443748,
-        "SortId": 3
+        "showImageHashSuffix": 884366064,
+        "showImageHashPre": 88,
+        "showImageSmallHashSuffix": 2272271795,
+        "showImageSmallHashPre": 94,
+        "cgNameTextMapHash": 3887588234,
+        "cgDesTextMapHash": 174443748,
+        "sortId": 3
     },
     {
-        "Id": 10320104,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320194,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10320104,
+        "chapterId": 103201,
+        "unlockPointId": 10320194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320194,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2156737505,
-        "DCFGMLNKBNC": 176,
-        "CHACMNEBJGO": 4293797686,
-        "IFOADILDCCF": 168,
-        "POKEBGGOPDK": 819831450,
-        "EDPEJIGGCMO": 1115504852,
-        "SortId": 4
+        "showImageHashSuffix": 832425450,
+        "showImageHashPre": 225,
+        "showImageSmallHashSuffix": 1208511011,
+        "showImageSmallHashPre": 155,
+        "cgNameTextMapHash": 819831450,
+        "cgDesTextMapHash": 1115504852,
+        "sortId": 4
     },
     {
-        "Id": 10320105,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320195,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10320105,
+        "chapterId": 103201,
+        "unlockPointId": 10320195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320195,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 97653780,
-        "DCFGMLNKBNC": 167,
-        "CHACMNEBJGO": 1527301695,
-        "IFOADILDCCF": 137,
-        "POKEBGGOPDK": 2336513714,
-        "EDPEJIGGCMO": 964546908,
-        "SortId": 5
+        "showImageHashSuffix": 715432484,
+        "showImageHashPre": 13,
+        "showImageSmallHashSuffix": 4083084936,
+        "showImageSmallHashPre": 48,
+        "cgNameTextMapHash": 2336513714,
+        "cgDesTextMapHash": 964546908,
+        "sortId": 5
     },
     {
-        "Id": 10320106,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320196,
-        "CgType": "CG_FEMALE",
-        "UnlockCond": [
+        "id": 10320106,
+        "chapterId": 103201,
+        "unlockPointId": 10320196,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320196,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 4038563469,
-        "DCFGMLNKBNC": 178,
-        "CHACMNEBJGO": 2566926977,
-        "IFOADILDCCF": 233,
-        "POKEBGGOPDK": 2856405890,
-        "EDPEJIGGCMO": 821215772,
-        "SortId": 6
+        "showImageHashSuffix": 1288408746,
+        "showImageHashPre": 27,
+        "showImageSmallHashSuffix": 2043871686,
+        "showImageSmallHashPre": 182,
+        "cgNameTextMapHash": 2856405890,
+        "cgDesTextMapHash": 821215772,
+        "sortId": 6
     },
     {
-        "Id": 10320111,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320191,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10320111,
+        "chapterId": 103201,
+        "unlockPointId": 10320191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320104,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 1878746254,
-        "DCFGMLNKBNC": 90,
-        "CHACMNEBJGO": 4203362253,
-        "IFOADILDCCF": 6,
-        "POKEBGGOPDK": 4038363290,
-        "EDPEJIGGCMO": 3346369980,
-        "SortId": 1
+        "showImageHashSuffix": 1759860656,
+        "showImageHashPre": 184,
+        "showImageSmallHashSuffix": 3253873084,
+        "showImageSmallHashPre": 89,
+        "cgNameTextMapHash": 4038363290,
+        "cgDesTextMapHash": 3346369980,
+        "sortId": 1
     },
     {
-        "Id": 10320112,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320192,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10320112,
+        "chapterId": 103201,
+        "unlockPointId": 10320192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320107,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 522275295,
-        "DCFGMLNKBNC": 75,
-        "CHACMNEBJGO": 2810622668,
-        "IFOADILDCCF": 47,
-        "POKEBGGOPDK": 4235342818,
-        "EDPEJIGGCMO": 1907975700,
-        "SortId": 2
+        "showImageHashSuffix": 938884555,
+        "showImageHashPre": 193,
+        "showImageSmallHashSuffix": 3385249105,
+        "showImageSmallHashPre": 70,
+        "cgNameTextMapHash": 4235342818,
+        "cgDesTextMapHash": 1907975700,
+        "sortId": 2
     },
     {
-        "Id": 10320113,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320193,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10320113,
+        "chapterId": 103201,
+        "unlockPointId": 10320193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320193,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 4253558961,
-        "DCFGMLNKBNC": 11,
-        "CHACMNEBJGO": 1941108686,
-        "IFOADILDCCF": 120,
-        "POKEBGGOPDK": 3431695370,
-        "EDPEJIGGCMO": 1000119468,
-        "SortId": 3
+        "showImageHashSuffix": 3325264459,
+        "showImageHashPre": 68,
+        "showImageSmallHashSuffix": 249709095,
+        "showImageSmallHashPre": 142,
+        "cgNameTextMapHash": 3431695370,
+        "cgDesTextMapHash": 1000119468,
+        "sortId": 3
     },
     {
-        "Id": 10320114,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320194,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10320114,
+        "chapterId": 103201,
+        "unlockPointId": 10320194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320194,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2650702358,
-        "DCFGMLNKBNC": 11,
-        "CHACMNEBJGO": 2557586114,
-        "IFOADILDCCF": 56,
-        "POKEBGGOPDK": 1294549594,
-        "EDPEJIGGCMO": 2583282140,
-        "SortId": 4
+        "showImageHashSuffix": 1143134282,
+        "showImageHashPre": 221,
+        "showImageSmallHashSuffix": 726777553,
+        "showImageSmallHashPre": 253,
+        "cgNameTextMapHash": 1294549594,
+        "cgDesTextMapHash": 2583282140,
+        "sortId": 4
     },
     {
-        "Id": 10320115,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320195,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10320115,
+        "chapterId": 103201,
+        "unlockPointId": 10320195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320195,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 2741713504,
-        "DCFGMLNKBNC": 248,
-        "CHACMNEBJGO": 2769606386,
-        "IFOADILDCCF": 36,
-        "POKEBGGOPDK": 2240579186,
-        "EDPEJIGGCMO": 3713583284,
-        "SortId": 5
+        "showImageHashSuffix": 1436446322,
+        "showImageHashPre": 62,
+        "showImageSmallHashSuffix": 8755736,
+        "showImageSmallHashPre": 84,
+        "cgNameTextMapHash": 2240579186,
+        "cgDesTextMapHash": 3713583284,
+        "sortId": 5
     },
     {
-        "Id": 10320116,
-        "ChapterId": 103201,
-        "UnlockPointId": 10320196,
-        "CgType": "CG_MALE",
-        "UnlockCond": [
+        "id": 10320116,
+        "chapterId": 103201,
+        "unlockPointId": 10320196,
+        "cgType": "CG_MALE",
+        "unlockCond": [
             {
-                "CondType": "COOP_COND_COOP_POINT_FINISH",
-                "Args": [
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
                     10320196,
                     0
                 ]
             },
             {
-                "Args": [
+                "args": [
                     0,
                     0
                 ]
             }
         ],
-        "MOOPJMFCEEA": 3997257381,
-        "DCFGMLNKBNC": 149,
-        "CHACMNEBJGO": 3817542671,
-        "IFOADILDCCF": 203,
-        "POKEBGGOPDK": 2305770298,
-        "EDPEJIGGCMO": 2465045516,
-        "SortId": 6
+        "showImageHashSuffix": 1300264303,
+        "showImageHashPre": 240,
+        "showImageSmallHashSuffix": 3907609753,
+        "showImageSmallHashPre": 102,
+        "cgNameTextMapHash": 2305770298,
+        "cgDesTextMapHash": 2465045516,
+        "sortId": 6
+    },
+    {
+        "id": 10340201,
+        "chapterId": 103402,
+        "unlockPointId": 10340291,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340291,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2728599134,
+        "showImageHashPre": 158,
+        "showImageSmallHashSuffix": 2232796214,
+        "showImageSmallHashPre": 136,
+        "cgNameTextMapHash": 2284580554,
+        "cgDesTextMapHash": 820519340,
+        "sortId": 1
+    },
+    {
+        "id": 10340202,
+        "chapterId": 103402,
+        "unlockPointId": 10340292,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340292,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3140530828,
+        "showImageHashPre": 244,
+        "showImageSmallHashSuffix": 4086563350,
+        "showImageSmallHashPre": 73,
+        "cgNameTextMapHash": 3729429050,
+        "cgDesTextMapHash": 2123089868,
+        "sortId": 2
+    },
+    {
+        "id": 10340203,
+        "chapterId": 103402,
+        "unlockPointId": 10340293,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340293,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 604707016,
+        "showImageHashPre": 168,
+        "showImageSmallHashSuffix": 3582483728,
+        "showImageSmallHashPre": 120,
+        "cgNameTextMapHash": 967900530,
+        "cgDesTextMapHash": 2087876252,
+        "sortId": 3
+    },
+    {
+        "id": 10340204,
+        "chapterId": 103402,
+        "unlockPointId": 10340294,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340294,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 512986835,
+        "showImageHashPre": 28,
+        "showImageSmallHashSuffix": 3822622098,
+        "showImageSmallHashPre": 104,
+        "cgNameTextMapHash": 2044300042,
+        "cgDesTextMapHash": 1500963020,
+        "sortId": 4
+    },
+    {
+        "id": 10340205,
+        "chapterId": 103402,
+        "unlockPointId": 10340295,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340295,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1315404493,
+        "showImageHashPre": 49,
+        "showImageSmallHashSuffix": 2801698688,
+        "showImageSmallHashPre": 170,
+        "cgNameTextMapHash": 4004091058,
+        "cgDesTextMapHash": 497165828,
+        "sortId": 5
+    },
+    {
+        "id": 10340206,
+        "chapterId": 103402,
+        "unlockPointId": 10340296,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340296,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1301727498,
+        "showImageHashPre": 240,
+        "showImageSmallHashSuffix": 2127919054,
+        "showImageSmallHashPre": 124,
+        "cgNameTextMapHash": 805308514,
+        "cgDesTextMapHash": 1998764748,
+        "sortId": 6
+    },
+    {
+        "id": 10340211,
+        "chapterId": 103402,
+        "unlockPointId": 10340291,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340291,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2100923078,
+        "showImageHashPre": 115,
+        "showImageSmallHashSuffix": 2610588042,
+        "showImageSmallHashPre": 146,
+        "cgNameTextMapHash": 3567335290,
+        "cgDesTextMapHash": 2842947924,
+        "sortId": 1
+    },
+    {
+        "id": 10340212,
+        "chapterId": 103402,
+        "unlockPointId": 10340292,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340292,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1452906634,
+        "showImageHashPre": 34,
+        "showImageSmallHashSuffix": 2188060064,
+        "showImageSmallHashPre": 209,
+        "cgNameTextMapHash": 1515030474,
+        "cgDesTextMapHash": 3115593820,
+        "sortId": 2
+    },
+    {
+        "id": 10340213,
+        "chapterId": 103402,
+        "unlockPointId": 10340293,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340293,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3600151971,
+        "showImageHashPre": 173,
+        "showImageSmallHashSuffix": 4016239631,
+        "showImageSmallHashPre": 229,
+        "cgNameTextMapHash": 3687733570,
+        "cgDesTextMapHash": 2717541692,
+        "sortId": 3
+    },
+    {
+        "id": 10340214,
+        "chapterId": 103402,
+        "unlockPointId": 10340294,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340294,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3601486741,
+        "showImageHashPre": 10,
+        "showImageSmallHashSuffix": 1227569992,
+        "showImageSmallHashPre": 193,
+        "cgNameTextMapHash": 2912588842,
+        "cgDesTextMapHash": 1622058492,
+        "sortId": 4
+    },
+    {
+        "id": 10340215,
+        "chapterId": 103402,
+        "unlockPointId": 10340295,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340295,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2401957991,
+        "showImageHashPre": 104,
+        "showImageSmallHashSuffix": 1875076326,
+        "showImageSmallHashPre": 216,
+        "cgNameTextMapHash": 3333694026,
+        "cgDesTextMapHash": 2277421228,
+        "sortId": 5
+    },
+    {
+        "id": 10340216,
+        "chapterId": 103402,
+        "unlockPointId": 10340296,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10340296,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3699723134,
+        "showImageHashPre": 186,
+        "showImageSmallHashSuffix": 2701014054,
+        "showImageSmallHashPre": 7,
+        "cgNameTextMapHash": 739481698,
+        "cgDesTextMapHash": 1477769164,
+        "sortId": 6
+    },
+    {
+        "id": 10390101,
+        "chapterId": 103901,
+        "unlockPointId": 10390191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2732171877,
+        "showImageHashPre": 137,
+        "showImageSmallHashSuffix": 645093068,
+        "showImageSmallHashPre": 5,
+        "cgNameTextMapHash": 1696417850,
+        "cgDesTextMapHash": 716024580,
+        "sortId": 1
+    },
+    {
+        "id": 10390102,
+        "chapterId": 103901,
+        "unlockPointId": 10390192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1270141154,
+        "showImageHashPre": 239,
+        "showImageSmallHashSuffix": 1823843282,
+        "showImageSmallHashPre": 55,
+        "cgNameTextMapHash": 1495080514,
+        "cgDesTextMapHash": 2080440308,
+        "sortId": 2
+    },
+    {
+        "id": 10390103,
+        "chapterId": 103901,
+        "unlockPointId": 10390193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1803847346,
+        "showImageHashPre": 57,
+        "showImageSmallHashSuffix": 1998729387,
+        "showImageSmallHashPre": 157,
+        "cgNameTextMapHash": 3279317730,
+        "cgDesTextMapHash": 869910900,
+        "sortId": 3
+    },
+    {
+        "id": 10390104,
+        "chapterId": 103901,
+        "unlockPointId": 10390194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3626798739,
+        "showImageHashPre": 71,
+        "showImageSmallHashSuffix": 1285278440,
+        "showImageSmallHashPre": 58,
+        "cgNameTextMapHash": 3239492658,
+        "cgDesTextMapHash": 3564891908,
+        "sortId": 4
+    },
+    {
+        "id": 10390105,
+        "chapterId": 103901,
+        "unlockPointId": 10390195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2166948269,
+        "showImageHashPre": 81,
+        "showImageSmallHashSuffix": 277205236,
+        "showImageSmallHashPre": 244,
+        "cgNameTextMapHash": 566300026,
+        "cgDesTextMapHash": 1862720028,
+        "sortId": 5
+    },
+    {
+        "id": 10390111,
+        "chapterId": 103901,
+        "unlockPointId": 10390191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1463588450,
+        "showImageHashPre": 94,
+        "showImageSmallHashSuffix": 1885632465,
+        "showImageSmallHashPre": 41,
+        "cgNameTextMapHash": 954984098,
+        "cgDesTextMapHash": 4050385236,
+        "sortId": 1
+    },
+    {
+        "id": 10390112,
+        "chapterId": 103901,
+        "unlockPointId": 10390192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2121807840,
+        "showImageHashPre": 220,
+        "showImageSmallHashSuffix": 3603977944,
+        "showImageSmallHashPre": 227,
+        "cgNameTextMapHash": 1531813538,
+        "cgDesTextMapHash": 3939235660,
+        "sortId": 2
+    },
+    {
+        "id": 10390113,
+        "chapterId": 103901,
+        "unlockPointId": 10390193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3496669258,
+        "showImageHashPre": 107,
+        "showImageSmallHashSuffix": 3911643420,
+        "showImageSmallHashPre": 56,
+        "cgNameTextMapHash": 702369250,
+        "cgDesTextMapHash": 2606068284,
+        "sortId": 3
+    },
+    {
+        "id": 10390114,
+        "chapterId": 103901,
+        "unlockPointId": 10390194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 748392300,
+        "showImageHashPre": 16,
+        "showImageSmallHashSuffix": 380324981,
+        "showImageSmallHashPre": 123,
+        "cgNameTextMapHash": 118920146,
+        "cgDesTextMapHash": 1673413332,
+        "sortId": 4
+    },
+    {
+        "id": 10390115,
+        "chapterId": 103901,
+        "unlockPointId": 10390195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10390195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2115890371,
+        "showImageHashPre": 78,
+        "showImageSmallHashSuffix": 3791557700,
+        "showImageSmallHashPre": 131,
+        "cgNameTextMapHash": 160716426,
+        "cgDesTextMapHash": 1585120236,
+        "sortId": 5
+    },
+    {
+        "id": 10500101,
+        "chapterId": 105001,
+        "unlockPointId": 10500191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2204805353,
+        "showImageHashPre": 134,
+        "showImageSmallHashSuffix": 454692633,
+        "showImageSmallHashPre": 5,
+        "cgNameTextMapHash": 3284608306,
+        "cgDesTextMapHash": 804084412,
+        "sortId": 1
+    },
+    {
+        "id": 10500102,
+        "chapterId": 105001,
+        "unlockPointId": 10500192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1776469066,
+        "showImageHashPre": 211,
+        "showImageSmallHashSuffix": 2892824507,
+        "showImageSmallHashPre": 210,
+        "cgNameTextMapHash": 4282204914,
+        "cgDesTextMapHash": 1153417844,
+        "sortId": 2
+    },
+    {
+        "id": 10500103,
+        "chapterId": 105001,
+        "unlockPointId": 10500193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3556274660,
+        "showImageHashPre": 235,
+        "showImageSmallHashSuffix": 2526107684,
+        "showImageSmallHashPre": 234,
+        "cgNameTextMapHash": 2313067906,
+        "cgDesTextMapHash": 1099092660,
+        "sortId": 3
+    },
+    {
+        "id": 10500104,
+        "chapterId": 105001,
+        "unlockPointId": 10500194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1341347049,
+        "showImageHashPre": 157,
+        "showImageSmallHashSuffix": 3426407860,
+        "showImageSmallHashPre": 224,
+        "cgNameTextMapHash": 1787147738,
+        "cgDesTextMapHash": 1242509892,
+        "sortId": 4
+    },
+    {
+        "id": 10500105,
+        "chapterId": 105001,
+        "unlockPointId": 10500195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2196633758,
+        "showImageHashPre": 238,
+        "showImageSmallHashSuffix": 2971670296,
+        "showImageSmallHashPre": 130,
+        "cgNameTextMapHash": 837686498,
+        "cgDesTextMapHash": 4019734060,
+        "sortId": 5
+    },
+    {
+        "id": 10500106,
+        "chapterId": 105001,
+        "unlockPointId": 10500196,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500196,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3591245249,
+        "showImageHashPre": 75,
+        "showImageSmallHashSuffix": 160961514,
+        "showImageSmallHashPre": 171,
+        "cgNameTextMapHash": 92111426,
+        "cgDesTextMapHash": 3132452772,
+        "sortId": 6
+    },
+    {
+        "id": 10500111,
+        "chapterId": 105001,
+        "unlockPointId": 10500191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 546363932,
+        "showImageHashPre": 6,
+        "showImageSmallHashSuffix": 1195549363,
+        "showImageSmallHashPre": 217,
+        "cgNameTextMapHash": 2138578986,
+        "cgDesTextMapHash": 3999382244,
+        "sortId": 1
+    },
+    {
+        "id": 10500112,
+        "chapterId": 105001,
+        "unlockPointId": 10500192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 390403185,
+        "showImageHashPre": 41,
+        "showImageSmallHashSuffix": 1865198183,
+        "showImageSmallHashPre": 215,
+        "cgNameTextMapHash": 3328880802,
+        "cgDesTextMapHash": 1872580252,
+        "sortId": 2
+    },
+    {
+        "id": 10500113,
+        "chapterId": 105001,
+        "unlockPointId": 10500193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3007631179,
+        "showImageHashPre": 4,
+        "showImageSmallHashSuffix": 3743244374,
+        "showImageSmallHashPre": 48,
+        "cgNameTextMapHash": 1917773930,
+        "cgDesTextMapHash": 2146356012,
+        "sortId": 3
+    },
+    {
+        "id": 10500114,
+        "chapterId": 105001,
+        "unlockPointId": 10500194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 471664110,
+        "showImageHashPre": 201,
+        "showImageSmallHashSuffix": 3465620708,
+        "showImageSmallHashPre": 101,
+        "cgNameTextMapHash": 312505610,
+        "cgDesTextMapHash": 969022988,
+        "sortId": 4
+    },
+    {
+        "id": 10500115,
+        "chapterId": 105001,
+        "unlockPointId": 10500195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3787822228,
+        "showImageHashPre": 174,
+        "showImageSmallHashSuffix": 3459134483,
+        "showImageSmallHashPre": 156,
+        "cgNameTextMapHash": 1881084954,
+        "cgDesTextMapHash": 3865148012,
+        "sortId": 5
+    },
+    {
+        "id": 10500116,
+        "chapterId": 105001,
+        "unlockPointId": 10500196,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10500196,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 4055102972,
+        "showImageHashPre": 33,
+        "showImageSmallHashSuffix": 1172521215,
+        "showImageSmallHashPre": 159,
+        "cgNameTextMapHash": 236478858,
+        "cgDesTextMapHash": 3311355844,
+        "sortId": 6
+    },
+    {
+        "id": 10530101,
+        "chapterId": 105301,
+        "unlockPointId": 10530191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1601766050,
+        "showImageHashPre": 89,
+        "showImageSmallHashSuffix": 3643062414,
+        "showImageSmallHashPre": 242,
+        "cgNameTextMapHash": 3736711410,
+        "cgDesTextMapHash": 2041049156,
+        "sortId": 1
+    },
+    {
+        "id": 10530102,
+        "chapterId": 105301,
+        "unlockPointId": 10530192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3359350499,
+        "showImageHashPre": 105,
+        "showImageSmallHashSuffix": 262166669,
+        "showImageSmallHashPre": 234,
+        "cgNameTextMapHash": 889717162,
+        "cgDesTextMapHash": 1143812804,
+        "sortId": 2
+    },
+    {
+        "id": 10530103,
+        "chapterId": 105301,
+        "unlockPointId": 10530193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1046051145,
+        "showImageHashPre": 146,
+        "showImageSmallHashSuffix": 2661118013,
+        "showImageSmallHashPre": 137,
+        "cgNameTextMapHash": 1671032218,
+        "cgDesTextMapHash": 2366710228,
+        "sortId": 3
+    },
+    {
+        "id": 10530104,
+        "chapterId": 105301,
+        "unlockPointId": 10530194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 916918316,
+        "showImageHashPre": 202,
+        "showImageSmallHashSuffix": 3295571873,
+        "showImageSmallHashPre": 16,
+        "cgNameTextMapHash": 1932004290,
+        "cgDesTextMapHash": 1886181436,
+        "sortId": 4
+    },
+    {
+        "id": 10530105,
+        "chapterId": 105301,
+        "unlockPointId": 10530195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3501570205,
+        "showImageHashPre": 148,
+        "showImageSmallHashSuffix": 3923467917,
+        "showImageSmallHashPre": 223,
+        "cgNameTextMapHash": 2962769706,
+        "cgDesTextMapHash": 4213150532,
+        "sortId": 5
+    },
+    {
+        "id": 10530106,
+        "chapterId": 105301,
+        "unlockPointId": 10530196,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530196,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 751469016,
+        "showImageHashPre": 53,
+        "showImageSmallHashSuffix": 661737311,
+        "showImageSmallHashPre": 14,
+        "cgNameTextMapHash": 461635234,
+        "cgDesTextMapHash": 4141140524,
+        "sortId": 6
+    },
+    {
+        "id": 10530111,
+        "chapterId": 105301,
+        "unlockPointId": 10530191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3774385721,
+        "showImageHashPre": 82,
+        "showImageSmallHashSuffix": 587009427,
+        "showImageSmallHashPre": 240,
+        "cgNameTextMapHash": 2929601034,
+        "cgDesTextMapHash": 3178312404,
+        "sortId": 1
+    },
+    {
+        "id": 10530112,
+        "chapterId": 105301,
+        "unlockPointId": 10530192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1619269428,
+        "showImageHashPre": 167,
+        "showImageSmallHashSuffix": 1361161163,
+        "showImageSmallHashPre": 203,
+        "cgNameTextMapHash": 2253123626,
+        "cgDesTextMapHash": 374966916,
+        "sortId": 2
+    },
+    {
+        "id": 10530113,
+        "chapterId": 105301,
+        "unlockPointId": 10530193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3915698239,
+        "showImageHashPre": 100,
+        "showImageSmallHashSuffix": 1295864230,
+        "showImageSmallHashPre": 53,
+        "cgNameTextMapHash": 560641714,
+        "cgDesTextMapHash": 2909975908,
+        "sortId": 3
+    },
+    {
+        "id": 10530114,
+        "chapterId": 105301,
+        "unlockPointId": 10530194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3894264810,
+        "showImageHashPre": 24,
+        "showImageSmallHashSuffix": 294585067,
+        "showImageSmallHashPre": 231,
+        "cgNameTextMapHash": 2189580386,
+        "cgDesTextMapHash": 4189655268,
+        "sortId": 4
+    },
+    {
+        "id": 10530115,
+        "chapterId": 105301,
+        "unlockPointId": 10530195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 285355692,
+        "showImageHashPre": 48,
+        "showImageSmallHashSuffix": 2041845212,
+        "showImageSmallHashPre": 98,
+        "cgNameTextMapHash": 2652804210,
+        "cgDesTextMapHash": 1658363500,
+        "sortId": 5
+    },
+    {
+        "id": 10530116,
+        "chapterId": 105301,
+        "unlockPointId": 10530196,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10530196,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1451110933,
+        "showImageHashPre": 89,
+        "showImageSmallHashSuffix": 2420787259,
+        "showImageSmallHashPre": 97,
+        "cgNameTextMapHash": 1253866730,
+        "cgDesTextMapHash": 1009645324,
+        "sortId": 6
+    },
+    {
+        "id": 10240101,
+        "chapterId": 102401,
+        "unlockPointId": 10240191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1746595520,
+        "showImageHashPre": 187,
+        "showImageSmallHashSuffix": 2036777258,
+        "showImageSmallHashPre": 141,
+        "cgNameTextMapHash": 3306512674,
+        "cgDesTextMapHash": 1510079100,
+        "sortId": 1
+    },
+    {
+        "id": 10240102,
+        "chapterId": 102401,
+        "unlockPointId": 10240192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2058485627,
+        "showImageHashPre": 66,
+        "showImageSmallHashSuffix": 3147793631,
+        "showImageSmallHashPre": 204,
+        "cgNameTextMapHash": 1452694258,
+        "cgDesTextMapHash": 3938584236,
+        "sortId": 2
+    },
+    {
+        "id": 10240103,
+        "chapterId": 102401,
+        "unlockPointId": 10240193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1019369787,
+        "showImageHashPre": 145,
+        "showImageSmallHashSuffix": 82034210,
+        "showImageSmallHashPre": 255,
+        "cgNameTextMapHash": 1939452962,
+        "cgDesTextMapHash": 2843807836,
+        "sortId": 3
+    },
+    {
+        "id": 10240104,
+        "chapterId": 102401,
+        "unlockPointId": 10240194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2975884204,
+        "showImageHashPre": 89,
+        "showImageSmallHashSuffix": 1992247054,
+        "showImageSmallHashPre": 22,
+        "cgNameTextMapHash": 1051769434,
+        "cgDesTextMapHash": 3895970116,
+        "sortId": 4
+    },
+    {
+        "id": 10240105,
+        "chapterId": 102401,
+        "unlockPointId": 10240195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2364808999,
+        "showImageHashPre": 204,
+        "showImageSmallHashSuffix": 3446617336,
+        "showImageSmallHashPre": 126,
+        "cgNameTextMapHash": 462691434,
+        "cgDesTextMapHash": 290885532,
+        "sortId": 5
+    },
+    {
+        "id": 10240111,
+        "chapterId": 102401,
+        "unlockPointId": 10240191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1382833850,
+        "showImageHashPre": 86,
+        "showImageSmallHashSuffix": 3476605097,
+        "showImageSmallHashPre": 170,
+        "cgNameTextMapHash": 2712220706,
+        "cgDesTextMapHash": 61127804,
+        "sortId": 1
+    },
+    {
+        "id": 10240112,
+        "chapterId": 102401,
+        "unlockPointId": 10240192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 130160248,
+        "showImageHashPre": 194,
+        "showImageSmallHashSuffix": 3734911316,
+        "showImageSmallHashPre": 232,
+        "cgNameTextMapHash": 666335754,
+        "cgDesTextMapHash": 23649468,
+        "sortId": 2
+    },
+    {
+        "id": 10240113,
+        "chapterId": 102401,
+        "unlockPointId": 10240193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 397536014,
+        "showImageHashPre": 65,
+        "showImageSmallHashSuffix": 1432108557,
+        "showImageSmallHashPre": 131,
+        "cgNameTextMapHash": 791573650,
+        "cgDesTextMapHash": 148336468,
+        "sortId": 3
+    },
+    {
+        "id": 10240114,
+        "chapterId": 102401,
+        "unlockPointId": 10240194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 766674529,
+        "showImageHashPre": 186,
+        "showImageSmallHashSuffix": 2336675334,
+        "showImageSmallHashPre": 96,
+        "cgNameTextMapHash": 1810022218,
+        "cgDesTextMapHash": 3823997340,
+        "sortId": 4
+    },
+    {
+        "id": 10240115,
+        "chapterId": 102401,
+        "unlockPointId": 10240195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10240195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3413192651,
+        "showImageHashPre": 124,
+        "showImageSmallHashSuffix": 2748421152,
+        "showImageSmallHashPre": 159,
+        "cgNameTextMapHash": 1451456434,
+        "cgDesTextMapHash": 1610174076,
+        "sortId": 5
+    },
+    {
+        "id": 10550101,
+        "chapterId": 105501,
+        "unlockPointId": 10550191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2024500009,
+        "showImageHashPre": 42,
+        "showImageSmallHashSuffix": 3057879457,
+        "showImageSmallHashPre": 204,
+        "cgNameTextMapHash": 1246521170,
+        "cgDesTextMapHash": 4103184364,
+        "sortId": 1
+    },
+    {
+        "id": 10550102,
+        "chapterId": 105501,
+        "unlockPointId": 10550192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2881352361,
+        "showImageHashPre": 97,
+        "showImageSmallHashSuffix": 2211626006,
+        "showImageSmallHashPre": 11,
+        "cgNameTextMapHash": 272411930,
+        "cgDesTextMapHash": 2292859340,
+        "sortId": 2
+    },
+    {
+        "id": 10550103,
+        "chapterId": 105501,
+        "unlockPointId": 10550193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 539011858,
+        "showImageHashPre": 167,
+        "showImageSmallHashSuffix": 227624049,
+        "showImageSmallHashPre": 58,
+        "cgNameTextMapHash": 1766389586,
+        "cgDesTextMapHash": 2526378588,
+        "sortId": 3
+    },
+    {
+        "id": 10550104,
+        "chapterId": 105501,
+        "unlockPointId": 10550194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2886911629,
+        "showImageHashPre": 239,
+        "showImageSmallHashSuffix": 224335101,
+        "showImageSmallHashPre": 244,
+        "cgNameTextMapHash": 1787252538,
+        "cgDesTextMapHash": 2577504068,
+        "sortId": 4
+    },
+    {
+        "id": 10550105,
+        "chapterId": 105501,
+        "unlockPointId": 10550195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2568020229,
+        "showImageHashPre": 67,
+        "showImageSmallHashSuffix": 889178555,
+        "showImageSmallHashPre": 70,
+        "cgNameTextMapHash": 1394818722,
+        "cgDesTextMapHash": 69174556,
+        "sortId": 5
+    },
+    {
+        "id": 10550111,
+        "chapterId": 105501,
+        "unlockPointId": 10550191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 4219769985,
+        "showImageHashPre": 14,
+        "showImageSmallHashSuffix": 1445098784,
+        "showImageSmallHashPre": 185,
+        "cgNameTextMapHash": 1617541986,
+        "cgDesTextMapHash": 2331599956,
+        "sortId": 1
+    },
+    {
+        "id": 10550112,
+        "chapterId": 105501,
+        "unlockPointId": 10550192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2990136696,
+        "showImageHashPre": 107,
+        "showImageSmallHashSuffix": 3644178652,
+        "showImageSmallHashPre": 233,
+        "cgNameTextMapHash": 1231434770,
+        "cgDesTextMapHash": 1490438020,
+        "sortId": 2
+    },
+    {
+        "id": 10550113,
+        "chapterId": 105501,
+        "unlockPointId": 10550193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 29999856,
+        "showImageHashPre": 163,
+        "showImageSmallHashSuffix": 4157066802,
+        "showImageSmallHashPre": 236,
+        "cgNameTextMapHash": 1741057906,
+        "cgDesTextMapHash": 3729648012,
+        "sortId": 3
+    },
+    {
+        "id": 10550114,
+        "chapterId": 105501,
+        "unlockPointId": 10550194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 527586400,
+        "showImageHashPre": 198,
+        "showImageSmallHashSuffix": 2704023047,
+        "showImageSmallHashPre": 174,
+        "cgNameTextMapHash": 438967082,
+        "cgDesTextMapHash": 4011856380,
+        "sortId": 4
+    },
+    {
+        "id": 10550115,
+        "chapterId": 105501,
+        "unlockPointId": 10550195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10550195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2456545393,
+        "showImageHashPre": 121,
+        "showImageSmallHashSuffix": 1273008326,
+        "showImageSmallHashPre": 252,
+        "cgNameTextMapHash": 1488244874,
+        "cgDesTextMapHash": 589386428,
+        "sortId": 5
+    },
+    {
+        "id": 10270101,
+        "chapterId": 102701,
+        "unlockPointId": 10270191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1036641739,
+        "showImageHashPre": 156,
+        "showImageSmallHashSuffix": 572137553,
+        "showImageSmallHashPre": 138,
+        "cgNameTextMapHash": 990838138,
+        "cgDesTextMapHash": 2687618044,
+        "sortId": 1
+    },
+    {
+        "id": 10270102,
+        "chapterId": 102701,
+        "unlockPointId": 10270192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 4064754421,
+        "showImageHashPre": 57,
+        "showImageSmallHashSuffix": 3983574783,
+        "showImageSmallHashPre": 116,
+        "cgNameTextMapHash": 2994790274,
+        "cgDesTextMapHash": 3979955804,
+        "sortId": 2
+    },
+    {
+        "id": 10270103,
+        "chapterId": 102701,
+        "unlockPointId": 10270193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1473409837,
+        "showImageHashPre": 170,
+        "showImageSmallHashSuffix": 2811709808,
+        "showImageSmallHashPre": 92,
+        "cgNameTextMapHash": 3356078946,
+        "cgDesTextMapHash": 575930988,
+        "sortId": 3
+    },
+    {
+        "id": 10270104,
+        "chapterId": 102701,
+        "unlockPointId": 10270194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1373208500,
+        "showImageHashPre": 59,
+        "showImageSmallHashSuffix": 4019519409,
+        "showImageSmallHashPre": 6,
+        "cgNameTextMapHash": 1239172914,
+        "cgDesTextMapHash": 1924922708,
+        "sortId": 4
+    },
+    {
+        "id": 10270105,
+        "chapterId": 102701,
+        "unlockPointId": 10270195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3864650017,
+        "showImageHashPre": 105,
+        "showImageSmallHashSuffix": 3477281442,
+        "showImageSmallHashPre": 159,
+        "cgNameTextMapHash": 3067357298,
+        "cgDesTextMapHash": 2497675484,
+        "sortId": 5
+    },
+    {
+        "id": 10270111,
+        "chapterId": 102701,
+        "unlockPointId": 10270191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3980537040,
+        "showImageHashPre": 209,
+        "showImageSmallHashSuffix": 2409020327,
+        "showImageSmallHashPre": 27,
+        "cgNameTextMapHash": 3109777314,
+        "cgDesTextMapHash": 4118855780,
+        "sortId": 1
+    },
+    {
+        "id": 10270112,
+        "chapterId": 102701,
+        "unlockPointId": 10270192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3572325768,
+        "showImageHashPre": 89,
+        "showImageSmallHashSuffix": 3638174276,
+        "showImageSmallHashPre": 84,
+        "cgNameTextMapHash": 952931570,
+        "cgDesTextMapHash": 3535629460,
+        "sortId": 2
+    },
+    {
+        "id": 10270113,
+        "chapterId": 102701,
+        "unlockPointId": 10270193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1218684245,
+        "showImageHashPre": 3,
+        "showImageSmallHashSuffix": 1920776679,
+        "showImageSmallHashPre": 20,
+        "cgNameTextMapHash": 959555610,
+        "cgDesTextMapHash": 3971989948,
+        "sortId": 3
+    },
+    {
+        "id": 10270114,
+        "chapterId": 102701,
+        "unlockPointId": 10270194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 4253489501,
+        "showImageHashPre": 242,
+        "showImageSmallHashSuffix": 2464842320,
+        "showImageSmallHashPre": 198,
+        "cgNameTextMapHash": 3473921914,
+        "cgDesTextMapHash": 431227852,
+        "sortId": 4
+    },
+    {
+        "id": 10270115,
+        "chapterId": 102701,
+        "unlockPointId": 10270195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10270195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 37028193,
+        "showImageHashPre": 17,
+        "showImageSmallHashSuffix": 1924782728,
+        "showImageSmallHashPre": 237,
+        "cgNameTextMapHash": 3102121434,
+        "cgDesTextMapHash": 1138355012,
+        "sortId": 5
+    },
+    {
+        "id": 10640101,
+        "chapterId": 106401,
+        "unlockPointId": 10640191,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1180186966,
+        "showImageHashPre": 247,
+        "showImageSmallHashSuffix": 841237715,
+        "showImageSmallHashPre": 117,
+        "cgNameTextMapHash": 2015778666,
+        "cgDesTextMapHash": 1219074644,
+        "sortId": 1
+    },
+    {
+        "id": 10640102,
+        "chapterId": 106401,
+        "unlockPointId": 10640192,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3773234742,
+        "showImageHashPre": 105,
+        "showImageSmallHashSuffix": 3371482718,
+        "showImageSmallHashPre": 99,
+        "cgNameTextMapHash": 2593474386,
+        "cgDesTextMapHash": 2397963052,
+        "sortId": 2
+    },
+    {
+        "id": 10640103,
+        "chapterId": 106401,
+        "unlockPointId": 10640193,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 194744554,
+        "showImageHashPre": 72,
+        "showImageSmallHashSuffix": 2142944490,
+        "showImageSmallHashPre": 194,
+        "cgNameTextMapHash": 2775003714,
+        "cgDesTextMapHash": 1820659500,
+        "sortId": 3
+    },
+    {
+        "id": 10640104,
+        "chapterId": 106401,
+        "unlockPointId": 10640194,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1424970789,
+        "showImageHashPre": 74,
+        "showImageSmallHashSuffix": 1546840105,
+        "showImageSmallHashPre": 96,
+        "cgNameTextMapHash": 4261528698,
+        "cgDesTextMapHash": 259872468,
+        "sortId": 4
+    },
+    {
+        "id": 10640105,
+        "chapterId": 106401,
+        "unlockPointId": 10640195,
+        "cgType": "CG_FEMALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2987425298,
+        "showImageHashPre": 41,
+        "showImageSmallHashSuffix": 2640082017,
+        "showImageSmallHashPre": 173,
+        "cgNameTextMapHash": 3129892914,
+        "cgDesTextMapHash": 149581628,
+        "sortId": 5
+    },
+    {
+        "id": 10640111,
+        "chapterId": 106401,
+        "unlockPointId": 10640191,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640191,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 1111032923,
+        "showImageHashPre": 118,
+        "showImageSmallHashSuffix": 659838908,
+        "showImageSmallHashPre": 25,
+        "cgNameTextMapHash": 3286416562,
+        "cgDesTextMapHash": 791868564,
+        "sortId": 1
+    },
+    {
+        "id": 10640112,
+        "chapterId": 106401,
+        "unlockPointId": 10640192,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640192,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 4080070536,
+        "showImageHashPre": 39,
+        "showImageSmallHashSuffix": 1933891615,
+        "showImageSmallHashPre": 140,
+        "cgNameTextMapHash": 2338464642,
+        "cgDesTextMapHash": 3531823700,
+        "sortId": 2
+    },
+    {
+        "id": 10640113,
+        "chapterId": 106401,
+        "unlockPointId": 10640193,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640193,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 2448337811,
+        "showImageHashPre": 176,
+        "showImageSmallHashSuffix": 2742004724,
+        "showImageSmallHashPre": 68,
+        "cgNameTextMapHash": 1948040338,
+        "cgDesTextMapHash": 2406974140,
+        "sortId": 3
+    },
+    {
+        "id": 10640114,
+        "chapterId": 106401,
+        "unlockPointId": 10640194,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640194,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 265371441,
+        "showImageHashPre": 140,
+        "showImageSmallHashSuffix": 1285851537,
+        "showImageSmallHashPre": 182,
+        "cgNameTextMapHash": 2591445490,
+        "cgDesTextMapHash": 3873610588,
+        "sortId": 4
+    },
+    {
+        "id": 10640115,
+        "chapterId": 106401,
+        "unlockPointId": 10640195,
+        "cgType": "CG_MALE",
+        "unlockCond": [
+            {
+                "condType": "COOP_COND_COOP_POINT_FINISH",
+                "args": [
+                    10640195,
+                    0
+                ]
+            },
+            {
+                "args": [
+                    0,
+                    0
+                ]
+            }
+        ],
+        "showImageHashSuffix": 3922297365,
+        "showImageHashPre": 4,
+        "showImageSmallHashSuffix": 271682648,
+        "showImageSmallHashPre": 172,
+        "cgNameTextMapHash": 4080302746,
+        "cgDesTextMapHash": 2614072444,
+        "sortId": 5
     }
 ]

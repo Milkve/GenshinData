@@ -1,238 +1,372 @@
 [
     {
-        "Id": 2,
-        "SubQuestIdList": [],
-        "AvatarID": 10000002,
-        "OCKBBNNMNKC": 4212377856
+        "id": 2,
+        "subQuestIdList": [
+            200701
+        ],
+        "avatarID": 10000002,
+        "avatarDescriptionTextMapHash": 4212377856
     },
     {
-        "Id": 3,
-        "SubQuestIdList": [
+        "id": 3,
+        "subQuestIdList": [
             35802,
             48606
         ],
-        "AvatarID": 10000003,
-        "OCKBBNNMNKC": 3621073784
+        "avatarID": 10000003,
+        "avatarDescriptionTextMapHash": 3621073784
     },
     {
-        "Id": 4,
-        "SubQuestIdList": [
+        "id": 4,
+        "subQuestIdList": [
             35802
         ],
-        "AvatarID": 10000006,
-        "OCKBBNNMNKC": 1957511256
+        "avatarID": 10000006,
+        "avatarDescriptionTextMapHash": 1957511256
     },
     {
-        "Id": 14,
-        "SubQuestIdList": [
+        "id": 14,
+        "subQuestIdList": [
             39602,
             1104004
         ],
-        "AvatarID": 10000014,
-        "OCKBBNNMNKC": 1116661184
+        "avatarID": 10000014,
+        "avatarDescriptionTextMapHash": 1116661184
     },
     {
-        "Id": 15,
-        "SubQuestIdList": [
+        "id": 15,
+        "subQuestIdList": [
             35723,
             46101
         ],
-        "AvatarID": 10000015,
-        "OCKBBNNMNKC": 1516082192
+        "avatarID": 10000015,
+        "avatarDescriptionTextMapHash": 1516082192
     },
     {
-        "Id": 16,
-        "SubQuestIdList": [
+        "id": 16,
+        "subQuestIdList": [
             37605
         ],
-        "AvatarID": 10000016,
-        "OCKBBNNMNKC": 3078570088
+        "avatarID": 10000016,
+        "avatarDescriptionTextMapHash": 3078570088
     },
     {
-        "Id": 20,
-        "SubQuestIdList": [
+        "id": 20,
+        "subQuestIdList": [
             45104
         ],
-        "AvatarID": 10000020,
-        "OCKBBNNMNKC": 873817672
+        "avatarID": 10000020,
+        "avatarDescriptionTextMapHash": 873817672
     },
     {
-        "Id": 21,
-        "SubQuestIdList": [
+        "id": 21,
+        "subQuestIdList": [
             35401,
             45201
         ],
-        "AvatarID": 10000021,
-        "OCKBBNNMNKC": 3242457272
+        "avatarID": 10000021,
+        "avatarDescriptionTextMapHash": 3242457272
     },
     {
-        "Id": 22,
-        "SubQuestIdList": [
+        "id": 22,
+        "subQuestIdList": [
             37201
         ],
-        "AvatarID": 10000022,
-        "OCKBBNNMNKC": 4124140040
+        "avatarID": 10000022,
+        "avatarDescriptionTextMapHash": 4124140040
     },
     {
-        "Id": 23,
-        "SubQuestIdList": [
+        "id": 23,
+        "subQuestIdList": [
             1100003
         ],
-        "AvatarID": 10000023,
-        "OCKBBNNMNKC": 2131383896
+        "avatarID": 10000023,
+        "avatarDescriptionTextMapHash": 2131383896
     },
     {
-        "Id": 25,
-        "SubQuestIdList": [
+        "id": 24,
+        "subQuestIdList": [
+            200004
+        ],
+        "avatarID": 10000024,
+        "avatarDescriptionTextMapHash": 39164552
+    },
+    {
+        "id": 25,
+        "subQuestIdList": [
             1200003
         ],
-        "AvatarID": 10000025,
-        "OCKBBNNMNKC": 2283671152
+        "avatarID": 10000025,
+        "avatarDescriptionTextMapHash": 2283671152
     },
     {
-        "Id": 26,
-        "SubQuestIdList": [
+        "id": 26,
+        "subQuestIdList": [
             100302,
             1110202
         ],
-        "AvatarID": 10000026,
-        "OCKBBNNMNKC": 1330042832
+        "avatarID": 10000026,
+        "avatarDescriptionTextMapHash": 1330042832
     },
     {
-        "Id": 27,
-        "SubQuestIdList": [
+        "id": 27,
+        "subQuestIdList": [
             100008
         ],
-        "AvatarID": 10000027,
-        "OCKBBNNMNKC": 528950352
+        "avatarID": 10000027,
+        "avatarDescriptionTextMapHash": 528950352
     },
     {
-        "Id": 29,
-        "SubQuestIdList": [
+        "id": 29,
+        "subQuestIdList": [
             1020009
         ],
-        "AvatarID": 10000029,
-        "OCKBBNNMNKC": 1992139664
+        "avatarID": 10000029,
+        "avatarDescriptionTextMapHash": 1992139664
     },
     {
-        "Id": 30,
-        "SubQuestIdList": [
+        "id": 30,
+        "subQuestIdList": [
             101008
         ],
-        "AvatarID": 10000030,
-        "OCKBBNNMNKC": 1849471072
+        "avatarID": 10000030,
+        "avatarDescriptionTextMapHash": 1849471072
     },
     {
-        "Id": 31,
-        "SubQuestIdList": [
+        "id": 31,
+        "subQuestIdList": [
             4111101
         ],
-        "AvatarID": 10000031,
-        "OCKBBNNMNKC": 508269488
+        "avatarID": 10000031,
+        "avatarDescriptionTextMapHash": 508269488
     },
     {
-        "Id": 32,
-        "SubQuestIdList": [],
-        "AvatarID": 10000032,
-        "OCKBBNNMNKC": 3551887608
+        "id": 32,
+        "subQuestIdList": [
+            1904101
+        ],
+        "avatarID": 10000032,
+        "avatarDescriptionTextMapHash": 3551887608
     },
     {
-        "Id": 33,
-        "SubQuestIdList": [
+        "id": 33,
+        "subQuestIdList": [
             100013
         ],
-        "AvatarID": 10000033,
-        "OCKBBNNMNKC": 3094047208
+        "avatarID": 10000033,
+        "avatarDescriptionTextMapHash": 3094047208
     },
     {
-        "Id": 34,
-        "SubQuestIdList": [],
-        "AvatarID": 10000034,
-        "OCKBBNNMNKC": 54320584
+        "id": 34,
+        "subQuestIdList": [
+            1906102
+        ],
+        "avatarID": 10000034,
+        "avatarDescriptionTextMapHash": 54320584
     },
     {
-        "Id": 35,
-        "SubQuestIdList": [
+        "id": 35,
+        "subQuestIdList": [
             101513
         ],
-        "AvatarID": 10000035,
-        "OCKBBNNMNKC": 2944661432
+        "avatarID": 10000035,
+        "avatarDescriptionTextMapHash": 2944661432
     },
     {
-        "Id": 36,
-        "SubQuestIdList": [
+        "id": 36,
+        "subQuestIdList": [
             1902101
         ],
-        "AvatarID": 10000036,
-        "OCKBBNNMNKC": 51848360
+        "avatarID": 10000036,
+        "avatarDescriptionTextMapHash": 51848360
     },
     {
-        "Id": 37,
-        "SubQuestIdList": [
+        "id": 37,
+        "subQuestIdList": [
             101609
         ],
-        "AvatarID": 10000037,
-        "OCKBBNNMNKC": 4088133424
+        "avatarID": 10000037,
+        "avatarDescriptionTextMapHash": 4088133424
     },
     {
-        "Id": 38,
-        "SubQuestIdList": [
+        "id": 38,
+        "subQuestIdList": [
             1104106
         ],
-        "AvatarID": 10000038,
-        "OCKBBNNMNKC": 1525315568
+        "avatarID": 10000038,
+        "avatarDescriptionTextMapHash": 1525315568
     },
     {
-        "Id": 39,
-        "SubQuestIdList": [],
-        "AvatarID": 10000039,
-        "OCKBBNNMNKC": 677773416
+        "id": 39,
+        "subQuestIdList": [
+            1910102
+        ],
+        "avatarID": 10000039,
+        "avatarDescriptionTextMapHash": 677773416
     },
     {
-        "Id": 41,
-        "SubQuestIdList": [
+        "id": 41,
+        "subQuestIdList": [
             1050007,
             4111212
         ],
-        "AvatarID": 10000041,
-        "OCKBBNNMNKC": 159795168
+        "avatarID": 10000041,
+        "avatarDescriptionTextMapHash": 159795168
     },
     {
-        "Id": 42,
-        "SubQuestIdList": [
+        "id": 42,
+        "subQuestIdList": [
             102006
         ],
-        "AvatarID": 10000042,
-        "OCKBBNNMNKC": 3681864400
+        "avatarID": 10000042,
+        "avatarDescriptionTextMapHash": 3681864400
     },
     {
-        "Id": 43,
-        "SubQuestIdList": [
+        "id": 43,
+        "subQuestIdList": [
             1104002
         ],
-        "AvatarID": 10000043,
-        "OCKBBNNMNKC": 4113791704
+        "avatarID": 10000043,
+        "avatarDescriptionTextMapHash": 4113791704
     },
     {
-        "Id": 45,
-        "SubQuestIdList": [
+        "id": 44,
+        "subQuestIdList": [],
+        "avatarID": 10000044,
+        "avatarDescriptionTextMapHash": 1939707608
+    },
+    {
+        "id": 45,
+        "subQuestIdList": [
             1104004
         ],
-        "AvatarID": 10000045,
-        "OCKBBNNMNKC": 1596122648
+        "avatarID": 10000045,
+        "avatarDescriptionTextMapHash": 1596122648
     },
     {
-        "Id": 46,
-        "SubQuestIdList": [
+        "id": 46,
+        "subQuestIdList": [
             1111003
         ],
-        "AvatarID": 10000046,
-        "OCKBBNNMNKC": 3048708984
+        "avatarID": 10000046,
+        "avatarDescriptionTextMapHash": 3048708984
     },
     {
-        "Id": 51,
-        "SubQuestIdList": [],
-        "AvatarID": 10000051,
-        "OCKBBNNMNKC": 3186749048
+        "id": 47,
+        "subQuestIdList": [
+            200004
+        ],
+        "avatarID": 10000047,
+        "avatarDescriptionTextMapHash": 3283616648
+    },
+    {
+        "id": 48,
+        "subQuestIdList": [
+            1100801
+        ],
+        "avatarID": 10000048,
+        "avatarDescriptionTextMapHash": 953509688
+    },
+    {
+        "id": 49,
+        "subQuestIdList": [
+            200702
+        ],
+        "avatarID": 10000049,
+        "avatarDescriptionTextMapHash": 1216870856
+    },
+    {
+        "id": 51,
+        "subQuestIdList": [
+            1012008
+        ],
+        "avatarID": 10000051,
+        "avatarDescriptionTextMapHash": 3186749048
+    },
+    {
+        "id": 50,
+        "subQuestIdList": [
+            201107
+        ],
+        "avatarID": 10000050,
+        "avatarDescriptionTextMapHash": 2413315984
+    },
+    {
+        "id": 52,
+        "subQuestIdList": [
+            200801
+        ],
+        "avatarID": 10000052,
+        "avatarDescriptionTextMapHash": 648782656
+    },
+    {
+        "id": 53,
+        "subQuestIdList": [
+            201702
+        ],
+        "avatarID": 10000053,
+        "avatarDescriptionTextMapHash": 16838560
+    },
+    {
+        "id": 54,
+        "subQuestIdList": [
+            200908
+        ],
+        "avatarID": 10000054,
+        "avatarDescriptionTextMapHash": 2851980344
+    },
+    {
+        "id": 55,
+        "subQuestIdList": [
+            200903
+        ],
+        "avatarID": 10000055,
+        "avatarDescriptionTextMapHash": 3338654368
+    },
+    {
+        "id": 56,
+        "subQuestIdList": [
+            200706
+        ],
+        "avatarID": 10000056,
+        "avatarDescriptionTextMapHash": 4083813432
+    },
+    {
+        "id": 57,
+        "subQuestIdList": [
+            1202502
+        ],
+        "avatarID": 10000057,
+        "avatarDescriptionTextMapHash": 1672151304
+    },
+    {
+        "id": 58,
+        "subQuestIdList": [
+            200607
+        ],
+        "avatarID": 10000058,
+        "avatarDescriptionTextMapHash": 3879963736
+    },
+    {
+        "id": 63,
+        "subQuestIdList": [
+            200607
+        ],
+        "avatarID": 10000063,
+        "avatarDescriptionTextMapHash": 3640964592
+    },
+    {
+        "id": 64,
+        "subQuestIdList": [],
+        "avatarID": 10000064,
+        "avatarDescriptionTextMapHash": 1176323328
+    },
+    {
+        "id": 66,
+        "subQuestIdList": [
+            1203304
+        ],
+        "avatarID": 10000066,
+        "avatarDescriptionTextMapHash": 3389528560
     }
 ]

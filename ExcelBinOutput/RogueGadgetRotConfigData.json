@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "HIAJFDCNIPC": 90
+    },
+    {
+        "id": 2,
+        "NKCEDFOPMEL": "ROGUE_GADGET_ROT_DOWN",
+        "HIAJFDCNIPC": 270
+    },
+    {
+        "id": 3,
+        "NKCEDFOPMEL": "ROGUE_GADGET_ROT_LEFT"
+    },
+    {
+        "id": 4,
+        "NKCEDFOPMEL": "ROGUE_GADGET_ROT_RIGHT",
+        "HIAJFDCNIPC": 180
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "stageId": 1,
+        "EDOMIEDBFAI": 1,
+        "PEKPFAHOMFM": 2010402,
+        "KFNCGNDKIMJ": [
+            20104101,
+            20104102,
+            20104103
+        ],
+        "JMHENDNCBGF": [
+            20104201,
+            20104202,
+            20104203,
+            20104204,
+            20104205
+        ],
+        "AMBCPLADAGP": [],
+        "LMHILGEFALH": [
+            1,
+            2
+        ]
+    },
+    {
+        "stageId": 2,
+        "EDOMIEDBFAI": 3,
+        "PEKPFAHOMFM": 2010403,
+        "KFNCGNDKIMJ": [
+            20104104,
+            20104105,
+            20104106
+        ],
+        "JMHENDNCBGF": [
+            20104206,
+            20104207,
+            20104208,
+            20104209,
+            20104210,
+            20104211,
+            20104212,
+            20104213
+        ],
+        "AMBCPLADAGP": [],
+        "LMHILGEFALH": [
+            3,
+            4
+        ]
+    },
+    {
+        "stageId": 3,
+        "EDOMIEDBFAI": 7,
+        "PEKPFAHOMFM": 2010404,
+        "KFNCGNDKIMJ": [],
+        "JMHENDNCBGF": [],
+        "AMBCPLADAGP": [],
+        "LMHILGEFALH": [
+            5
+        ]
+    }
+]

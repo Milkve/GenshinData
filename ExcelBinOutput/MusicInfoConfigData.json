@@ -1,46 +1,163 @@
 [
     {
-        "MusicID": 1,
-        "MusicTime": 80,
-        "LevelId": [
+        "musicID": 1,
+        "musicTime": 72,
+        "levelId": [
             1,
             2,
             3
         ],
-        "GAHMNBMPLBM": 2252948913,
-        "CGFGBIANJBL": 3791680705
+        "musicNameTextMapHash": 2252948913,
+        "musicDescTextMapHash": 3791680705,
+        "ABLMMJNNOCK": 1505622105,
+        "AIDJADDCHFC": 3660162380,
+        "condID": 50500101,
+        "watcherList": [
+            15050001,
+            15050002,
+            15050003
+        ],
+        "avatarID": 10000030,
+        "pointID": 30069,
+        "GJPJODKEBLG": 2,
+        "IDCILEFEPCI": 2
     },
     {
-        "MusicID": 2,
-        "MusicTime": 68,
-        "LevelId": [
+        "musicID": 2,
+        "musicTime": 88,
+        "levelId": [
             4,
             5,
             6
         ],
-        "GAHMNBMPLBM": 405969929,
-        "CGFGBIANJBL": 648893881
+        "musicNameTextMapHash": 405969929,
+        "musicDescTextMapHash": 648893881,
+        "ABLMMJNNOCK": 1501924937,
+        "AIDJADDCHFC": 2139440820,
+        "condID": 50500102,
+        "watcherList": [
+            15050004,
+            15050005,
+            15050006
+        ],
+        "avatarID": 10000027,
+        "pointID": 30070,
+        "GJPJODKEBLG": 2,
+        "IDCILEFEPCI": 2
     },
     {
-        "MusicID": 3,
-        "MusicTime": 82,
-        "LevelId": [
+        "musicID": 3,
+        "musicTime": 81,
+        "levelId": [
             7,
             8,
             9
         ],
-        "GAHMNBMPLBM": 417687081,
-        "CGFGBIANJBL": 3810548329
+        "musicNameTextMapHash": 417687081,
+        "musicDescTextMapHash": 3810548329,
+        "ABLMMJNNOCK": 3467694881,
+        "AIDJADDCHFC": 1713615188,
+        "condID": 50500103,
+        "watcherList": [
+            15050007,
+            15050008,
+            15050009
+        ],
+        "avatarID": 10000042,
+        "pointID": 30071,
+        "GJPJODKEBLG": 2,
+        "IDCILEFEPCI": 2
     },
     {
-        "MusicID": 4,
-        "MusicTime": 73,
-        "LevelId": [
+        "musicID": 4,
+        "musicTime": 76,
+        "levelId": [
             10,
             11,
             12
         ],
-        "GAHMNBMPLBM": 3326281001,
-        "CGFGBIANJBL": 3083282617
+        "musicNameTextMapHash": 3326281001,
+        "musicDescTextMapHash": 3083282617,
+        "ABLMMJNNOCK": 2291195729,
+        "AIDJADDCHFC": 3908364,
+        "condID": 50500104,
+        "watcherList": [
+            15050010,
+            15050011,
+            15050012
+        ],
+        "avatarID": 10000026,
+        "pointID": 30072,
+        "GJPJODKEBLG": 2,
+        "IDCILEFEPCI": 2
+    },
+    {
+        "musicID": 5,
+        "musicTime": 114,
+        "levelId": [
+            13,
+            14,
+            15
+        ],
+        "musicNameTextMapHash": 2671706833,
+        "musicDescTextMapHash": 3900283305,
+        "ABLMMJNNOCK": 1009410849,
+        "AIDJADDCHFC": 1476137020,
+        "condID": 50500105,
+        "watcherList": [
+            15050013,
+            15050014,
+            15050015
+        ],
+        "avatarID": 10000054,
+        "pointID": 30073,
+        "GJPJODKEBLG": 2,
+        "IDCILEFEPCI": 2
+    },
+    {
+        "musicID": 6,
+        "musicTime": 125,
+        "levelId": [
+            16,
+            17,
+            18
+        ],
+        "musicNameTextMapHash": 914578409,
+        "musicDescTextMapHash": 3376406801,
+        "ABLMMJNNOCK": 1820481761,
+        "AIDJADDCHFC": 3044237172,
+        "condID": 50500106,
+        "watcherList": [
+            15050016,
+            15050017,
+            15050018
+        ],
+        "avatarID": 10000002,
+        "pointID": 30074,
+        "GJPJODKEBLG": 2,
+        "IDCILEFEPCI": 1
+    },
+    {
+        "musicID": 7,
+        "musicTime": 96,
+        "levelId": [
+            19,
+            20,
+            21
+        ],
+        "musicNameTextMapHash": 1863780225,
+        "musicDescTextMapHash": 3403246553,
+        "ABLMMJNNOCK": 1614871457,
+        "AIDJADDCHFC": 3453372556,
+        "condID": 50500107,
+        "watcherList": [
+            15050019,
+            15050020,
+            15050021
+        ],
+        "avatarID": 10000052,
+        "pointID": 30075,
+        "GJPJODKEBLG": 2,
+        "IDCILEFEPCI": 2
     }
 ]

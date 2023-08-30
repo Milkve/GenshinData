@@ -1,0 +1,539 @@
+[
+    {
+        "titleTextMapHash": 2110775825,
+        "unlockTipsTextMapHash": 1746910592,
+        "FOMLKDJFIGL": 3667553675,
+        "GEHCGGBAEHF": 1663059811,
+        "dscTextMapHash": 3254084614,
+        "mapIconPathHashSuffix": 525422913,
+        "mapSmallIconPathHashPre": 148,
+        "mapIconPathHashPre": 3583493446,
+        "mapSmallIconPathHashSuffix": 86,
+        "sceneId": 3,
+        "groupId": 133004471,
+        "transportPointList": [
+            471007,
+            471008,
+            471009,
+            471010
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7001,
+        "id": 1001001,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 3
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 2644338297,
+        "unlockTipsTextMapHash": 1678284872,
+        "FOMLKDJFIGL": 3211278291,
+        "GEHCGGBAEHF": 3318771643,
+        "dscTextMapHash": 2247389062,
+        "mapIconPathHashSuffix": 2924018265,
+        "mapSmallIconPathHashPre": 79,
+        "mapIconPathHashPre": 4090061346,
+        "mapSmallIconPathHashSuffix": 88,
+        "sceneId": 3,
+        "groupId": 133004004,
+        "transportPointList": [
+            4064,
+            4065,
+            4066,
+            4067
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7002,
+        "id": 1001002,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 3
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 4055511529,
+        "unlockTipsTextMapHash": 895820680,
+        "FOMLKDJFIGL": 1286010707,
+        "GEHCGGBAEHF": 2131532739,
+        "dscTextMapHash": 1500734062,
+        "mapIconPathHashSuffix": 3124092035,
+        "mapSmallIconPathHashPre": 225,
+        "mapIconPathHashPre": 1365877182,
+        "mapSmallIconPathHashSuffix": 3,
+        "sceneId": 3,
+        "groupId": 133004002,
+        "transportPointList": [
+            2064,
+            2065,
+            2066,
+            2067
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7003,
+        "id": 1001003,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 5
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 620706417,
+        "unlockTipsTextMapHash": 4285541872,
+        "FOMLKDJFIGL": 1568261411,
+        "GEHCGGBAEHF": 1032136915,
+        "dscTextMapHash": 1101042798,
+        "mapIconPathHashSuffix": 3886825980,
+        "mapSmallIconPathHashPre": 187,
+        "mapIconPathHashPre": 3738277507,
+        "mapSmallIconPathHashSuffix": 60,
+        "sceneId": 3,
+        "groupId": 133004005,
+        "transportPointList": [
+            5064,
+            5065,
+            5066,
+            5067
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7004,
+        "id": 1001004,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 5
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 3399731305,
+        "unlockTipsTextMapHash": 1780790712,
+        "FOMLKDJFIGL": 3610794643,
+        "GEHCGGBAEHF": 2668391523,
+        "dscTextMapHash": 119041302,
+        "mapIconPathHashSuffix": 309827467,
+        "mapSmallIconPathHashPre": 213,
+        "mapIconPathHashPre": 53680939,
+        "mapSmallIconPathHashSuffix": 191,
+        "sceneId": 3,
+        "groupId": 133004009,
+        "transportPointList": [
+            9064,
+            9065,
+            9066,
+            9067
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7005,
+        "id": 1001005,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 10
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 1947155641,
+        "unlockTipsTextMapHash": 4290040520,
+        "FOMLKDJFIGL": 2826962723,
+        "GEHCGGBAEHF": 678539739,
+        "dscTextMapHash": 3643316982,
+        "mapIconPathHashSuffix": 2668664407,
+        "mapSmallIconPathHashPre": 117,
+        "mapIconPathHashPre": 1102498886,
+        "mapSmallIconPathHashSuffix": 201,
+        "sceneId": 3,
+        "groupId": 133102171,
+        "transportPointList": [
+            171101,
+            171102,
+            171103,
+            171104
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7015,
+        "id": 1001006,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 5
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 4212151121,
+        "unlockTipsTextMapHash": 1827100080,
+        "FOMLKDJFIGL": 3403071187,
+        "GEHCGGBAEHF": 2779918139,
+        "dscTextMapHash": 474279622,
+        "mapIconPathHashSuffix": 3852089590,
+        "mapSmallIconPathHashPre": 195,
+        "mapIconPathHashPre": 915343209,
+        "mapSmallIconPathHashSuffix": 65,
+        "sceneId": 3,
+        "groupId": 133209064,
+        "transportPointList": [
+            64072,
+            64073,
+            64074,
+            64075
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7018,
+        "id": 1001009,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_QUEST_FINISH",
+                "param": 201310
+            },
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 11
+            }
+        ]
+    },
+    {
+        "titleTextMapHash": 58564593,
+        "unlockTipsTextMapHash": 516232536,
+        "FOMLKDJFIGL": 3989235459,
+        "GEHCGGBAEHF": 3628309995,
+        "dscTextMapHash": 1807877542,
+        "mapIconPathHashSuffix": 2572812528,
+        "mapSmallIconPathHashPre": 246,
+        "mapIconPathHashPre": 2288343622,
+        "mapSmallIconPathHashSuffix": 120,
+        "sceneId": 3,
+        "groupId": 133220693,
+        "transportPointList": [
+            693072,
+            693073,
+            693074,
+            693075
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7020,
+        "id": 1001011,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_QUEST_FINISH",
+                "param": 201310
+            },
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 11
+            }
+        ]
+    },
+    {
+        "titleTextMapHash": 2170926001,
+        "unlockTipsTextMapHash": 1301362896,
+        "FOMLKDJFIGL": 289327067,
+        "GEHCGGBAEHF": 2109496243,
+        "dscTextMapHash": 438338150,
+        "mapIconPathHashSuffix": 1712004983,
+        "mapSmallIconPathHashPre": 126,
+        "mapIconPathHashPre": 825464634,
+        "mapSmallIconPathHashSuffix": 140,
+        "sceneId": 3,
+        "groupId": 133212588,
+        "transportPointList": [
+            588072,
+            588073,
+            588074,
+            588075
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7021,
+        "id": 1001012,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_QUEST_FINISH",
+                "param": 201310
+            },
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 13
+            }
+        ]
+    },
+    {
+        "titleTextMapHash": 3575871377,
+        "unlockTipsTextMapHash": 6634736,
+        "FOMLKDJFIGL": 2219891107,
+        "GEHCGGBAEHF": 2077702699,
+        "dscTextMapHash": 4176344790,
+        "mapIconPathHashSuffix": 59316876,
+        "mapSmallIconPathHashPre": 28,
+        "mapIconPathHashPre": 801947326,
+        "mapSmallIconPathHashSuffix": 195,
+        "sceneId": 3,
+        "groupId": 133213553,
+        "transportPointList": [
+            553072,
+            553073,
+            553074,
+            553075
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7022,
+        "id": 1001013,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_QUEST_FINISH",
+                "param": 201310
+            },
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 12
+            }
+        ]
+    },
+    {
+        "titleTextMapHash": 1693502681,
+        "unlockTipsTextMapHash": 196187064,
+        "FOMLKDJFIGL": 4210993947,
+        "GEHCGGBAEHF": 134518563,
+        "dscTextMapHash": 1747019494,
+        "mapIconPathHashSuffix": 656748371,
+        "mapSmallIconPathHashPre": 172,
+        "mapIconPathHashPre": 702952833,
+        "mapSmallIconPathHashSuffix": 79,
+        "sceneId": 3,
+        "groupId": 133003046,
+        "transportPointList": [
+            46072,
+            46073,
+            46074,
+            46075
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7024,
+        "id": 1001015,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 1
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 148637185,
+        "unlockTipsTextMapHash": 659665856,
+        "FOMLKDJFIGL": 4225925259,
+        "GEHCGGBAEHF": 2326509899,
+        "dscTextMapHash": 3313589278,
+        "mapIconPathHashSuffix": 1370498435,
+        "mapSmallIconPathHashPre": 188,
+        "mapIconPathHashPre": 1272691389,
+        "mapSmallIconPathHashSuffix": 124,
+        "sceneId": 3,
+        "groupId": 133104657,
+        "transportPointList": [
+            657072,
+            657073,
+            657074,
+            657075
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7028,
+        "id": 1001019,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 7
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 4059698217,
+        "unlockTipsTextMapHash": 4116166920,
+        "FOMLKDJFIGL": 2207322635,
+        "GEHCGGBAEHF": 269537971,
+        "dscTextMapHash": 2101247942,
+        "mapIconPathHashSuffix": 525422913,
+        "mapSmallIconPathHashPre": 148,
+        "mapIconPathHashPre": 3583493446,
+        "mapSmallIconPathHashSuffix": 86,
+        "sceneId": 3,
+        "groupId": 133002131,
+        "transportPointList": [
+            131073,
+            131074,
+            131075,
+            131076
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7031,
+        "id": 1001022,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 3
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 178415769,
+        "unlockTipsTextMapHash": 1391910096,
+        "FOMLKDJFIGL": 1971082435,
+        "GEHCGGBAEHF": 2541283987,
+        "dscTextMapHash": 1644504310,
+        "mapIconPathHashSuffix": 309827467,
+        "mapSmallIconPathHashPre": 213,
+        "mapIconPathHashPre": 53680939,
+        "mapSmallIconPathHashSuffix": 191,
+        "sceneId": 3,
+        "groupId": 133002134,
+        "transportPointList": [
+            134110,
+            134111,
+            134112,
+            134113
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7032,
+        "id": 1001023,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 10
+            },
+            {}
+        ]
+    },
+    {
+        "titleTextMapHash": 1894462361,
+        "unlockTipsTextMapHash": 2057228152,
+        "FOMLKDJFIGL": 468157483,
+        "GEHCGGBAEHF": 1321756355,
+        "dscTextMapHash": 4082278046,
+        "mapIconPathHashSuffix": 2924018265,
+        "mapSmallIconPathHashPre": 79,
+        "mapIconPathHashPre": 4090061346,
+        "mapSmallIconPathHashSuffix": 88,
+        "sceneId": 3,
+        "groupId": 133002097,
+        "transportPointList": [
+            97069,
+            97070,
+            97071,
+            97072
+        ],
+        "durationList": [
+            10,
+            70,
+            40,
+            240,
+            20
+        ],
+        "galleryID": 7042,
+        "id": 1001026,
+        "cond": [
+            {
+                "type": "MATCH_LIMIT_TYPE_MAP_UNLOCK",
+                "param": 3
+            },
+            {}
+        ]
+    }
+]

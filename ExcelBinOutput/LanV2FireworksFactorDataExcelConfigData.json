@@ -1,0 +1,260 @@
+[
+    {
+        "DIPNOEOPLHP": 10011,
+        "CKEMHCNALKM": [
+            44,
+            51
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_COLOR",
+        "BNBLINPMBKE": [
+            90,
+            450
+        ]
+    },
+    {
+        "DIPNOEOPLHP": 10012,
+        "CKEMHCNALKM": [
+            49,
+            56
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_SIZE",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10013,
+        "CKEMHCNALKM": [
+            23,
+            30
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10021,
+        "CKEMHCNALKM": [
+            36,
+            43
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_COLOR",
+        "BNBLINPMBKE": [
+            90,
+            450
+        ]
+    },
+    {
+        "DIPNOEOPLHP": 10022,
+        "CKEMHCNALKM": [
+            82,
+            89
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_SIZE",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10023,
+        "CKEMHCNALKM": [
+            41,
+            48
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10031,
+        "CKEMHCNALKM": [
+            46,
+            53
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_COLOR",
+        "BNBLINPMBKE": [
+            90,
+            450
+        ]
+    },
+    {
+        "DIPNOEOPLHP": 10032,
+        "CKEMHCNALKM": [
+            49,
+            56
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_SIZE",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10033,
+        "CKEMHCNALKM": [
+            61,
+            68
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10034,
+        "CKEMHCNALKM": [
+            68,
+            75
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10041,
+        "CKEMHCNALKM": [
+            66,
+            73
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_COLOR",
+        "BNBLINPMBKE": [
+            90,
+            450
+        ]
+    },
+    {
+        "DIPNOEOPLHP": 10042,
+        "CKEMHCNALKM": [
+            11,
+            18
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_SIZE",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10043,
+        "CKEMHCNALKM": [
+            93,
+            100
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10044,
+        "CKEMHCNALKM": [
+            41,
+            48
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10051,
+        "CKEMHCNALKM": [
+            49,
+            56
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_COLOR",
+        "BNBLINPMBKE": [
+            90,
+            450
+        ]
+    },
+    {
+        "DIPNOEOPLHP": 10052,
+        "CKEMHCNALKM": [
+            78,
+            85
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_SIZE",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10053,
+        "CKEMHCNALKM": [
+            41,
+            48
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10054,
+        "CKEMHCNALKM": [
+            41,
+            48
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10055,
+        "CKEMHCNALKM": [
+            66,
+            73
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10061,
+        "CKEMHCNALKM": [
+            74,
+            81
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_COLOR",
+        "BNBLINPMBKE": [
+            90,
+            450
+        ]
+    },
+    {
+        "DIPNOEOPLHP": 10062,
+        "CKEMHCNALKM": [
+            60,
+            67
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_SIZE",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10063,
+        "CKEMHCNALKM": [
+            49,
+            56
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_HEIGHT",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10064,
+        "CKEMHCNALKM": [
+            60,
+            67
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_DENSITY",
+        "BNBLINPMBKE": []
+    },
+    {
+        "DIPNOEOPLHP": 10065,
+        "CKEMHCNALKM": [
+            74,
+            81
+        ],
+        "BHLMEPEDMFK": 100,
+        "type": "FIREWORKS_REFORM_PARAM_ROTATION",
+        "BNBLINPMBKE": []
+    }
+]

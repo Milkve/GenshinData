@@ -1,0 +1,100 @@
+[
+    {
+        "id": 2,
+        "type": "HomeWorld",
+        "nameTextMapHash": 3071628724,
+        "LKGMBGLFFHM": 10,
+        "icon": "UI_MarkSwitch_Homeworld",
+        "hideBeforeUnlock": true,
+        "sceneIdList": [
+            2001,
+            2002,
+            2003
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Islands",
+        "nameTextMapHash": 2157852924,
+        "LKGMBGLFFHM": 20,
+        "icon": "UI_MarkSwitch_GoldenAppleIsles",
+        "hideBeforeUnlock": true,
+        "sceneIdList": [
+            4
+        ],
+        "PLJNNLDLDME": -335.3139953613281,
+        "FOIAKKOFLPB": -655.7260131835938
+    },
+    {
+        "id": 4,
+        "nameTextMapHash": 706446876,
+        "LKGMBGLFFHM": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "unlockByDefault": true,
+        "cityID": 1,
+        "FHPHGLPCJJO": 10,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 5,
+        "nameTextMapHash": 1982412604,
+        "LKGMBGLFFHM": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "cityID": 2,
+        "FHPHGLPCJJO": 128,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 6,
+        "nameTextMapHash": 869248244,
+        "LKGMBGLFFHM": 100,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "cityID": 3,
+        "FHPHGLPCJJO": 242,
+        "sceneIdList": [
+            3
+        ]
+    },
+    {
+        "id": 7,
+        "type": "Abyssalisle",
+        "nameTextMapHash": 1862653596,
+        "LKGMBGLFFHM": 70,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "FHPHGLPCJJO": 31,
+        "sceneIdList": [
+            5
+        ]
+    },
+    {
+        "id": 8,
+        "type": "MichiaeMatsuri",
+        "nameTextMapHash": 2887066388,
+        "LKGMBGLFFHM": 20,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "FHPHGLPCJJO": 2,
+        "sceneIdList": [
+            7
+        ]
+    },
+    {
+        "id": 9,
+        "type": "TheChasm",
+        "nameTextMapHash": 297471884,
+        "LKGMBGLFFHM": 70,
+        "icon": "UI_MarkSwitch_Bigworld",
+        "hideBeforeUnlock": true,
+        "FHPHGLPCJJO": 1,
+        "sceneIdList": [
+            6
+        ]
+    }
+]

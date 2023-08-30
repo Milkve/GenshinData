@@ -45,8 +45,8 @@ Wu Wang: Wu Er, ayúdame a buscar un restaurante donde pedir unas albóndigas de
 Wu Er: ¡Entendido!
 Wu Wang: No tan rápido. Recuerda que tienen que tener un perfecto brillo dorado. No quiero que estén quemadas bajo ningún concepto.
 Wu Er: Que no estén quemadas. Entendido, señor.
-Wu Wang: Espera. Quiero que las albóndigas tengan el tamaño perfecto, ni muy grandes, ni muy pequeñas.
-Wu Er: Ni muy grandes, ni muy pequeñas. Entendido, lo haré de inmediato.
+Wu Wang: Espera. Quiero que las albóndigas tengan el tamaño perfecto, ni muy grandes ni muy pequeñas.
+Wu Er: Ni muy grandes ni muy pequeñas. Entendido, lo haré de inmediato.
 Wu Wang: No, espera.
 Wu Er: ¿Qué más requisitos tiene? Vamos, dígalos todos de una vez.
 Wu Er: Si la comida de este restaurante no es buena, haremos lo que siempre hacemos.
@@ -80,7 +80,7 @@ Wu Wang: Vengan, muchachos, vengan. Ayúdenme a raptar a esta joven belleza y br
 Tercera escena
 (La Sra. Zhang entra en escena)
 (Aparte)
-Sra. Zhang: Distinguido público, si ya han visto más óperas de Yunjin y son todos unos expertos, seguramente ya sabrán lo que sucederá.
+Sra. Zhang: Distinguido público, si ya han visto más óperas de Yun Jin y son todos unos expertos, seguramente ya sabrán lo que sucederá.
 Sra. Zhang: No queda otra alternativa más que un enfrentamiento cara a cara.
 Sra. Zhang: Para que nazca un héroe, debe haber algo que lo impulse a actuar.
 Sra. Zhang: Como, por ejemplo, un malvado monstruo, algo que perturbe la paz de la gente o un gran cambio de era. En situaciones tan convulsas es cuando aparecen los héroes.

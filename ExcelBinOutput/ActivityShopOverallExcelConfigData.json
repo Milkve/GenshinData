@@ -1,43 +1,105 @@
 [
     {
-        "ScheduleId": 2001001,
-        "ShopType": "SHOP_TYPE_ACTIVITY_ASTER",
-        "SheetList": [
+        "scheduleId": 2001001,
+        "shopType": "SHOP_TYPE_ACTIVITY_ASTER",
+        "sheetList": [
             1,
             2
         ]
     },
     {
-        "ScheduleId": 3001001,
-        "ShopType": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE",
-        "SheetList": [
+        "scheduleId": 3001001,
+        "shopType": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE",
+        "sheetList": [
             3,
             4,
             5
         ]
     },
     {
-        "ScheduleId": 5011001,
-        "ShopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
-        "SheetList": [
-            6
-        ]
-    },
-    {
-        "ScheduleId": 2002001,
-        "ShopType": "SHOP_TYPE_ACTIVITY_SEA_LAMP",
-        "SheetList": [
+        "scheduleId": 2002001,
+        "shopType": "SHOP_TYPE_ACTIVITY_SEA_LAMP",
+        "sheetList": [
             7,
             8,
             9
         ]
     },
     {
-        "ScheduleId": 2003001,
-        "ShopType": "SHOP_TYPE_ACTIVITY_FLEUR_FAIR",
-        "SheetList": [
+        "scheduleId": 2003001,
+        "shopType": "SHOP_TYPE_ACTIVITY_FLEUR_FAIR",
+        "sheetList": [
             10,
             11
+        ]
+    },
+    {
+        "scheduleId": 2004001,
+        "shopType": "SHOP_TYPE_ACTIVITY_CHANNELLER_SLAB",
+        "sheetList": [
+            12
+        ]
+    },
+    {
+        "scheduleId": 2005001,
+        "shopType": "SHOP_TYPE_ACTIVITY_SUMMER_TIME",
+        "sheetList": [
+            13,
+            14
+        ]
+    },
+    {
+        "scheduleId": 5032001,
+        "shopType": "SHOP_TYPE_ACTIVITY_BOUNCE_CONJURING",
+        "sheetList": [
+            15
+        ]
+    },
+    {
+        "scheduleId": 5035001,
+        "shopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
+        "sheetList": [
+            6
+        ]
+    },
+    {
+        "scheduleId": 2006001,
+        "shopType": "SHOP_TYPE_ACTIVITY_BLITZ_RUSH",
+        "sheetList": [
+            16,
+            17
+        ]
+    },
+    {
+        "scheduleId": 5037001,
+        "shopType": "SHOP_TYPE_ACTIVITY_CHESS",
+        "sheetList": [
+            18
+        ]
+    },
+    {
+        "scheduleId": 2008001,
+        "shopType": "SHOP_TYPE_ACTIVITY_ROGUELIKE_DUNGEON",
+        "sheetList": [
+            19,
+            20
+        ]
+    },
+    {
+        "scheduleId": 2009001,
+        "shopType": "SHOP_TYPE_ACTIVITY_WINTER_CAMP",
+        "sheetList": [
+            21,
+            22
+        ]
+    },
+    {
+        "scheduleId": 2010001,
+        "shopType": "SHOP_TYPE_ACTIVITY_LANTERN_RITE",
+        "sheetList": [
+            23,
+            24,
+            25
         ]
     }
 ]

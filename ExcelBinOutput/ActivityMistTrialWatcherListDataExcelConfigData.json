@@ -1,0 +1,493 @@
+[
+    {
+        "Id": 1,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502201,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 1388012027,
+        "JLEJLPFDKFH": 1138911760
+    },
+    {
+        "Id": 2,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502202,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "1"
+        ],
+        "progressFormatTextMapHash": 2386555291,
+        "JLEJLPFDKFH": 4037566904
+    },
+    {
+        "Id": 3,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502205,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 4280201395,
+        "JLEJLPFDKFH": 3901054352
+    },
+    {
+        "Id": 4,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502204,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "2"
+        ],
+        "progressFormatTextMapHash": 711886659,
+        "JLEJLPFDKFH": 4107336664
+    },
+    {
+        "Id": 5,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502203,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "showParam": [
+            "999"
+        ],
+        "progressFormatTextMapHash": 1084281683,
+        "JLEJLPFDKFH": 763582552
+    },
+    {
+        "Id": 6,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502206,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2947008843,
+        "JLEJLPFDKFH": 4216307224
+    },
+    {
+        "Id": 7,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502207,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "4"
+        ],
+        "progressFormatTextMapHash": 3431518939,
+        "JLEJLPFDKFH": 3091706624
+    },
+    {
+        "Id": 8,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502209,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 724210587,
+        "JLEJLPFDKFH": 1352667672
+    },
+    {
+        "Id": 9,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502210,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2803719531,
+        "JLEJLPFDKFH": 253920776
+    },
+    {
+        "Id": 10,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502208,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "showParam": [
+            "999"
+        ],
+        "progressFormatTextMapHash": 2870813139,
+        "JLEJLPFDKFH": 2713457840
+    },
+    {
+        "Id": 11,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502211,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2358002091,
+        "JLEJLPFDKFH": 1899547016
+    },
+    {
+        "Id": 12,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502212,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "7"
+        ],
+        "progressFormatTextMapHash": 2130638195,
+        "JLEJLPFDKFH": 2015686360
+    },
+    {
+        "Id": 13,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502215,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 3784467715,
+        "JLEJLPFDKFH": 3677752384
+    },
+    {
+        "Id": 14,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502214,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 260191163,
+        "JLEJLPFDKFH": 246476240
+    },
+    {
+        "Id": 15,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502213,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "showParam": [
+            "999"
+        ],
+        "progressFormatTextMapHash": 2229289011,
+        "JLEJLPFDKFH": 4166539696
+    },
+    {
+        "Id": 16,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502216,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 4233613787,
+        "JLEJLPFDKFH": 2694261656
+    },
+    {
+        "Id": 17,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502217,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "10"
+        ],
+        "progressFormatTextMapHash": 2105344019,
+        "JLEJLPFDKFH": 3466202432
+    },
+    {
+        "Id": 18,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502220,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2258656963,
+        "JLEJLPFDKFH": 1459119104
+    },
+    {
+        "Id": 19,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502219,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "11"
+        ],
+        "progressFormatTextMapHash": 2655980555,
+        "JLEJLPFDKFH": 3410488256
+    },
+    {
+        "Id": 20,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502218,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "showParam": [
+            "999"
+        ],
+        "progressFormatTextMapHash": 1989492739,
+        "JLEJLPFDKFH": 2858786328
+    },
+    {
+        "Id": 21,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502221,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 483256795,
+        "JLEJLPFDKFH": 3435420568
+    },
+    {
+        "Id": 22,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502222,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "12"
+        ],
+        "progressFormatTextMapHash": 4112027339,
+        "JLEJLPFDKFH": 697990144
+    },
+    {
+        "Id": 23,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502225,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 1946937723,
+        "JLEJLPFDKFH": 631292736
+    },
+    {
+        "Id": 24,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502224,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "13"
+        ],
+        "progressFormatTextMapHash": 3207746451,
+        "JLEJLPFDKFH": 814850680
+    },
+    {
+        "Id": 25,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502223,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "showParam": [
+            "999"
+        ],
+        "progressFormatTextMapHash": 1373554691,
+        "JLEJLPFDKFH": 1645887744
+    },
+    {
+        "Id": 26,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502226,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2926068547,
+        "JLEJLPFDKFH": 899427848
+    },
+    {
+        "Id": 27,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502227,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "15"
+        ],
+        "progressFormatTextMapHash": 28003187,
+        "JLEJLPFDKFH": 2718120200
+    },
+    {
+        "Id": 28,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502230,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 97134331,
+        "JLEJLPFDKFH": 1852102936
+    },
+    {
+        "Id": 29,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502229,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_STAT_VALUE",
+        "showParam": [
+            "17"
+        ],
+        "progressFormatTextMapHash": 1201207971,
+        "JLEJLPFDKFH": 3099213584
+    },
+    {
+        "Id": 30,
+        "scheduleId": 5022001,
+        "challengeWatcherId": 1502228,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_CHALLENGE_LEFT_TIME",
+        "showParam": [
+            "999"
+        ],
+        "progressFormatTextMapHash": 2321295451,
+        "JLEJLPFDKFH": 2057004976
+    },
+    {
+        "Id": 31,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505401,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 305394003,
+        "JLEJLPFDKFH": 3176670904
+    },
+    {
+        "Id": 32,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505402,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 1305534707,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1125014392
+    },
+    {
+        "Id": 33,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505403,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 1385751611,
+        "JLEJLPFDKFH": 2282459768
+    },
+    {
+        "Id": 34,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505404,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2481455907,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 2499215368
+    },
+    {
+        "Id": 35,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505405,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2319136307,
+        "JLEJLPFDKFH": 2141964352
+    },
+    {
+        "Id": 36,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505406,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2569534363,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1342277720
+    },
+    {
+        "Id": 37,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505407,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 363490035,
+        "JLEJLPFDKFH": 2719562304
+    },
+    {
+        "Id": 38,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505408,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2996757395,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 3520867016
+    },
+    {
+        "Id": 39,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505409,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 1777408371,
+        "JLEJLPFDKFH": 4232710504
+    },
+    {
+        "Id": 40,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505410,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2471069491,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1913383672
+    },
+    {
+        "Id": 41,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505411,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 3400134579,
+        "JLEJLPFDKFH": 2428335056
+    },
+    {
+        "Id": 42,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505412,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2952982651,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1608664840
+    },
+    {
+        "Id": 43,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505413,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 1088441635,
+        "JLEJLPFDKFH": 2093819088
+    },
+    {
+        "Id": 44,
+        "scheduleId": 5054001,
+        "challengeWatcherId": 1505414,
+        "dungeonShowContentType": "MIST_TRIAL_SYNC_PROGRESS",
+        "showParam": [
+            ""
+        ],
+        "progressFormatTextMapHash": 2881139955,
+        "BMIAIKCJCMJ": true,
+        "JLEJLPFDKFH": 1833721416
+    }
+]

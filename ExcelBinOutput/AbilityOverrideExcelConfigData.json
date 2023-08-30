@@ -1,0 +1,7648 @@
+[
+    {
+        "id": 100001,
+        "abilityName": "Activity_Rogue_ElementAddHurt_SSR",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Rogue_ElementAddHurt_SSR",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Rogue_ElementAddHurt_SSR"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100002,
+        "abilityName": "Activity_Rogue_ElementAddHurt_SR",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Rogue_ElementAddHurt_SR_Level01",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "Rogue_ElementAddHurt_SR_Level02",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "Rogue_ElementAddHurt_SR_Level03",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Rogue_ElementAddHurt_SR_Level01",
+            "Rogue_ElementAddHurt_SR_Level02",
+            "Rogue_ElementAddHurt_SR_Level03"
+        ],
+        "KAACPJHILCD": [
+            0.10000000149011612,
+            0.20000000298023224,
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100003,
+        "abilityName": "Activity_Rogue_ElementReactionAttack_Explode",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Explode_CJB_CD",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "CJB_Damage",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Explode_CJB_CD",
+            "CJB_Damage"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100004,
+        "abilityName": "Activity_Rogue_ElementReactionAttack_Superconductor",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Explode_CJB_CD",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "CJB_Damage",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Explode_CJB_CD",
+            "CJB_Damage"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100005,
+        "abilityName": "Activity_Rogue_ElementReactionAttack_Melt",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Explode_CJB_CD",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "CJB_Damage",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Explode_CJB_CD",
+            "CJB_Damage"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100006,
+        "abilityName": "Activity_Rogue_ElementReactionAttack_Stream",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Explode_CJB_CD",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "CJB_Damage",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Explode_CJB_CD",
+            "CJB_Damage"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100007,
+        "abilityName": "Activity_Rogue_ElementReactionAttack_Shock",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Explode_CJB_CD",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "CJB_Damage",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Explode_CJB_CD",
+            "CJB_Damage"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100008,
+        "abilityName": "Activity_Rogue_AreaNoEnemyAtkSpeedUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AtkSpeed",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "EnemyCount",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AtkSpeed",
+            "EnemyCount"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224,
+            3.0
+        ]
+    },
+    {
+        "id": 100009,
+        "abilityName": "Activity_Rogue_NormalAttackDamageUp_R",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PER_NormalAttackDamageUp",
+                "LNJAEIIDNAO": 0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": "NormalAttackDamageUp_MAXLV",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PER_NormalAttackDamageUp",
+            "NormalAttackDamageUp_MAXLV"
+        ],
+        "KAACPJHILCD": [
+            0.07999999821186066,
+            2.0
+        ]
+    },
+    {
+        "id": 100010,
+        "abilityName": "Activity_Rogue_ExtraAttackDamageUp_R",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PER_ExtraAttackDamageUp",
+                "LNJAEIIDNAO": 0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": "ExtraAttackDamageUp_MAXLV",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PER_ExtraAttackDamageUp",
+            "ExtraAttackDamageUp_MAXLV"
+        ],
+        "KAACPJHILCD": [
+            0.07999999821186066,
+            2.0
+        ]
+    },
+    {
+        "id": 100011,
+        "abilityName": "Activity_Rogue_FallingAttackDamageUp_R",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PER_FallingAttackDamageUp",
+                "LNJAEIIDNAO": 0.11999999731779099
+            },
+            {
+                "ELPCOOLNPFF": "FallingAttackDamageUp_MAXLV",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PER_FallingAttackDamageUp",
+            "FallingAttackDamageUp_MAXLV"
+        ],
+        "KAACPJHILCD": [
+            0.11999999731779099,
+            2.0
+        ]
+    },
+    {
+        "id": 100012,
+        "abilityName": "Activity_Rogue_Elemental_ArtDamageUp_R",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PER_Elemental_ArtDamageUp",
+                "LNJAEIIDNAO": 0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": "Elemental_ArtDamageUp_MAXLV",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PER_Elemental_ArtDamageUp",
+            "Elemental_ArtDamageUp_MAXLV"
+        ],
+        "KAACPJHILCD": [
+            0.07999999821186066,
+            2.0
+        ]
+    },
+    {
+        "id": 100013,
+        "abilityName": "Activity_Rogue_DefenceRatio_R",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PER_DefenceRatio",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "DefenceRatio_MAXLV",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PER_DefenceRatio",
+            "DefenceRatio_MAXLV"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            2.0
+        ]
+    },
+    {
+        "id": 100015,
+        "abilityName": "Activity_Rogue_HighHp_DamageUp_SR",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HighHp_Threshold",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "HighHp_NormalExtraFallingDamageUp_Rate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "HighHp_ElementalArtDamageUp_Rate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "HighHp_ElementalBurstDamageUp_Rate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HighHp_Threshold",
+            "HighHp_NormalExtraFallingDamageUp_Rate",
+            "HighHp_ElementalArtDamageUp_Rate",
+            "HighHp_ElementalBurstDamageUp_Rate"
+        ],
+        "KAACPJHILCD": [
+            0.699999988079071,
+            0.10000000149011612,
+            0.10000000149011612,
+            0.10000000149011612
+        ]
+    },
+    {
+        "id": 100016,
+        "abilityName": "Activity_Rogue_LowHp_DamageUp_SR",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "LowHp_Threshold",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "LowHp_NormalExtraFallingDamageUp_Rate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "LowHp_ElementalArtDamageUp_Rate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "LowHp_ElementalBurstDamageUp_Rate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "LowHp_Threshold",
+            "LowHp_NormalExtraFallingDamageUp_Rate",
+            "LowHp_ElementalArtDamageUp_Rate",
+            "LowHp_ElementalBurstDamageUp_Rate"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            0.10000000149011612,
+            0.10000000149011612,
+            0.10000000149011612
+        ]
+    },
+    {
+        "id": 100017,
+        "abilityName": "Activity_Rogue_DamageUp_SubHurtDown_SR",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SubHurtDown_Rate",
+                "LNJAEIIDNAO": -0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "DamageUp_Rate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SubHurtDown_Rate",
+            "DamageUp_Rate"
+        ],
+        "KAACPJHILCD": [
+            -0.10000000149011612,
+            0.15000000596046448
+        ]
+    },
+    {
+        "id": 100018,
+        "abilityName": "Activity_Rogue_OtherNumerical_R",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "NormalAttack_MAXLV"
+            },
+            {
+                "ELPCOOLNPFF": "PER_NormalAttack"
+            },
+            {
+                "ELPCOOLNPFF": "NormalAttack_LV"
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "NormalAttack_MAXLV",
+            "PER_NormalAttack",
+            "NormalAttack_LV"
+        ],
+        "KAACPJHILCD": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    {
+        "id": 100019,
+        "abilityName": "LevelEntityTowerBuff_HighEnergyAtkUp_Multiple",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ThinkTime",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "MoreEnergyRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "LessEnergyRatio",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "Actor_AttackRatio",
+                "LNJAEIIDNAO": 0.06499999761581421
+            },
+            {
+                "ELPCOOLNPFF": "MaxLayer",
+                "LNJAEIIDNAO": 10.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ThinkTime",
+            "MoreEnergyRatio",
+            "LessEnergyRatio",
+            "Actor_AttackRatio",
+            "MaxLayer",
+            "MaxLayer",
+            "MaxLayer"
+        ],
+        "KAACPJHILCD": [
+            1.0,
+            0.5,
+            0.30000001192092896,
+            0.06499999761581421,
+            10.0,
+            10.0,
+            10.0
+        ]
+    },
+    {
+        "id": 100021,
+        "abilityName": "LevelEntityTowerBuff_HighEnergyTriggerAoe",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CJB_MoreEnergyRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "Damage01",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage02",
+                "LNJAEIIDNAO": 8.329999923706055
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CJB_MoreEnergyRatio",
+            "Damage01",
+            "Damage02"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            5.0,
+            8.329999923706055
+        ]
+    },
+    {
+        "id": 100022,
+        "abilityName": "LevelEntity_ElementAddHurt_Water_V22",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElementAddHurt_Water",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElementAddHurt_Water"
+        ],
+        "KAACPJHILCD": [
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100023,
+        "abilityName": "Activity_Rogue_ElemnentalArt_GenerateBall",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Rougue_GenerateBall_CD",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Rougue_GenerateBall_CD"
+        ],
+        "KAACPJHILCD": [
+            4.0
+        ]
+    },
+    {
+        "id": 100024,
+        "abilityName": "Activity_Rogue_ElementAddHurt_R",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PER_ElementAddHurt",
+                "LNJAEIIDNAO": 0.019999999552965164
+            },
+            {
+                "ELPCOOLNPFF": "ElementAddHurt_MAXLV_R",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PER_ElementAddHurt",
+            "ElementAddHurt_MAXLV_R"
+        ],
+        "KAACPJHILCD": [
+            0.019999999552965164,
+            10.0
+        ]
+    },
+    {
+        "id": 100025,
+        "abilityName": "Activity_Rogue_HighStaminaAreaAttack_SR",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "StaminaRatio",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "CJB_Damage",
+                "LNJAEIIDNAO": 8.399999618530273
+            },
+            {
+                "ELPCOOLNPFF": "Rougue_HighStamina_CD",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "StaminaRatio",
+            "CJB_Damage",
+            "Rougue_HighStamina_CD"
+        ],
+        "KAACPJHILCD": [
+            0.699999988079071,
+            8.399999618530273,
+            5.0
+        ]
+    },
+    {
+        "id": 100026,
+        "abilityName": "Activity_Rogue_DownPhysicalSubHurt_SR",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Bufftime",
+                "LNJAEIIDNAO": 12.0
+            },
+            {
+                "ELPCOOLNPFF": "PhysicalSubHurt",
+                "LNJAEIIDNAO": -0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Bufftime",
+            "PhysicalSubHurt"
+        ],
+        "KAACPJHILCD": [
+            12.0,
+            -0.20000000298023224
+        ]
+    },
+    {
+        "id": 100030,
+        "abilityName": "ActivityAbility_MistTrial_Level_1",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv1",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv2",
+                "LNJAEIIDNAO": 0.800000011920929
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv3",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv4",
+                "LNJAEIIDNAO": 1.2000000476837158
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage_Ratio_Lv1",
+            "Damage_Ratio_Lv2",
+            "Damage_Ratio_Lv3",
+            "Damage_Ratio_Lv4"
+        ],
+        "KAACPJHILCD": [
+            0.6000000238418579,
+            0.800000011920929,
+            1.0,
+            1.2000000476837158
+        ]
+    },
+    {
+        "id": 100031,
+        "abilityName": "ActivityAbility_MistTrial_Level_2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv1",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv2",
+                "LNJAEIIDNAO": 1.5
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv3",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv4",
+                "LNJAEIIDNAO": 2.5
+            },
+            {
+                "ELPCOOLNPFF": "CD_Interval",
+                "LNJAEIIDNAO": 3.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage_Ratio_Lv1",
+            "Damage_Ratio_Lv2",
+            "Damage_Ratio_Lv3",
+            "Damage_Ratio_Lv4",
+            "CD_Interval",
+            "CD_Minus",
+            "Energy"
+        ],
+        "KAACPJHILCD": [
+            1.0,
+            1.5,
+            2.0,
+            2.5,
+            3.0,
+            1.0,
+            4.0
+        ]
+    },
+    {
+        "id": 100032,
+        "abilityName": "ActivityAbility_MistTrial_Level_3",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv1",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv2",
+                "LNJAEIIDNAO": 13.300000190734863
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv3",
+                "LNJAEIIDNAO": 16.700000762939453
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv4",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": "CD_Interval",
+                "LNJAEIIDNAO": 3.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage_Ratio_Lv1",
+            "Damage_Ratio_Lv2",
+            "Damage_Ratio_Lv3",
+            "Damage_Ratio_Lv4",
+            "CD_Interval"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            13.300000190734863,
+            16.700000762939453,
+            20.0,
+            3.0
+        ]
+    },
+    {
+        "id": 100033,
+        "abilityName": "ActivityAbility_MistTrial_Level_4",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv1",
+                "LNJAEIIDNAO": 0.23999999463558197
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv2",
+                "LNJAEIIDNAO": 0.36000001430511475
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv3",
+                "LNJAEIIDNAO": 0.47999998927116394
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv4",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 8.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage_Ratio_Lv1",
+            "Damage_Ratio_Lv2",
+            "Damage_Ratio_Lv3",
+            "Damage_Ratio_Lv4",
+            "Duration"
+        ],
+        "KAACPJHILCD": [
+            0.23999999463558197,
+            0.36000001430511475,
+            0.47999998927116394,
+            0.6000000238418579,
+            8.0
+        ]
+    },
+    {
+        "id": 100034,
+        "abilityName": "ActivityAbility_MistTrial_Level_5",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv1",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv2",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv3",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv4",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "AttackSpeed_Ratio",
+                "LNJAEIIDNAO": 0.20000000298023224
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage_Ratio_Lv1",
+            "Damage_Ratio_Lv2",
+            "Damage_Ratio_Lv3",
+            "Damage_Ratio_Lv4",
+            "AttackSpeed_Ratio",
+            "MoveSpeed_Ratio"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            0.20000000298023224,
+            0.25,
+            0.30000001192092896,
+            0.20000000298023224,
+            0.10000000149011612
+        ]
+    },
+    {
+        "id": 100035,
+        "abilityName": "ActivityAbility_MistTrial_Level_6",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv1",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv2",
+                "LNJAEIIDNAO": 1.350000023841858
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv3",
+                "LNJAEIIDNAO": 1.7000000476837158
+            },
+            {
+                "ELPCOOLNPFF": "Damage_Ratio_Lv4",
+                "LNJAEIIDNAO": 2.049999952316284
+            },
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 8.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage_Ratio_Lv1",
+            "Damage_Ratio_Lv2",
+            "Damage_Ratio_Lv3",
+            "Damage_Ratio_Lv4",
+            "Duration"
+        ],
+        "KAACPJHILCD": [
+            1.0,
+            1.350000023841858,
+            1.7000000476837158,
+            2.049999952316284,
+            8.0
+        ]
+    },
+    {
+        "id": 100036,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_ShieldCostMinusDown",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ShieldCostMinusRatio",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ShieldCostMinusRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.5
+        ]
+    },
+    {
+        "id": 100037,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_MoveSpeedDown",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "MoveSpeedRatio",
+                "LNJAEIIDNAO": -0.11999999731779099
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "MoveSpeedRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.11999999731779099
+        ]
+    },
+    {
+        "id": 100038,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_DashStaminaUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CostStaminaRatio",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CostStaminaRatio"
+        ],
+        "KAACPJHILCD": [
+            1.0
+        ]
+    },
+    {
+        "id": 100039,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_SkillCDIncrement",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SkillCDMinusRatio",
+                "LNJAEIIDNAO": -1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SkillCDMinusRatio"
+        ],
+        "KAACPJHILCD": [
+            -1.0
+        ]
+    },
+    {
+        "id": 100040,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_RecoverStaminaRatioDown",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "RecoverStaminaRatio",
+                "LNJAEIIDNAO": -0.3499999940395355
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "RecoverStaminaRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.3499999940395355
+        ]
+    },
+    {
+        "id": 100041,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_NoShieldAtkDown",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackRatio",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.5
+        ]
+    },
+    {
+        "id": 100042,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Team_AtkDownLowHP",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HpRate_P1",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "AtkRate_P2",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HpRate_P1",
+            "AtkRate_P2"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            -0.5
+        ]
+    },
+    {
+        "id": 100043,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Team_SpeedDownLowHP",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HpRate_P1",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "MoveSpeedRatio_P2",
+                "LNJAEIIDNAO": -0.18000000715255737
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HpRate_P1",
+            "MoveSpeedRatio_P2"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            -0.18000000715255737
+        ]
+    },
+    {
+        "id": 100044,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_SprintBeHurtDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "SubHurtDelta",
+                "LNJAEIIDNAO": -0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Duration",
+            "SubHurtDelta"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            -0.4000000059604645
+        ]
+    },
+    {
+        "id": 100045,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Team_BeHurtDamageUpAfterChangeAvatar",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "EnergyDisk_BeHurtSubHurt",
+                "LNJAEIIDNAO": -0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "BuffMaxCount",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 30.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "EnergyDisk_BeHurtSubHurt",
+            "BuffMaxCount",
+            "Duration"
+        ],
+        "KAACPJHILCD": [
+            -0.15000000596046448,
+            4.0,
+            30.0
+        ]
+    },
+    {
+        "id": 100046,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Team_BeHurtDamageUpAfterULT",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "EnergyDisk_BeHurtSubHurt",
+                "LNJAEIIDNAO": -0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "BuffMaxCount",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 30.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "EnergyDisk_BeHurtSubHurt",
+            "BuffMaxCount",
+            "Duration"
+        ],
+        "KAACPJHILCD": [
+            -0.15000000596046448,
+            4.0,
+            30.0
+        ]
+    },
+    {
+        "id": 100047,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Team_AtkDownLowHP_TwoStages",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HpRate_P1",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "DmgRate_P3",
+                "LNJAEIIDNAO": -0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "HpRate_P2",
+                "LNJAEIIDNAO": 0.3499999940395355
+            },
+            {
+                "ELPCOOLNPFF": "DmgRate_P4",
+                "LNJAEIIDNAO": -0.800000011920929
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HpRate_P1",
+            "DmgRate_P3",
+            "HpRate_P2",
+            "DmgRate_P4"
+        ],
+        "KAACPJHILCD": [
+            0.699999988079071,
+            -0.4000000059604645,
+            0.3499999940395355,
+            -0.800000011920929
+        ]
+    },
+    {
+        "id": 100048,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Avatar_ChargeEfficiencyDelta",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ChargeEfficiencyDelta",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ChargeEfficiencyDelta"
+        ],
+        "KAACPJHILCD": [
+            -0.5
+        ]
+    },
+    {
+        "id": 100050,
+        "abilityName": "LevelEntityTowerBuff_PickUpCrystal_OnTeam",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Hurt_Ratio",
+                "LNJAEIIDNAO": 0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "CJB_DamageRatio",
+                "LNJAEIIDNAO": 3.740000009536743
+            },
+            {
+                "ELPCOOLNPFF": "CJB_Interval",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Hurt_Ratio",
+            "Duration",
+            "CJB_DamageRatio",
+            "CJB_Interval"
+        ],
+        "KAACPJHILCD": [
+            0.07999999821186066,
+            10.0,
+            3.740000009536743,
+            3.0
+        ]
+    },
+    {
+        "id": 100051,
+        "abilityName": "LevelEntityTowerBuff_DoElementDamage_OnTeam",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElementDamage_Ratio_Per",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "Buff_MaxLevel",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "Add_Interval",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElementDamage_Ratio_Per",
+            "Buff_MaxLevel",
+            "Add_Interval"
+        ],
+        "KAACPJHILCD": [
+            0.10000000149011612,
+            10.0,
+            3.0
+        ]
+    },
+    {
+        "id": 100052,
+        "abilityName": "LevelEntityTowerBuff_RockGadgetUp_OnAvatar",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage_Ratio",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "StaminaCost_Ratio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage_Ratio",
+            "StaminaCost_Ratio"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896,
+            0.5
+        ]
+    },
+    {
+        "id": 100053,
+        "abilityName": "ActivityAbility_EnergyDisk_Purple_HealthyDamage_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageLow",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "DamageHigh",
+                "LNJAEIIDNAO": 30.0
+            },
+            {
+                "ELPCOOLNPFF": "CDTime",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageLow",
+            "DamageHigh",
+            "CDTime"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            30.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100054,
+        "abilityName": "ActivityAbility_EnergyDisk_Purple_Berserker_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Rate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "AttackSpeed_Rate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "ReviveTime",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Rate",
+            "AttackSpeed_Rate",
+            "ReviveTime"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            0.15000000596046448,
+            10.0
+        ]
+    },
+    {
+        "id": 100055,
+        "abilityName": "ActivityAbility_EnergyDisk_Purple_PickupTriggerAOE_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageRate",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": "CDTime",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": "RockAddHurt",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "Bufftime",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageRate",
+            "CDTime",
+            "RockAddHurt",
+            "Bufftime"
+        ],
+        "KAACPJHILCD": [
+            5.0,
+            5.0,
+            0.4000000059604645,
+            10.0
+        ]
+    },
+    {
+        "id": 100056,
+        "abilityName": "ActivityAbility_EnergyDisk_Purple_ElementBurst_Count3Wave_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Bufftime",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": "Delta",
+                "LNJAEIIDNAO": 100.0
+            },
+            {
+                "ELPCOOLNPFF": "ElementBurst_Wave_Damage",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Bufftime",
+            "Delta",
+            "ElementBurst_Wave_Damage"
+        ],
+        "KAACPJHILCD": [
+            20.0,
+            100.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100057,
+        "abilityName": "ActivityAbility_EnergyDisk_Purple_ElementBurstTriggerWave_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Purple_Damage",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "CDTime",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Purple_Damage",
+            "CDTime"
+        ],
+        "KAACPJHILCD": [
+            6.0,
+            2.0
+        ]
+    },
+    {
+        "id": 100058,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_ElementDmgUpAfterCrystalShield_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "time",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "Rate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "time",
+            "Rate"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100059,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_ElementBurst_NormalAtkUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "time",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": "Rate",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "time",
+            "Rate"
+        ],
+        "KAACPJHILCD": [
+            20.0,
+            0.4000000059604645
+        ]
+    },
+    {
+        "id": 100060,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_HasShield_NormalAtkUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Bufftime",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "Rate",
+                "LNJAEIIDNAO": 0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Bufftime",
+            "Rate"
+        ],
+        "KAACPJHILCD": [
+            8.0,
+            0.07999999821186066
+        ]
+    },
+    {
+        "id": 100061,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_ExtraAtkKill_Attract_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CDTime",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CDTime"
+        ],
+        "KAACPJHILCD": [
+            2.0
+        ]
+    },
+    {
+        "id": 100062,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_MonsterNumAtkDefUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Atk",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "Def",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Atk",
+            "Def"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224,
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 100063,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_ExtraAtkKillMonster_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CDTime",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "Damage",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CDTime",
+            "HPRatio",
+            "Damage"
+        ],
+        "KAACPJHILCD": [
+            10.0,
+            0.5,
+            20.0
+        ]
+    },
+    {
+        "id": 100064,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_BuffAfterCrystalShield_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CDtime",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CDtime"
+        ],
+        "KAACPJHILCD": [
+            2.0
+        ]
+    },
+    {
+        "id": 100065,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_KillAOEMonster_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [],
+        "KAACPJHILCD": []
+    },
+    {
+        "id": 100066,
+        "abilityName": "ActivityAbility_EnergyDisk_Green_PhysicalHurtUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "EnergyDisk_PhysicalAddHurtDelta",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "EnergyDisk_PhysicalAddHurtDelta"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100067,
+        "abilityName": "ActivityAbility_EnergyDisk_Green_BurstDamageUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Burst_Rate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Burst_Rate"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100068,
+        "abilityName": "ActivityAbility_EnergyDisk_Green_ElemMasteryDeltaUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "EnergyDisk_ElemMasteryDelta",
+                "LNJAEIIDNAO": 100.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "EnergyDisk_ElemMasteryDelta"
+        ],
+        "KAACPJHILCD": [
+            100.0
+        ]
+    },
+    {
+        "id": 100069,
+        "abilityName": "ActivityAbility_EnergyDisk_Green_DefUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Actor_ShieldCostMinusRatio",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Actor_ShieldCostMinusRatio"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645
+        ]
+    },
+    {
+        "id": 100070,
+        "abilityName": "ActivityAbility_EnergyDisk_Green_ExtraAtkUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "NormalAttack_Rate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "NormalAttack_Rate"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100071,
+        "abilityName": "ActivityAbility_EnergyDisk_Green_ThumpDamageUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "EnergyDisk_ExtraAtk_damRatio",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "EnergyDisk_ExtraAtk_damRatio"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100072,
+        "abilityName": "ActivityAbility_EnergyDisk_Purple_BurstDamageUp_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Bufftime",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "BurstDamageUp",
+                "LNJAEIIDNAO": 0.11999999731779099
+            },
+            {
+                "ELPCOOLNPFF": "AttackSpeed_Ratio",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Bufftime",
+            "BurstDamageUp",
+            "AttackSpeed_Ratio"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            0.11999999731779099,
+            0.15000000596046448
+        ]
+    },
+    {
+        "id": 100073,
+        "abilityName": "ActivityAbility_EnergyDisk_Blue_ShockCdMinus_V2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CD_Minus",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "CD_Interval",
+                "LNJAEIIDNAO": 1.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CD_Minus",
+            "CD_Interval"
+        ],
+        "KAACPJHILCD": [
+            1.0,
+            1.5
+        ]
+    },
+    {
+        "id": 100074,
+        "abilityName": "ActivityAbility_Potion_ThumDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ThumDamageUpRate",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ThumDamageUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 100075,
+        "abilityName": "ActivityAbility_Potion_NormalAttackUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "NormalAttackUpRate",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "NormalAttackUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 100076,
+        "abilityName": "ActivityAbility_Potion_ElementalBurstDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElementalBurstDamageUpRate",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElementalBurstDamageUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 100077,
+        "abilityName": "ActivityAbility_Potion_ElemMasteryDeltaUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElemMasteryDelta",
+                "LNJAEIIDNAO": 120.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElemMasteryDelta"
+        ],
+        "KAACPJHILCD": [
+            120.0
+        ]
+    },
+    {
+        "id": 100078,
+        "abilityName": "ActivityAbility_Potion_DefenceUp_Team",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DefenceUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DefenceUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 100079,
+        "abilityName": "ActivityAbility_Potion_ThumpCostReduce",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ThumpCostReduceRate",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ThumpCostReduceRate"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 100080,
+        "abilityName": "ActivityAbility_Potion_DashStaminaReduce",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DashStaminaReduceRate",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DashStaminaReduceRate"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 100081,
+        "abilityName": "ActivityAbility_Potion_ExtraAttackAtkUpAfterUseUltimateSkill",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ThumDamageUpRate",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "NormalAttackUpRate",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "FallingAttackUpRate",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "ExtraAttackAtkUpDuration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ThumDamageUpRate",
+            "NormalAttackUpRate",
+            "FallingAttackUpRate",
+            "ExtraAttackAtkUpDuration"
+        ],
+        "KAACPJHILCD": [
+            0.25,
+            0.25,
+            0.25,
+            15.0
+        ]
+    },
+    {
+        "id": 100082,
+        "abilityName": "ActivityAbility_Potion_SwirlIncreaseTeamAtk",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AtkUpRate",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpRateDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AtkUpRate",
+            "AtkUpRateDuration"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224,
+            8.0
+        ]
+    },
+    {
+        "id": 100083,
+        "abilityName": "ActivityAbility_Potion_ElemnentalArt_GenerateBall",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "GenerateBall_CD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "GenerateBall_CD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100084,
+        "abilityName": "ActivityAbility_Potion_DamageUp_SubHurtDown",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageUpRate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "SubHurtDownRate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageUpRate",
+            "SubHurtDownRate"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896,
+            0.15000000596046448
+        ]
+    },
+    {
+        "id": 100085,
+        "abilityName": "ActivityAbility_Potion_Purple_After_Steam_Melt",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PurpleDamageValue",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": "GenerateCDTime",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PurpleDamageValue",
+            "GenerateCDTime"
+        ],
+        "KAACPJHILCD": [
+            5.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100086,
+        "abilityName": "ActivityAbility_Potion_AttackFrozenEnemy_IncreaseDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageUpRate",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.25
+        ]
+    },
+    {
+        "id": 100087,
+        "abilityName": "ActivityAbility_Potion_ContinuousNormalAtk_PhysicalDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "PhysicalDamageUpRate",
+                "LNJAEIIDNAO": 0.05999999865889549
+            },
+            {
+                "ELPCOOLNPFF": "DamageUpDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "MaxBuffLevel",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "PhysicalDamageUpRate",
+            "DamageUpDuration",
+            "MaxBuffLevel"
+        ],
+        "KAACPJHILCD": [
+            0.05999999865889549,
+            8.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100088,
+        "abilityName": "ActivityAbility_Potion_SkillCDMinusRatioUp_AfterSkill",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SkillCDMinusRatioUp",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "DecreaseCDDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "DecreaseCD_CD",
+                "LNJAEIIDNAO": 16.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SkillCDMinusRatioUp",
+            "DecreaseCDDuration",
+            "DecreaseCD_CD"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            8.0,
+            16.0
+        ]
+    },
+    {
+        "id": 100089,
+        "abilityName": "ActivityAbility_Potion_ContinuousNormalAtk_HealEffectUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HealEffectUpRate",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HealEffectUpRate"
+        ],
+        "KAACPJHILCD": [
+            1.0
+        ]
+    },
+    {
+        "id": 100090,
+        "abilityName": "ActivityAbility_Potion_HealAttackUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackUpRate",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "AttackUpDuration",
+                "LNJAEIIDNAO": 12.0
+            },
+            {
+                "ELPCOOLNPFF": "AttackUpMaxLevel",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackUpRate",
+            "AttackUpDuration",
+            "AttackUpMaxLevel"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224,
+            12.0,
+            3.0
+        ]
+    },
+    {
+        "id": 100091,
+        "abilityName": "ActivityAbility_Potion_HightHP_IncreaseDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TargetHPRatio",
+                "LNJAEIIDNAO": 0.800000011920929
+            },
+            {
+                "ELPCOOLNPFF": "DamageUpRate",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TargetHPRatio",
+            "DamageUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.800000011920929,
+            0.5
+        ]
+    },
+    {
+        "id": 100092,
+        "abilityName": "ActivityAbility_Potion_ATKSpeedUp_AfterDash",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ATKSpeedUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "ATKSpeedUpDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ATKSpeedUpRatio",
+            "ATKSpeedUpDuration"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            8.0
+        ]
+    },
+    {
+        "id": 100093,
+        "abilityName": "ActivityAbility_Potion_UltimateSkill_UltimateSkillDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpRate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "MaxLevel",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "UltimateSkillDamageUpRate",
+            "UltimateSkillDamageUpDuration",
+            "MaxLevel"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            8.0,
+            3.0
+        ]
+    },
+    {
+        "id": 100094,
+        "abilityName": "ActivityAbility_Potion_HitTheTarget_GenerateBall_AfterUltimateSkill",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "GenerateBallDuration",
+                "LNJAEIIDNAO": 12.0
+            },
+            {
+                "ELPCOOLNPFF": "GenerateBallCD",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "GenerateBallDuration",
+            "GenerateBallCD"
+        ],
+        "KAACPJHILCD": [
+            12.0,
+            2.0
+        ]
+    },
+    {
+        "id": 100095,
+        "abilityName": "ActivityAbility_Potion_LowEnergy_ChargeEfficiencyUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TargetEnergyRatio",
+                "LNJAEIIDNAO": 0.75
+            },
+            {
+                "ELPCOOLNPFF": "ChargeEfficiencyUpRate",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TargetEnergyRatio",
+            "ChargeEfficiencyUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.75,
+            1.0
+        ]
+    },
+    {
+        "id": 100096,
+        "abilityName": "ActivityAbility_Potion_AtkUp_OnAvatarIn",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AtkUpRate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpDuration",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpMaxLevel",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AtkUpRate",
+            "AtkUpDuration",
+            "AtkUpMaxLevel"
+        ],
+        "KAACPJHILCD": [
+            0.10000000149011612,
+            10.0,
+            4.0
+        ]
+    },
+    {
+        "id": 100097,
+        "abilityName": "ActivityAbility_Potion_AtkUp_DefUp_Crystallize",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AtkUpRate",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "DefUpRate",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "AtkUp_DefUpDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AtkUpRate",
+            "DefUpRate",
+            "AtkUp_DefUpDuration"
+        ],
+        "KAACPJHILCD": [
+            0.25,
+            0.4000000059604645,
+            8.0
+        ]
+    },
+    {
+        "id": 100098,
+        "abilityName": "ActivityAbility_Potion_RockGadgetNearAvatar_ThumDamageUp_ThumpCostReduce",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ThumDamageUpRate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "ThumpCostReduceRate",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ThumDamageUpRate",
+            "ThumpCostReduceRate"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896,
+            0.5
+        ]
+    },
+    {
+        "id": 100099,
+        "abilityName": "ActivityAbility_Potion_GainCrystalSeed_AllElementalDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AllElementalDamageUpRate",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "AllElementalDamageUpDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AllElementalDamageUpRate",
+            "AllElementalDamageUpDuration"
+        ],
+        "KAACPJHILCD": [
+            0.25,
+            8.0
+        ]
+    },
+    {
+        "id": 100100,
+        "abilityName": "ActivityAbility_Potion_LevelBuff_Level1",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AtkUpRate",
+                "LNJAEIIDNAO": 0.05000000074505806
+            },
+            {
+                "ELPCOOLNPFF": "DefUpRate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "MaxLevel",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "ExtraEffLevel",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "ChargeEffUpRate",
+                "LNJAEIIDNAO": 0.5
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AtkUpRate",
+            "DefUpRate",
+            "MaxLevel",
+            "ExtraEffLevel",
+            "ChargeEffUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.05000000074505806,
+            0.10000000149011612,
+            6.0,
+            3.0,
+            0.5
+        ]
+    },
+    {
+        "id": 100101,
+        "abilityName": "ActivityAbility_Potion_LevelEntity_LevelBuff_Level2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageUpRate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "PickUpCrystalLevelDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "MaxPickUpCrystalLevel",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "ImpactCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "DamageCoefficient",
+                "LNJAEIIDNAO": 5.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageUpRate",
+            "PickUpCrystalLevelDuration",
+            "MaxPickUpCrystalLevel",
+            "ImpactCD",
+            "DamageCoefficient"
+        ],
+        "KAACPJHILCD": [
+            0.10000000149011612,
+            8.0,
+            3.0,
+            3.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100102,
+        "abilityName": "ActivityAbility_Potion_DeathRattle_Corruption_LogicGadget",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "LoseHP_Amount",
+                "LNJAEIIDNAO": 100.0
+            },
+            {
+                "ELPCOOLNPFF": "LoseHP_AmountRatio",
+                "LNJAEIIDNAO": 0.009999999776482582
+            },
+            {
+                "ELPCOOLNPFF": "LoseHPBuff_duration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "Backstage_HPRatio",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "LoseHP_Amount",
+            "LoseHP_AmountRatio",
+            "LoseHPBuff_duration",
+            "Backstage_HPRatio"
+        ],
+        "KAACPJHILCD": [
+            100.0,
+            0.009999999776482582,
+            8.0,
+            0.15000000596046448
+        ]
+    },
+    {
+        "id": 100103,
+        "abilityName": "ActivityAbility_Potion_GainCrystalSeed_GenerateImpact",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ImpactDamageCoefficient",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": "RockHurtUpRate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "RockHurtUpDuration",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "BuffCD",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ImpactDamageCoefficient",
+            "RockHurtUpRate",
+            "RockHurtUpDuration",
+            "BuffCD"
+        ],
+        "KAACPJHILCD": [
+            5.0,
+            0.30000001192092896,
+            10.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100104,
+        "abilityName": "ActivityAbility_Potion_Explode_Superconductor_Shock_IncreaseDmg",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageUpRate",
+                "LNJAEIIDNAO": 0.07500000298023224
+            },
+            {
+                "ELPCOOLNPFF": "DmgUpRateDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "DmgUpMaxLevel",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageUpRate",
+            "DmgUpRateDuration",
+            "DmgUpMaxLevel"
+        ],
+        "KAACPJHILCD": [
+            0.07500000298023224,
+            8.0,
+            3.0
+        ]
+    },
+    {
+        "id": 100105,
+        "abilityName": "LevelEntity_TowerBuff_NormalAttackUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "NormalAtk_Ratio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "NormalAtk_Ratio"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 100106,
+        "abilityName": "LevelEntity_TowerBuff_NormalExFallSustainAttackUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "BuffTime",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "BuffMaxLevel",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "BuffDamageUp",
+                "LNJAEIIDNAO": 0.05000000074505806
+            },
+            {
+                "ELPCOOLNPFF": "AtkTime",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "BuffTime",
+            "BuffMaxLevel",
+            "BuffDamageUp",
+            "AtkTime"
+        ],
+        "KAACPJHILCD": [
+            8.0,
+            15.0,
+            0.05000000074505806,
+            2.0
+        ]
+    },
+    {
+        "id": 100107,
+        "abilityName": "LevelEntity_TowerBuff_NormalAttackRandomShock",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "RandomValue",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "DamageRatio",
+                "LNJAEIIDNAO": 2.4000000953674316
+            },
+            {
+                "ELPCOOLNPFF": "DamageRadius",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "RandomValue",
+            "DamageRatio",
+            "DamageRadius",
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            2.4000000953674316,
+            3.0,
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100108,
+        "abilityName": "LevelEntity_TowerBuff_NormalExFallSustainAttackShockUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "BuffTime",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "BuffMaxLevel",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "BuffDamageUp",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "BuffDamageUpTime",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "AtkTime",
+                "LNJAEIIDNAO": 2.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "BuffTime",
+            "BuffMaxLevel",
+            "BuffDamageUp",
+            "BuffDamageUpTime",
+            "AtkTime",
+            "DamageRatio",
+            "DamageRadius"
+        ],
+        "KAACPJHILCD": [
+            8.0,
+            15.0,
+            0.25,
+            10.0,
+            2.0,
+            29.950000762939453,
+            8.0
+        ]
+    },
+    {
+        "id": 100109,
+        "abilityName": "ActivityAbility_Potion_AtkSpeedUp_MoveSpeedUp_OnKillEnemies",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AtkSpeedUpRate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "MoveSpeedUpRate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "AtkMoveSpeedUpDuration",
+                "LNJAEIIDNAO": 12.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AtkSpeedUpRate",
+            "MoveSpeedUpRate",
+            "AtkMoveSpeedUpDuration"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896,
+            0.30000001192092896,
+            12.0
+        ]
+    },
+    {
+        "id": 100110,
+        "abilityName": "ActivityAbility_Potion_ElementalDamageUp_AfterSkill",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElementalDamageUpRate",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "ElementalDamageUpDuration",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElementalDamageUpRate",
+            "ElementalDamageUpDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            10.0
+        ]
+    },
+    {
+        "id": 100111,
+        "abilityName": "ActivityAbility_Potion_RecoverEnergy_HitDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ReviveEnergyAmount",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "ReviveEnergyAmountCD",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ReviveEnergyAmount",
+            "ReviveEnergyAmountCD"
+        ],
+        "KAACPJHILCD": [
+            6.0,
+            2.0
+        ]
+    },
+    {
+        "id": 100112,
+        "abilityName": "ActivityAbility_Potion_LevelEntity_LevelBuff_QuicklyAttack",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AddBuffCD",
+                "LNJAEIIDNAO": 1.5
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpDuration",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "MaxLevel",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpRate",
+                "LNJAEIIDNAO": 0.05000000074505806
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AddBuffCD",
+            "AtkUpDuration",
+            "MaxLevel",
+            "AtkUpRate"
+        ],
+        "KAACPJHILCD": [
+            1.5,
+            6.0,
+            8.0,
+            0.05000000074505806
+        ]
+    },
+    {
+        "id": 100113,
+        "abilityName": "ActivityAbility_Potion_AddAtkUpLevelOnStage_SubAtkLevelOffStage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "OnStageInterval",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": "OneLevelAtkUpRate",
+                "LNJAEIIDNAO": 0.07500000298023224
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpMaxLevel",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "OffStageInterval",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "OnStageInterval",
+            "OneLevelAtkUpRate",
+            "AtkUpMaxLevel",
+            "OffStageInterval"
+        ],
+        "KAACPJHILCD": [
+            4.0,
+            0.07500000298023224,
+            6.0,
+            2.0
+        ]
+    },
+    {
+        "id": 100114,
+        "abilityName": "ActivityAbility_Potion_AllElementalDmgUp_AfterNormalAttack",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "OneElementalDmgUpCD",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "ElementalDmgUpDuration",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "ElementalDmgUpMaxLevel",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": "OneDmgUpRate",
+                "LNJAEIIDNAO": 0.05000000074505806
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "OneElementalDmgUpCD",
+            "ElementalDmgUpDuration",
+            "ElementalDmgUpMaxLevel",
+            "OneDmgUpRate"
+        ],
+        "KAACPJHILCD": [
+            1.0,
+            10.0,
+            4.0,
+            0.05000000074505806
+        ]
+    },
+    {
+        "id": 100115,
+        "abilityName": "ActivityAbility_MichiaeMatsuri_DefenceUp_HealthUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DefenceUpRate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "MaxHpUpRate",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DefenceUpRate",
+            "MaxHpUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896,
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 100116,
+        "abilityName": "ActivityAbility_MichiaeMatsuri_ElementalBurstDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElementalBurstDamageUpRate",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElementalBurstDamageUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.25
+        ]
+    },
+    {
+        "id": 100117,
+        "abilityName": "ActivityAbility_MichiaeMatsuri_MeleeWeaponDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "MeleeWeaponDamageUpRate",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "MeleeWeaponDamageUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100118,
+        "abilityName": "ActivityAbility_MichiaeMatsuri_RangedWeapon_AtkSpeedUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackSpeedUpRate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackSpeedUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448
+        ]
+    },
+    {
+        "id": 100119,
+        "abilityName": "ActivityAbility_MichiaeMatsuri_Explode_Superconductor_Shock_SwirlElec_DmgUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageUpRate",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageUpRate"
+        ],
+        "KAACPJHILCD": [
+            1.0
+        ]
+    },
+    {
+        "id": 100120,
+        "abilityName": "ActivityAbility_MichiaeMatsuri_StaminaCostDown_StaminaRecoverUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CostStaminaDownRate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "RecoverStaminaUpRate",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CostStaminaDownRate",
+            "RecoverStaminaUpRate"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 100121,
+        "abilityName": "ActivityAbility_MichiaeMatsuri_OnCrystalAttackLand",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SubHurtDownRate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "SubHurtDownDuration",
+                "LNJAEIIDNAO": 30.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SubHurtDownRate",
+            "SubHurtDownDuration"
+        ],
+        "KAACPJHILCD": [
+            0.10000000149011612,
+            30.0
+        ]
+    },
+    {
+        "id": 100122,
+        "abilityName": "Activity_Sumo_ArtAndBurst_DamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Enter_Duration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "ElementalArt_Up",
+                "LNJAEIIDNAO": 0.125
+            },
+            {
+                "ELPCOOLNPFF": "Buff_Duration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "CD_Interval",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "ElementalBurst_Up",
+                "LNJAEIIDNAO": 0.5
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Enter_Duration",
+            "ElementalArt_Up",
+            "Buff_Duration",
+            "CD_Interval",
+            "ElementalBurst_Up"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            0.125,
+            8.0,
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "id": 100123,
+        "abilityName": "Activity_Sumo_ExtraAttack_RandomDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Enter_Duration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Timer",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Enter_Duration",
+            "Timer",
+            "Damage"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            2.0,
+            10.0
+        ]
+    },
+    {
+        "id": 100124,
+        "abilityName": "Activity_Sumo_ReviveEnergy",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Enter_Duration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Interval",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "Energy",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "CD_Minus",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Enter_Duration",
+            "Interval",
+            "Energy",
+            "CD_Minus"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            1.0,
+            3.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100125,
+        "abilityName": "Activity_Sumo_WindZone_Gadget",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Attack_Interval",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Duration",
+            "Attack_Interval",
+            "Damage"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            1.0,
+            4.0
+        ]
+    },
+    {
+        "id": 100126,
+        "abilityName": "Activity_Sumo_WaterZone_Gadget",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Attack_Interval",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Duration",
+            "Attack_Interval",
+            "Damage"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            1.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100127,
+        "abilityName": "Activity_Sumo_Cannon",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Duration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Damage",
+                "LNJAEIIDNAO": 7.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Duration",
+            "Damage"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            7.5
+        ]
+    },
+    {
+        "id": 100128,
+        "abilityName": "Activity_Sumo_Cannon_Bullet",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Damage",
+                "LNJAEIIDNAO": 7.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Damage"
+        ],
+        "KAACPJHILCD": [
+            7.5
+        ]
+    },
+    {
+        "id": 100129,
+        "abilityName": "Activity_Sumo_ElemMasteryDelta",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElemMasteryDelta",
+                "LNJAEIIDNAO": 150.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElemMasteryDelta"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            150.0
+        ]
+    },
+    {
+        "id": 100130,
+        "abilityName": "Activity_Sumo_ElementAddHurt_Fire",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElementAddHurt_Fire",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElementAddHurt_Fire"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100131,
+        "abilityName": "Activity_Sumo_ElementAddHurt_Ice",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElementAddHurt_Ice",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElementAddHurt_Ice"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100132,
+        "abilityName": "Activity_Sumo_ElementAddHurt_Elec",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElementAddHurt_Elec",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElementAddHurt_Elec"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100133,
+        "abilityName": "Activity_Sumo_ElementAddHurt_Rock",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElementAddHurt_Rock",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElementAddHurt_Rock"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100134,
+        "abilityName": "Activity_Sumo_ElementAddHurt_Water",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElementAddHurt_Water",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElementAddHurt_Water"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100135,
+        "abilityName": "Activity_Sumo_ElementAddHurt_Wind",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElementAddHurt_Wind",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElementAddHurt_Wind"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100136,
+        "abilityName": "Activity_Sumo_PhysicalAddHurt",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_PhysicalAddHurtDelta",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_PhysicalAddHurtDelta"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100137,
+        "abilityName": "Activity_Sumo_CriticalHurtDelta",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_CriticalHurtDelta",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_CriticalHurtDelta"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100138,
+        "abilityName": "Activity_Sumo_AtkUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_AtkUp",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_AtkUp"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100139,
+        "abilityName": "Activity_Sumo_Elemental_Burst",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ElementalRate",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "Actor_SkillCDMinusRatio",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_ElementalRate",
+            "Actor_SkillCDMinusRatio"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.5,
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100140,
+        "abilityName": "Activity_Sumo_NormalAttack",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "NormalAttack_Bufftime",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_AtkSpeed",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "HealMaxHpRatio",
+                "LNJAEIIDNAO": 0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": "CDTime",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "NormalAttack_Bufftime",
+            "Sumo_AtkSpeed",
+            "HealMaxHpRatio",
+            "CDTime"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            0.5,
+            0.07999999821186066,
+            4.0
+        ]
+    },
+    {
+        "id": 100141,
+        "abilityName": "Activity_Sumo_TriggerAoe_AfterHealUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_HealUp_Damage",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_HealUp_CD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "LoseHp_Ratio",
+                "LNJAEIIDNAO": 0.004999999888241291
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_HealUp_Damage",
+            "Sumo_HealUp_CD",
+            "LoseHp_Ratio"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            15.0,
+            3.0,
+            0.004999999888241291
+        ]
+    },
+    {
+        "id": 100142,
+        "abilityName": "Activity_Sumo_GenerateBall_AfterElementalArt",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_GenerateBall_CD",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_GenerateBall_CD"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100143,
+        "abilityName": "Activity_Sumo_FallingDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "FallingDamage_Bufftime",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_FallingDamageUp",
+                "LNJAEIIDNAO": 0.8500000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "FallingDamage_Bufftime",
+            "Sumo_FallingDamageUp"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            0.8500000238418579
+        ]
+    },
+    {
+        "id": 100144,
+        "abilityName": "Activity_Sumo_ShieldBeingHitDoAttack",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Time",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_Shield_Damage",
+                "LNJAEIIDNAO": 12.0
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_Shield_Damage_CD",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Time",
+            "Sumo_Shield_Damage",
+            "Sumo_Shield_Damage_CD"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            12.0,
+            2.0
+        ]
+    },
+    {
+        "id": 100145,
+        "abilityName": "Activity_Sumo_ExtraAttack",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ExtraAttack_Bufftime",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "CostStamina_Rate",
+                "LNJAEIIDNAO": -0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_Weapon_AtkSpeed",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "Sumo_ExtraAttack_Damege",
+                "LNJAEIIDNAO": 0.6499999761581421
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ExtraAttack_Bufftime",
+            "CostStamina_Rate",
+            "Sumo_Weapon_AtkSpeed",
+            "Sumo_ExtraAttack_Damege"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            -0.30000001192092896,
+            0.30000001192092896,
+            0.6499999761581421
+        ]
+    },
+    {
+        "id": 100146,
+        "abilityName": "LevelEntity_TowerBuff_ImproveElecDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElecAddHurt",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElecAddHurt"
+        ],
+        "KAACPJHILCD": [
+            0.6000000238418579
+        ]
+    },
+    {
+        "id": 100147,
+        "abilityName": "LevelEntity_TowerBuff_ImproveHeal",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AddHeal",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AddHeal"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 100148,
+        "abilityName": "LevelEntity_TowerBuff_AvatarHitMonsterHasElec_ImpactDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "LevelEntity_ImpactDamage",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "ImpactDamageCD",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "LevelEntity_ImpactDamage",
+            "ImpactDamageCD"
+        ],
+        "KAACPJHILCD": [
+            6.0,
+            2.0
+        ]
+    },
+    {
+        "id": 100149,
+        "abilityName": "LevelEntity_TowerBuff_ElecAddHurtDelta",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElecSubHurtDelta",
+                "LNJAEIIDNAO": -0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "StackingCD",
+                "LNJAEIIDNAO": 1.2000000476837158
+            },
+            {
+                "ELPCOOLNPFF": "MaxStackingNum",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": "StackDuring",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElecSubHurtDelta",
+            "StackingCD",
+            "MaxStackingNum",
+            "StackDuring"
+        ],
+        "KAACPJHILCD": [
+            -0.10000000149011612,
+            1.2000000476837158,
+            4.0,
+            10.0
+        ]
+    },
+    {
+        "id": 100150,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UltimateSkillHitDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100151,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100152,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_OnAvatarIn",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100153,
+        "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpLevel1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpLevel2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpLevel3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "UltimateSkillDamageUpLevel1",
+            "UltimateSkillDamageUpLevel2",
+            "UltimateSkillDamageUpLevel3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100154,
+        "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElemMasteryUpValue1",
+                "LNJAEIIDNAO": 80.0
+            },
+            {
+                "ELPCOOLNPFF": "ElemMasteryUpValue2",
+                "LNJAEIIDNAO": 120.0
+            },
+            {
+                "ELPCOOLNPFF": "ElemMasteryUpValue3",
+                "LNJAEIIDNAO": 140.0
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElemMasteryUpValue1",
+            "ElemMasteryUpValue2",
+            "ElemMasteryUpValue3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            80.0,
+            120.0,
+            140.0,
+            20.0
+        ]
+    },
+    {
+        "id": 100155,
+        "abilityName": "ActivityAbility_CrystalLink_Action_ChargeEfficiencyUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ChargeEfficiencyUpRate1",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "ChargeEfficiencyUpRate2",
+                "LNJAEIIDNAO": 0.75
+            },
+            {
+                "ELPCOOLNPFF": "ChargeEfficiencyUpRate3",
+                "LNJAEIIDNAO": 0.875
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ChargeEfficiencyUpRate1",
+            "ChargeEfficiencyUpRate2",
+            "ChargeEfficiencyUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            0.75,
+            0.875,
+            20.0
+        ]
+    },
+    {
+        "id": 100156,
+        "abilityName": "ActivityAbility_CrystalLink_UltimateSkill_AttackUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackUpDuration",
+                "LNJAEIIDNAO": 15.0
+            },
+            {
+                "ELPCOOLNPFF": "AttackUpRate",
+                "LNJAEIIDNAO": 0.05000000074505806
+            },
+            {
+                "ELPCOOLNPFF": "UltimateAttackUpMaxLevel",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackUpDuration",
+            "AttackUpRate",
+            "UltimateAttackUpMaxLevel"
+        ],
+        "KAACPJHILCD": [
+            15.0,
+            0.05000000074505806,
+            8.0
+        ]
+    },
+    {
+        "id": 100157,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100158,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackLanded_Counter",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "NormalAttack_MaxTime",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "NormalAttack_MaxTime",
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            4.0,
+            3.0
+        ]
+    },
+    {
+        "id": 100159,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_NormalAttackElementalDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100160,
+        "abilityName": "ActivityAbility_CrystalLink_Action_NormalAttackDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "NormalAttackDamageUpRate1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "NormalAttackDamageUpRate2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "NormalAttackDamageUpRate3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "NormalAttackDamageUpRate1",
+            "NormalAttackDamageUpRate2",
+            "NormalAttackDamageUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100161,
+        "abilityName": "ActivityAbility_CrystalLink_Action_AllElementalDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AllElementalDamageUpRate1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "AllElementalDamageUpRate2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "AllElementalDamageUpRate3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AllElementalDamageUpRate1",
+            "AllElementalDamageUpRate2",
+            "AllElementalDamageUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100162,
+        "abilityName": "ActivityAbility_CrystalLink_Action_AttackSpeedUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackSpeedUpRate1",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "AttackSpeedUpRate2",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "AttackSpeedUpRate3",
+                "LNJAEIIDNAO": 0.3499999940395355
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackSpeedUpRate1",
+            "AttackSpeedUpRate2",
+            "AttackSpeedUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224,
+            0.30000001192092896,
+            0.3499999940395355,
+            20.0
+        ]
+    },
+    {
+        "id": 100163,
+        "abilityName": "ActivityAbility_CrystalLink_QuicklyAttack",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AddBuffCD",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpRate",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "MaxLevel",
+                "LNJAEIIDNAO": 5.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AddBuffCD",
+            "AtkUpRate",
+            "AtkUpDuration",
+            "MaxLevel"
+        ],
+        "KAACPJHILCD": [
+            1.0,
+            0.10000000149011612,
+            8.0,
+            5.0
+        ]
+    },
+    {
+        "id": 100164,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricReaction",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100165,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level3",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100166,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_ElectricDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100167,
+        "abilityName": "ActivityAbility_CrystalLink_Action_SkillDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SkillDamageUp1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "SkillDamageUp2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "SkillDamageUp3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SkillDamageUp1",
+            "SkillDamageUp2",
+            "SkillDamageUp3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100168,
+        "abilityName": "ActivityAbility_CrystalLink_Action_IncreaseElemMastery_Level3",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElemMasteryUpValue1",
+                "LNJAEIIDNAO": 80.0
+            },
+            {
+                "ELPCOOLNPFF": "ElemMasteryUpValue2",
+                "LNJAEIIDNAO": 120.0
+            },
+            {
+                "ELPCOOLNPFF": "ElemMasteryUpValue3",
+                "LNJAEIIDNAO": 140.0
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElemMasteryUpValue1",
+            "ElemMasteryUpValue2",
+            "ElemMasteryUpValue3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            80.0,
+            120.0,
+            140.0,
+            20.0
+        ]
+    },
+    {
+        "id": 100169,
+        "abilityName": "ActivityAbility_CrystalLink_Action_UltimateSkillDamageUp_Level3",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpLevel1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpLevel2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpLevel3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "UltimateSkillDamageUpLevel1",
+            "UltimateSkillDamageUpLevel2",
+            "UltimateSkillDamageUpLevel3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100170,
+        "abilityName": "ActivityAbility_CrystalLink_ElectricDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElecAddHurtRate",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElecAddHurtRate"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645
+        ]
+    },
+    {
+        "id": 100171,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_RockDamage",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100172,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_Crystallize",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100173,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_RockGadgetDestroyed",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100174,
+        "abilityName": "ActivityAbility_CrystalLink_Action_RockDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "RockDamageUpRate1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "RockDamageUpRate2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "RockDamageUpRate3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "RockDamageUpRate1",
+            "RockDamageUpRate2",
+            "RockDamageUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100175,
+        "abilityName": "ActivityAbility_CrystalLink_Action_DefenceUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DefenceUpValue1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "DefenceUpValue2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "DefenceUpValue3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DefenceUpValue1",
+            "DefenceUpValue2",
+            "DefenceUpValue3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100176,
+        "abilityName": "ActivityAbility_CrystalLink_Action_CriticalUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CriticalUpValue1",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "CriticalUpValue2",
+                "LNJAEIIDNAO": 0.375
+            },
+            {
+                "ELPCOOLNPFF": "CriticalUpValue3",
+                "LNJAEIIDNAO": 0.4375
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CriticalUpValue1",
+            "CriticalUpValue2",
+            "CriticalUpValue3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.25,
+            0.375,
+            0.4375,
+            20.0
+        ]
+    },
+    {
+        "id": 100177,
+        "abilityName": "ActivityAbility_CrystalLink_GetRockSeed_DamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageUpRate",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "DamageUpDuration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "RockSeedMaxLevel",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageUpRate",
+            "DamageUpDuration",
+            "RockSeedMaxLevel"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            8.0,
+            3.0
+        ]
+    },
+    {
+        "id": 100178,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_BeingHealed",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100179,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_HPDown",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100180,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level5",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100181,
+        "abilityName": "ActivityAbility_CrystalLink_Action_MaxHPUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "MaxHPUpValue1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "MaxHPUpValue2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "MaxHPUpValue3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "MaxHPUpValue1",
+            "MaxHPUpValue2",
+            "MaxHPUpValue3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100182,
+        "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackUpValue1",
+                "LNJAEIIDNAO": 0.3499999940395355
+            },
+            {
+                "ELPCOOLNPFF": "AttackUpValue2",
+                "LNJAEIIDNAO": 0.5350000262260437
+            },
+            {
+                "ELPCOOLNPFF": "AttackUpValue3",
+                "LNJAEIIDNAO": 0.6225000023841858
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackUpValue1",
+            "AttackUpValue2",
+            "AttackUpValue3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.3499999940395355,
+            0.5350000262260437,
+            0.6225000023841858,
+            20.0
+        ]
+    },
+    {
+        "id": 100183,
+        "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "WaterDamageUpRate1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "WaterDamageUpRate2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "WaterDamageUpRate3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "WaterDamageUpRate1",
+            "WaterDamageUpRate2",
+            "WaterDamageUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100184,
+        "abilityName": "ActivityAbility_CrystalLink_Skill_UltimateSkill_DamageUp_ByCurHP",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "UltimateSkillDamageUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "SkillDamageUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "UltimateSkillDamageUpRatio",
+            "SkillDamageUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            0.5
+        ]
+    },
+    {
+        "id": 100185,
+        "abilityName": "ActivityAbility_CrystalLink_DeathRattle_Corruption_LogicGadget",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "LoseHP_Amount",
+                "LNJAEIIDNAO": 25.0
+            },
+            {
+                "ELPCOOLNPFF": "LoseHP_AmountRatio",
+                "LNJAEIIDNAO": 0.0024999999441206455
+            },
+            {
+                "ELPCOOLNPFF": "LoseHPBuff_duration",
+                "LNJAEIIDNAO": 8.0
+            },
+            {
+                "ELPCOOLNPFF": "Backstage_HPRatio",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "LoseHP_Amount",
+            "LoseHP_AmountRatio",
+            "LoseHPBuff_duration",
+            "Backstage_HPRatio"
+        ],
+        "KAACPJHILCD": [
+            25.0,
+            0.0024999999441206455,
+            8.0,
+            0.15000000596046448
+        ]
+    },
+    {
+        "id": 100186,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_HitFrozenTarget",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100187,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_FrozenBroken",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100188,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_Frozen",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100189,
+        "abilityName": "ActivityAbility_CrystalLink_Action_WaterDamageUp_Level6",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "WaterDamageUpRate1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "WaterDamageUpRate2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "WaterDamageUpRate3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "WaterDamageUpRate1",
+            "WaterDamageUpRate2",
+            "WaterDamageUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100190,
+        "abilityName": "ActivityAbility_CrystalLink_Action_IceDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "IceDamageUpRate1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "IceDamageUpRate2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "IceDamageUpRate3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "IceDamageUpRate1",
+            "IceDamageUpRate2",
+            "IceDamageUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100191,
+        "abilityName": "ActivityAbility_CrystalLink_Action_FrozenDamageUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "FrozenDamageUpRate1",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "FrozenDamageUpRate2",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "FrozenDamageUpRate3",
+                "LNJAEIIDNAO": 0.699999988079071
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "FrozenDamageUpRate1",
+            "FrozenDamageUpRate2",
+            "FrozenDamageUpRate3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.4000000059604645,
+            0.6000000238418579,
+            0.699999988079071,
+            20.0
+        ]
+    },
+    {
+        "id": 100192,
+        "abilityName": "ActivityAbility_CrystalLink_FrozenTarget_DefenceDown",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DefecnceDownRate",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "DefenceDownDuration",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DefecnceDownRate",
+            "DefenceDownDuration"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            3.0
+        ]
+    },
+    {
+        "id": 100193,
+        "abilityName": "LevelEntity_LoopDungeon_UseSkill_GenerateBlastWave",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "BlastWaveDamageValue",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "BlastWaveDamageValue"
+        ],
+        "KAACPJHILCD": [
+            4.0
+        ]
+    },
+    {
+        "id": 100194,
+        "abilityName": "ActivityAbility_CrystalLink_FeverUp_CriticalHurtUp",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "CriticalHurtUp_Level1",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": "CriticalHurtUp_Level2",
+                "LNJAEIIDNAO": 0.4000000059604645
+            },
+            {
+                "ELPCOOLNPFF": "CriticalHurtUp_Level3",
+                "LNJAEIIDNAO": 0.6000000238418579
+            },
+            {
+                "ELPCOOLNPFF": "CriticalHurtUp_Level4",
+                "LNJAEIIDNAO": 0.800000011920929
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "CriticalHurtUp_Level1",
+            "CriticalHurtUp_Level2",
+            "CriticalHurtUp_Level3",
+            "CriticalHurtUp_Level4"
+        ],
+        "KAACPJHILCD": [
+            0.20000000298023224,
+            0.4000000059604645,
+            0.6000000238418579,
+            0.800000011920929
+        ]
+    },
+    {
+        "id": 100195,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level6",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100196,
+        "abilityName": "ActivityAbility_CrystalLink_Trigger_UseSkill_Level4",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "TriggerCD",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "TriggerCD"
+        ],
+        "KAACPJHILCD": [
+            3.0
+        ]
+    },
+    {
+        "id": 100197,
+        "abilityName": "ActivityAbility_CrystalLink_Action_AttackUp_Level4",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackUpValue1",
+                "LNJAEIIDNAO": 0.3499999940395355
+            },
+            {
+                "ELPCOOLNPFF": "AttackUpValue2",
+                "LNJAEIIDNAO": 0.5350000262260437
+            },
+            {
+                "ELPCOOLNPFF": "AttackUpValue3",
+                "LNJAEIIDNAO": 0.6225000023841858
+            },
+            {
+                "ELPCOOLNPFF": "BuffDuration",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackUpValue1",
+            "AttackUpValue2",
+            "AttackUpValue3",
+            "BuffDuration"
+        ],
+        "KAACPJHILCD": [
+            0.3499999940395355,
+            0.5350000262260437,
+            0.6225000023841858,
+            20.0
+        ]
+    },
+    {
+        "id": 700001,
+        "abilityName": "DynamicAbility_MichiaeMatsuri_Pressure",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SubDefenceRatio",
+                "LNJAEIIDNAO": -0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": "SubAttackRatio",
+                "LNJAEIIDNAO": -0.07999999821186066
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SubDefenceRatio",
+            "SubAttackRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.07999999821186066,
+            -0.07999999821186066
+        ]
+    },
+    {
+        "id": 700002,
+        "abilityName": "SceneAbility_BlackMudArea",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SubHurtDelta_AllType",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "AttackRatio",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SubHurtDelta_AllType",
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            0.10000000149011612,
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 200001,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage1",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.25
+        ]
+    },
+    {
+        "id": 200002,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 200003,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage3",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            1.0
+        ]
+    },
+    {
+        "id": 200004,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage4",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 200005,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage5",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            1.0
+        ]
+    },
+    {
+        "id": 200006,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage6",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            1.0
+        ]
+    },
+    {
+        "id": 200007,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage7",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 1.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            1.5
+        ]
+    },
+    {
+        "id": 200008,
+        "abilityName": "Activity_Rogue_Monster_SelfHeal",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Threshold",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "HealLatency",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "HealRatio",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Threshold",
+            "HealLatency",
+            "HealRatio"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896,
+            10.0,
+            0.30000001192092896
+        ]
+    },
+    {
+        "id": 200009,
+        "abilityName": "MonsterAffix_Property_HpUp_01_ForMistTrial",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 200010,
+        "abilityName": "MonsterAffix_Property_HpUp_02_ForMistTrial",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            1.0
+        ]
+    },
+    {
+        "id": 200011,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage8",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpRatio",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio",
+            "AtkUpRatio"
+        ],
+        "KAACPJHILCD": [
+            2.0,
+            0.25
+        ]
+    },
+    {
+        "id": 200012,
+        "abilityName": "Activity_Rogue_Monster_HPUp_Stage9",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "AtkUpRatio",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio",
+            "AtkUpRatio"
+        ],
+        "KAACPJHILCD": [
+            3.0,
+            0.25
+        ]
+    },
+    {
+        "id": 200013,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv1",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 200014,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            2.0
+        ]
+    },
+    {
+        "id": 200015,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Monster_HpUp_Lv3",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            4.0
+        ]
+    },
+    {
+        "id": 200016,
+        "abilityName": "LevelEntity_ChannellerSlabV2_Monster_AtkUp_Lv1",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AtkUpRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AtkUpRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5
+        ]
+    },
+    {
+        "id": 200017,
+        "abilityName": "MonsterAffix_WeakTimeModify_ForChannellerSlabV2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ModifyRatio",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ModifyRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.5
+        ]
+    },
+    {
+        "id": 200018,
+        "abilityName": "GeneralSkill_SelfHeal_ForChannellerSlabV2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SelfHealThreshold",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "SelfHealLatency",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "SelfHealRatio",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "Times",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SelfHealThreshold",
+            "SelfHealLatency",
+            "SelfHealRatio",
+            "Times"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            6.0,
+            0.30000001192092896,
+            1.0
+        ]
+    },
+    {
+        "id": 200019,
+        "abilityName": "Activity_ChannellerSlab_DamageArea_Impulse",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DamageRatio",
+                "LNJAEIIDNAO": 6.0
+            },
+            {
+                "ELPCOOLNPFF": "DamageRatioEnhanced",
+                "LNJAEIIDNAO": 12.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DamageRatio",
+            "DamageRatioEnhanced"
+        ],
+        "KAACPJHILCD": [
+            6.0,
+            12.0
+        ]
+    },
+    {
+        "id": 200020,
+        "abilityName": "Sylph_Rock_Elite_Activated_DeathPosAction",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DeathrattleDamage",
+                "LNJAEIIDNAO": 3.0
+            },
+            {
+                "ELPCOOLNPFF": "DeathrattleChargeUp",
+                "LNJAEIIDNAO": 50.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DeathrattleDamage",
+            "DeathrattleChargeUp"
+        ],
+        "KAACPJHILCD": [
+            3.0,
+            50.0
+        ]
+    },
+    {
+        "id": 200021,
+        "abilityName": "MonsterAffix_Sylph_ChargeUp_01_ForChannellerSlab",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ChargeUpTime",
+                "LNJAEIIDNAO": 1.0
+            },
+            {
+                "ELPCOOLNPFF": "ChargeUpQuantity",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ChargeUpTime",
+            "ChargeUpQuantity"
+        ],
+        "KAACPJHILCD": [
+            1.0,
+            4.0
+        ]
+    },
+    {
+        "id": 200022,
+        "abilityName": "Sylph_Water_Elite_Activated_DeathPosAction",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DeathrattleChargeUp",
+                "LNJAEIIDNAO": 50.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DeathrattleChargeUp"
+        ],
+        "KAACPJHILCD": [
+            50.0
+        ]
+    },
+    {
+        "id": 200023,
+        "abilityName": "Sylph_Wind_Elite_Activated_DeathPosAction",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "DeathrattleChargeUp",
+                "LNJAEIIDNAO": 50.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "DeathrattleChargeUp"
+        ],
+        "KAACPJHILCD": [
+            50.0
+        ]
+    },
+    {
+        "id": 200024,
+        "abilityName": "MonsterAffix_Hound_AttackEnhance_01_ForChannellerSlab",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackEnhanceRatio",
+                "LNJAEIIDNAO": 2.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackEnhanceRatio"
+        ],
+        "KAACPJHILCD": [
+            2.0
+        ]
+    },
+    {
+        "id": 200026,
+        "abilityName": "SceneObj_Monster_Sylph_AttackEnhance",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SylphAttackEnhanceRatio",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SylphAttackEnhanceRatio"
+        ],
+        "KAACPJHILCD": [
+            0.25
+        ]
+    },
+    {
+        "id": 200027,
+        "abilityName": "MonsterAffix_Ningyo_HPDown_ForAbyss",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPUpRatio",
+                "LNJAEIIDNAO": -0.25
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.25
+        ]
+    },
+    {
+        "id": 200028,
+        "abilityName": "GeneralSkill_SubHurtDelta_Periodicity",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "SubHurtDelta_Initialize",
+                "LNJAEIIDNAO": 0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "SubHurtDelta_SingleDown",
+                "LNJAEIIDNAO": -0.029999999329447746
+            },
+            {
+                "ELPCOOLNPFF": "SubHurtDelta_FloorCount",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": "Periodicity_Recover",
+                "LNJAEIIDNAO": 20.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "SubHurtDelta_Initialize",
+            "SubHurtDelta_SingleDown",
+            "SubHurtDelta_FloorCount",
+            "Periodicity_Recover"
+        ],
+        "KAACPJHILCD": [
+            0.10000000149011612,
+            -0.029999999329447746,
+            10.0,
+            20.0
+        ]
+    },
+    {
+        "id": 200029,
+        "abilityName": "MonsterAffix_AdditionalHPAndAttack_ForSelfPickChallenge",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Stage1HPRatio",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "Stage1AtkRatio"
+            },
+            {
+                "ELPCOOLNPFF": "Stage2HPRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "Stage2AtkRatio"
+            },
+            {
+                "ELPCOOLNPFF": "Stage3HPRatio",
+                "LNJAEIIDNAO": 1.0
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Stage1HPRatio",
+            "Stage1AtkRatio",
+            "Stage2HPRatio",
+            "Stage2AtkRatio",
+            "Stage3HPRatio",
+            "Stage3AtkRatio",
+            "Stage4HPRatio",
+            "Stage4AtkRatio"
+        ],
+        "KAACPJHILCD": [
+            0.25,
+            0.0,
+            0.5,
+            0.0,
+            1.0,
+            0.05000000074505806,
+            1.75,
+            0.10000000149011612
+        ]
+    },
+    {
+        "id": 200030,
+        "abilityName": "MonsterAffix_Monster_AbyssalPalace_SpecialForce",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "AttackUp",
+                "LNJAEIIDNAO": 0.15000000596046448
+            },
+            {
+                "ELPCOOLNPFF": "SubHurt",
+                "LNJAEIIDNAO": 0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "AttackUp",
+            "SubHurt"
+        ],
+        "KAACPJHILCD": [
+            0.15000000596046448,
+            0.20000000298023224
+        ]
+    },
+    {
+        "id": 200031,
+        "abilityName": "MonsterAffix_Activity_Sumov2_Stage1",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Stage1HPRatio",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "Stage1AtkRatio",
+                "LNJAEIIDNAO": -0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Stage1HPRatio",
+            "Stage1AtkRatio"
+        ],
+        "KAACPJHILCD": [
+            0.25,
+            -0.10000000149011612
+        ]
+    },
+    {
+        "id": 200032,
+        "abilityName": "MonsterAffix_Activity_Sumov2_Stage2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Stage2HPRatio",
+                "LNJAEIIDNAO": 0.5
+            },
+            {
+                "ELPCOOLNPFF": "Stage2AtkRatio",
+                "LNJAEIIDNAO": -0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Stage2HPRatio",
+            "Stage2AtkRatio"
+        ],
+        "KAACPJHILCD": [
+            0.5,
+            -0.30000001192092896
+        ]
+    },
+    {
+        "id": 200033,
+        "abilityName": "MonsterAffix_Activity_Sumov2_Stage3",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Stage3HPRatio",
+                "LNJAEIIDNAO": 0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": "Stage3AtkRatio",
+                "LNJAEIIDNAO": -0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Stage3HPRatio",
+            "Stage3AtkRatio"
+        ],
+        "KAACPJHILCD": [
+            0.30000001192092896,
+            -0.10000000149011612
+        ]
+    },
+    {
+        "id": 200034,
+        "abilityName": "MonsterAffix_Activity_Sumov2_Stage4",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Stage4HPRatio",
+                "LNJAEIIDNAO": 0.25
+            },
+            {
+                "ELPCOOLNPFF": "Stage4AtkRatio",
+                "LNJAEIIDNAO": -0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Stage4HPRatio",
+            "Stage4AtkRatio"
+        ],
+        "KAACPJHILCD": [
+            0.25,
+            -0.10000000149011612
+        ]
+    },
+    {
+        "id": 200035,
+        "abilityName": "MonsterAffix_Activity_Sumov2_Stage5",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Stage5HPRatio"
+            },
+            {
+                "ELPCOOLNPFF": "Stage5AtkRatio",
+                "LNJAEIIDNAO": -0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Stage5HPRatio",
+            "Stage5AtkRatio"
+        ],
+        "KAACPJHILCD": [
+            0.0,
+            -0.20000000298023224
+        ]
+    },
+    {
+        "id": 200036,
+        "abilityName": "MonsterAffix_Activity_Sumov2_Stage6",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "Stage6HPRatio"
+            },
+            {
+                "ELPCOOLNPFF": "Stage6AtkRatio",
+                "LNJAEIIDNAO": -0.20000000298023224
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "Stage6HPRatio",
+            "Stage6AtkRatio"
+        ],
+        "KAACPJHILCD": [
+            0.0,
+            -0.20000000298023224
+        ]
+    },
+    {
+        "id": 200037,
+        "abilityName": "GeneralSkill_ReduceMonster_ElecAddHurtDelta",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ElecSubHurtDelta",
+                "LNJAEIIDNAO": -0.10000000149011612
+            },
+            {
+                "ELPCOOLNPFF": "StackingCD",
+                "LNJAEIIDNAO": 1.2000000476837158
+            },
+            {
+                "ELPCOOLNPFF": "MaxStackingNum",
+                "LNJAEIIDNAO": 4.0
+            },
+            {
+                "ELPCOOLNPFF": "StackDuring",
+                "LNJAEIIDNAO": 10.0
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ElecSubHurtDelta",
+            "StackingCD",
+            "MaxStackingNum",
+            "StackDuring"
+        ],
+        "KAACPJHILCD": [
+            -0.10000000149011612,
+            1.2000000476837158,
+            4.0,
+            10.0
+        ]
+    },
+    {
+        "id": 200038,
+        "abilityName": "MonsterAffix_Activity_TowerDefenseV3_FrozenRevive",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPHealRatio",
+                "LNJAEIIDNAO": 0.05999999865889549
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPHealRatio"
+        ],
+        "KAACPJHILCD": [
+            0.05999999865889549
+        ]
+    },
+    {
+        "id": 200039,
+        "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced01",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": 0.75
+            },
+            {
+                "ELPCOOLNPFF": "AttackRatio"
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio",
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            0.75,
+            0.0
+        ]
+    },
+    {
+        "id": 200040,
+        "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced02",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": 0.75
+            },
+            {
+                "ELPCOOLNPFF": "AttackRatio"
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio",
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            0.75,
+            0.0
+        ]
+    },
+    {
+        "id": 200041,
+        "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced03",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": 0.75
+            },
+            {
+                "ELPCOOLNPFF": "AttackRatio",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio",
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            0.75,
+            -0.5
+        ]
+    },
+    {
+        "id": 200042,
+        "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced04",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": 0.3499999940395355
+            },
+            {
+                "ELPCOOLNPFF": "AttackRatio",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio",
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            0.3499999940395355,
+            -0.5
+        ]
+    },
+    {
+        "id": 200043,
+        "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced05",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": 0.3499999940395355
+            },
+            {
+                "ELPCOOLNPFF": "AttackRatio"
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio",
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            0.3499999940395355,
+            0.0
+        ]
+    },
+    {
+        "id": 200044,
+        "abilityName": "LevelEntity_CrystalLink_MonsterEnhanced06",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": 0.75
+            },
+            {
+                "ELPCOOLNPFF": "AttackRatio",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio",
+            "AttackRatio"
+        ],
+        "KAACPJHILCD": [
+            0.75,
+            -0.5
+        ]
+    },
+    {
+        "id": 200045,
+        "abilityName": "MonsterAffix_Tower_SpecailHPRatio1",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": -0.5
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.5
+        ]
+    },
+    {
+        "id": 200046,
+        "abilityName": "MonsterAffix_Tower_SpecailHPRatio2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPRatio",
+                "LNJAEIIDNAO": -0.75
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.75
+        ]
+    },
+    {
+        "id": 200047,
+        "abilityName": "MonsterAffix_ForlornVessel_HPDown_ForTwins2",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "ForlornVesselHPUpRatio",
+                "LNJAEIIDNAO": -0.30000001192092896
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "ForlornVesselHPUpRatio"
+        ],
+        "KAACPJHILCD": [
+            -0.30000001192092896
+        ]
+    },
+    {
+        "id": 200048,
+        "abilityName": "MonsterAffix_Activity_TowerDefenseV3_FrozenReviveStrong",
+        "JLJPHIAFGOJ": [
+            {
+                "ELPCOOLNPFF": "HPHealRatio",
+                "LNJAEIIDNAO": 0.11999999731779099
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            },
+            {
+                "ELPCOOLNPFF": ""
+            }
+        ],
+        "FOKEAEJGIOA": [
+            "HPHealRatio"
+        ],
+        "KAACPJHILCD": [
+            0.11999999731779099
+        ]
+    }
+]

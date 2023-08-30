@@ -1,551 +1,1024 @@
 [
     {
-        "TitleID": 101,
-        "TitleNameTextMapHash": 611289343,
-        "IsInverted": true,
-        "Desc": "风龙一阶段空战"
+        "titleID": 101,
+        "titleNameTextMapHash": 611289343,
+        "isInverted": true
     },
     {
-        "TitleID": 102,
-        "TitleNameTextMapHash": 1863790967,
-        "IsInverted": true,
-        "Desc": "风龙三阶段空战"
+        "titleID": 102,
+        "titleNameTextMapHash": 1863790967,
+        "isInverted": true
     },
     {
-        "TitleID": 103,
-        "TitleNameTextMapHash": 1683437439,
-        "IsInverted": true,
-        "Desc": "风龙三阶段地面"
+        "titleID": 103,
+        "titleNameTextMapHash": 1683437439,
+        "isInverted": true
     },
     {
-        "TitleID": 111,
-        "TitleNameTextMapHash": 1610694895,
-        "IsInverted": true,
-        "Desc": "北风狼剧情战"
+        "titleID": 111,
+        "titleNameTextMapHash": 1610694895,
+        "isInverted": true
     },
     {
-        "TitleID": 112,
-        "TitleNameTextMapHash": 2071156167,
-        "IsInverted": true,
-        "Desc": "北风狼循环"
+        "titleID": 112,
+        "titleNameTextMapHash": 2071156167,
+        "isInverted": true
     },
     {
-        "TitleID": 121,
-        "TitleNameTextMapHash": 1786437831,
-        "IsInverted": true,
-        "Desc": "公子boss战一阶段"
+        "titleID": 121,
+        "titleNameTextMapHash": 1786437831,
+        "isInverted": true
     },
     {
-        "TitleID": 122,
-        "TitleNameTextMapHash": 456265943,
-        "IsInverted": true,
-        "Desc": "公子boss战二阶段"
+        "titleID": 122,
+        "titleNameTextMapHash": 456265943,
+        "isInverted": true
     },
     {
-        "TitleID": 123,
-        "TitleNameTextMapHash": 1407733695,
-        "IsInverted": true,
-        "Desc": "公子boss战三阶段"
+        "titleID": 123,
+        "titleNameTextMapHash": 1407733695,
+        "isInverted": true
     },
     {
-        "TitleID": 1001,
-        "TitleNameTextMapHash": 3442676239,
-        "Desc": "草史莱姆"
+        "titleID": 131,
+        "titleNameTextMapHash": 3648933895,
+        "isInverted": true
     },
     {
-        "TitleID": 1002,
-        "TitleNameTextMapHash": 1907026423,
-        "Desc": "风史莱姆"
+        "titleID": 141,
+        "titleNameTextMapHash": 1621370703,
+        "isInverted": true
     },
     {
-        "TitleID": 1003,
-        "TitleNameTextMapHash": 826927551,
-        "Desc": "雷史莱姆"
+        "titleID": 142,
+        "titleNameTextMapHash": 792431279
     },
     {
-        "TitleID": 1004,
-        "TitleNameTextMapHash": 50110623,
-        "Desc": "冰史莱姆"
+        "titleID": 151,
+        "titleNameTextMapHash": 4011091919
     },
     {
-        "TitleID": 1005,
-        "TitleNameTextMapHash": 3162776823,
-        "Desc": "水史莱姆"
+        "titleID": 152,
+        "titleNameTextMapHash": 1411916199
     },
     {
-        "TitleID": 1006,
-        "TitleNameTextMapHash": 812925943,
-        "Desc": "火史莱姆"
+        "titleID": 153,
+        "titleNameTextMapHash": 1327725359
     },
     {
-        "TitleID": 1007,
-        "TitleNameTextMapHash": 1884823111,
-        "Desc": "岩史莱姆"
+        "titleID": 154,
+        "titleNameTextMapHash": 3316199415,
+        "isInverted": true
     },
     {
-        "TitleID": 1011,
-        "TitleNameTextMapHash": 1126712863,
-        "Desc": "大型草史莱姆"
+        "titleID": 155,
+        "titleNameTextMapHash": 2349810527,
+        "isInverted": true
     },
     {
-        "TitleID": 1021,
-        "TitleNameTextMapHash": 1066398151,
-        "Desc": "大型风史莱姆"
+        "titleID": 1001,
+        "titleNameTextMapHash": 3442676239
     },
     {
-        "TitleID": 1031,
-        "TitleNameTextMapHash": 1095536183,
-        "Desc": "大型雷史莱姆"
+        "titleID": 1002,
+        "titleNameTextMapHash": 1907026423
     },
     {
-        "TitleID": 1032,
-        "TitleNameTextMapHash": 1694877743,
-        "Desc": "变异雷史莱姆"
+        "titleID": 1003,
+        "titleNameTextMapHash": 826927551
     },
     {
-        "TitleID": 1041,
-        "TitleNameTextMapHash": 4183094271,
-        "Desc": "大型冰史莱姆"
+        "titleID": 1004,
+        "titleNameTextMapHash": 50110623
     },
     {
-        "TitleID": 1051,
-        "TitleNameTextMapHash": 1456938855,
-        "Desc": "大型水史莱姆"
+        "titleID": 1005,
+        "titleNameTextMapHash": 3162776823
     },
     {
-        "TitleID": 1061,
-        "TitleNameTextMapHash": 1149332895,
-        "Desc": "大型火史莱姆"
+        "titleID": 1006,
+        "titleNameTextMapHash": 812925943
     },
     {
-        "TitleID": 1071,
-        "TitleNameTextMapHash": 3162896055,
-        "Desc": "大型岩史莱姆"
+        "titleID": 1007,
+        "titleNameTextMapHash": 1884823111
     },
     {
-        "TitleID": 1101,
-        "TitleNameTextMapHash": 2915077007,
-        "Desc": "雷萤"
+        "titleID": 1011,
+        "titleNameTextMapHash": 1126712863
     },
     {
-        "TitleID": 1102,
-        "TitleNameTextMapHash": 3489578911,
-        "Desc": "水萤"
+        "titleID": 1021,
+        "titleNameTextMapHash": 1066398151
     },
     {
-        "TitleID": 1103,
-        "TitleNameTextMapHash": 1464476751,
-        "Desc": "冰萤"
+        "titleID": 1031,
+        "titleNameTextMapHash": 1095536183
     },
     {
-        "TitleID": 1201,
-        "TitleNameTextMapHash": 641743687,
-        "Desc": "狂风之核"
+        "titleID": 1032,
+        "titleNameTextMapHash": 1694877743
     },
     {
-        "TitleID": 1202,
-        "TitleNameTextMapHash": 2866324807,
-        "Desc": "雷电之核"
+        "titleID": 1041,
+        "titleNameTextMapHash": 4183094271
     },
     {
-        "TitleID": 2001,
-        "TitleNameTextMapHash": 3372311639,
-        "Desc": "无相之雷"
+        "titleID": 1051,
+        "titleNameTextMapHash": 1456938855
     },
     {
-        "TitleID": 2002,
-        "TitleNameTextMapHash": 4787039,
-        "Desc": "无相之风"
+        "titleID": 1061,
+        "titleNameTextMapHash": 1149332895
     },
     {
-        "TitleID": 2003,
-        "TitleNameTextMapHash": 3502543183,
-        "Desc": "无相之岩"
+        "titleID": 1071,
+        "titleNameTextMapHash": 3162896055
     },
     {
-        "TitleID": 2101,
-        "TitleNameTextMapHash": 3272662991,
-        "Desc": "冰骗骗花"
+        "titleID": 1101,
+        "titleNameTextMapHash": 2915077007
     },
     {
-        "TitleID": 2102,
-        "TitleNameTextMapHash": 2763565143,
-        "Desc": "火骗骗花"
+        "titleID": 1102,
+        "titleNameTextMapHash": 3489578911
     },
     {
-        "TitleID": 2111,
-        "TitleNameTextMapHash": 382592143,
-        "Desc": "急冻树"
+        "titleID": 1103,
+        "titleNameTextMapHash": 1464476751
     },
     {
-        "TitleID": 2112,
-        "TitleNameTextMapHash": 1260004983,
-        "Desc": "爆炎树"
+        "titleID": 1111,
+        "titleNameTextMapHash": 1580002279
     },
     {
-        "TitleID": 2201,
-        "TitleNameTextMapHash": 705562231,
-        "IsInverted": true,
-        "Desc": "一般纯水精灵"
+        "titleID": 1112,
+        "titleNameTextMapHash": 201192031
     },
     {
-        "TitleID": 2211,
-        "TitleNameTextMapHash": 1764723215,
-        "IsInverted": true,
-        "Desc": "轻策后山BOSS纯水精灵"
+        "titleID": 1113,
+        "titleNameTextMapHash": 3140338047
     },
     {
-        "TitleID": 2221,
-        "TitleNameTextMapHash": 2109139647,
-        "Desc": "纯水之猪"
+        "titleID": 1114,
+        "titleNameTextMapHash": 3258054855
     },
     {
-        "TitleID": 2222,
-        "TitleNameTextMapHash": 826570055,
-        "Desc": "纯水之鹤"
+        "titleID": 1115,
+        "titleNameTextMapHash": 2801746367
     },
     {
-        "TitleID": 2223,
-        "TitleNameTextMapHash": 783836327,
-        "Desc": "纯水之蟹"
+        "titleID": 1116,
+        "titleNameTextMapHash": 724965327
     },
     {
-        "TitleID": 2224,
-        "TitleNameTextMapHash": 2299711455,
-        "Desc": "纯水之雀"
+        "titleID": 1201,
+        "titleNameTextMapHash": 641743687
     },
     {
-        "TitleID": 2225,
-        "TitleNameTextMapHash": 2339276447,
-        "Desc": "纯水之鸭"
+        "titleID": 1202,
+        "titleNameTextMapHash": 2866324807
     },
     {
-        "TitleID": 2226,
-        "TitleNameTextMapHash": 3598397775,
-        "Desc": "纯水之鼠"
+        "titleID": 2001,
+        "titleNameTextMapHash": 3372311639
     },
     {
-        "TitleID": 2227,
-        "TitleNameTextMapHash": 3236505111,
-        "Desc": "纯水之蛙"
+        "titleID": 2002,
+        "titleNameTextMapHash": 4787039
     },
     {
-        "TitleID": 2228,
-        "TitleNameTextMapHash": 2763133887,
-        "Desc": "纯水之鹰"
+        "titleID": 2003,
+        "titleNameTextMapHash": 3502543183
     },
     {
-        "TitleID": 3001,
-        "TitleNameTextMapHash": 4275091487,
-        "Desc": "丘丘人大类"
+        "titleID": 2004,
+        "titleNameTextMapHash": 3940540839
     },
     {
-        "TitleID": 3011,
-        "TitleNameTextMapHash": 2119774575,
-        "Desc": "射手丘丘人大类"
+        "titleID": 2005,
+        "titleNameTextMapHash": 1433877471
     },
     {
-        "TitleID": 3090,
-        "TitleNameTextMapHash": 1619610175,
-        "Desc": "奇怪的丘丘人"
+        "titleID": 2006,
+        "titleNameTextMapHash": 4106108231
     },
     {
-        "TitleID": 3101,
-        "TitleNameTextMapHash": 3041589367,
-        "Desc": "木盾丘丘暴徒"
+        "titleID": 2101,
+        "titleNameTextMapHash": 3272662991
     },
     {
-        "TitleID": 3102,
-        "TitleNameTextMapHash": 71501855,
-        "Desc": "火斧丘丘暴徒"
+        "titleID": 2102,
+        "titleNameTextMapHash": 2763565143
     },
     {
-        "TitleID": 3103,
-        "TitleNameTextMapHash": 2732729943,
-        "Desc": "岩盾丘丘暴徒"
+        "titleID": 2103,
+        "titleNameTextMapHash": 2312309791
     },
     {
-        "TitleID": 3104,
-        "TitleNameTextMapHash": 2938534431,
-        "Desc": "冰盾丘丘暴徒"
+        "titleID": 2111,
+        "titleNameTextMapHash": 382592143
     },
     {
-        "TitleID": 3111,
-        "TitleNameTextMapHash": 3207163591,
-        "Desc": "丘丘岩盔王"
+        "titleID": 2112,
+        "titleNameTextMapHash": 1260004983
     },
     {
-        "TitleID": 3112,
-        "TitleNameTextMapHash": 2455323215,
-        "Desc": "丘丘霜铠王"
+        "titleID": 2201,
+        "titleNameTextMapHash": 705562231,
+        "isInverted": true
     },
     {
-        "TitleID": 3201,
-        "TitleNameTextMapHash": 3138720183,
-        "Desc": "水丘丘萨满"
+        "titleID": 2202,
+        "titleNameTextMapHash": 1735603255
     },
     {
-        "TitleID": 3202,
-        "TitleNameTextMapHash": 752200839,
-        "Desc": "草丘丘萨满"
+        "titleID": 2211,
+        "titleNameTextMapHash": 1764723215,
+        "isInverted": true
     },
     {
-        "TitleID": 3203,
-        "TitleNameTextMapHash": 3144530879,
-        "Desc": "风丘丘萨满"
+        "titleID": 2221,
+        "titleNameTextMapHash": 2109139647
     },
     {
-        "TitleID": 3204,
-        "TitleNameTextMapHash": 2461230975,
-        "Desc": "岩丘丘萨满"
+        "titleID": 2222,
+        "titleNameTextMapHash": 826570055
     },
     {
-        "TitleID": 3205,
-        "TitleNameTextMapHash": 172091855,
-        "Desc": "冰丘丘萨满"
+        "titleID": 2223,
+        "titleNameTextMapHash": 783836327
     },
     {
-        "TitleID": 4001,
-        "TitleNameTextMapHash": 1400868983,
-        "IsInverted": true,
-        "Desc": "火深渊法师"
+        "titleID": 2224,
+        "titleNameTextMapHash": 2299711455
     },
     {
-        "TitleID": 4002,
-        "TitleNameTextMapHash": 2296200775,
-        "IsInverted": true,
-        "Desc": "冰深渊法师"
+        "titleID": 2225,
+        "titleNameTextMapHash": 2339276447
     },
     {
-        "TitleID": 4003,
-        "TitleNameTextMapHash": 715089791,
-        "IsInverted": true,
-        "Desc": "水深渊法师"
+        "titleID": 2226,
+        "titleNameTextMapHash": 3598397775
     },
     {
-        "TitleID": 4011,
-        "TitleNameTextMapHash": 1822534847,
-        "IsInverted": true,
-        "Desc": "深渊使徒"
+        "titleID": 2227,
+        "titleNameTextMapHash": 3236505111
     },
     {
-        "TitleID": 5001,
-        "TitleNameTextMapHash": 1306608279,
-        "IsInverted": true,
-        "Desc": "债务处理人"
+        "titleID": 2228,
+        "titleNameTextMapHash": 2763133887
     },
     {
-        "TitleID": 5002,
-        "TitleNameTextMapHash": 510473727,
-        "IsInverted": true,
-        "Desc": "雷萤术士"
+        "titleID": 3001,
+        "titleNameTextMapHash": 4275091487
     },
     {
-        "TitleID": 5003,
-        "TitleNameTextMapHash": 553527231,
-        "IsInverted": true,
-        "Desc": "冰萤术士"
+        "titleID": 3011,
+        "titleNameTextMapHash": 2119774575
     },
     {
-        "TitleID": 5101,
-        "TitleNameTextMapHash": 3682481871,
-        "IsInverted": true,
-        "Desc": "愚人众 先遣队 成男 岩属性双手杖"
+        "titleID": 3090,
+        "titleNameTextMapHash": 1619610175
     },
     {
-        "TitleID": 5102,
-        "TitleNameTextMapHash": 4062303479,
-        "IsInverted": true,
-        "Desc": "愚人众 先遣队 成男 火枪"
+        "titleID": 3101,
+        "titleNameTextMapHash": 3041589367
     },
     {
-        "TitleID": 5111,
-        "TitleNameTextMapHash": 3368507119,
-        "IsInverted": true,
-        "Desc": "愚人众 先遣队 胖男 冰喷射枪"
+        "titleID": 3102,
+        "titleNameTextMapHash": 71501855
     },
     {
-        "TitleID": 5112,
-        "TitleNameTextMapHash": 2112511879,
-        "IsInverted": true,
-        "Desc": "愚人众 先遣队 胖男 水喷射枪"
+        "titleID": 3103,
+        "titleNameTextMapHash": 2732729943
     },
     {
-        "TitleID": 5121,
-        "TitleNameTextMapHash": 4135901895,
-        "IsInverted": true,
-        "Desc": "愚人众 先遣队 壮男 雷重锤"
+        "titleID": 3104,
+        "titleNameTextMapHash": 2938534431
     },
     {
-        "TitleID": 5122,
-        "TitleNameTextMapHash": 3742072615,
-        "IsInverted": true,
-        "Desc": "愚人众 先遣队 壮男 风属性拳套"
+        "titleID": 3105,
+        "titleNameTextMapHash": 3330886223
     },
     {
-        "TitleID": 6001,
-        "TitleNameTextMapHash": 1074946407,
-        "Desc": "遗迹守卫"
+        "titleID": 3111,
+        "titleNameTextMapHash": 3207163591
     },
     {
-        "TitleID": 6002,
-        "TitleNameTextMapHash": 1867418743,
-        "Desc": "遗迹猎者"
+        "titleID": 3112,
+        "titleNameTextMapHash": 2455323215
     },
     {
-        "TitleID": 6003,
-        "TitleNameTextMapHash": 3768379127,
-        "Desc": "遗迹重机"
+        "titleID": 3113,
+        "titleNameTextMapHash": 4262641967
     },
     {
-        "TitleID": 7001,
-        "TitleNameTextMapHash": 2475795295,
-        "Desc": "盗宝团斥候"
+        "titleID": 3201,
+        "titleNameTextMapHash": 3138720183
     },
     {
-        "TitleID": 7002,
-        "TitleNameTextMapHash": 1400128311,
-        "Desc": "盗宝团神射手"
+        "titleID": 3202,
+        "titleNameTextMapHash": 752200839
     },
     {
-        "TitleID": 7003,
-        "TitleNameTextMapHash": 1902406215,
-        "Desc": "盗宝团掘墓者"
+        "titleID": 3203,
+        "titleNameTextMapHash": 3144530879
     },
     {
-        "TitleID": 7004,
-        "TitleNameTextMapHash": 3843706759,
-        "Desc": "盗宝团女斧手"
+        "titleID": 3204,
+        "titleNameTextMapHash": 2461230975
     },
     {
-        "TitleID": 7005,
-        "TitleNameTextMapHash": 1327255903,
-        "Desc": "「溜溜」"
+        "titleID": 3205,
+        "titleNameTextMapHash": 172091855
     },
     {
-        "TitleID": 7006,
-        "TitleNameTextMapHash": 505271079,
-        "Desc": "「怪鸟」"
+        "titleID": 3206,
+        "titleNameTextMapHash": 2294697567
     },
     {
-        "TitleID": 7007,
-        "TitleNameTextMapHash": 2072107391,
-        "Desc": "「卡门」"
+        "titleID": 4001,
+        "titleNameTextMapHash": 1400868983,
+        "isInverted": true
     },
     {
-        "TitleID": 7008,
-        "TitleNameTextMapHash": 1341597039,
-        "Desc": "「大姐头」"
+        "titleID": 4002,
+        "titleNameTextMapHash": 2296200775,
+        "isInverted": true
     },
     {
-        "TitleID": 7011,
-        "TitleNameTextMapHash": 3021789503,
-        "Desc": "千岩军士兵"
+        "titleID": 4003,
+        "titleNameTextMapHash": 715089791,
+        "isInverted": true
     },
     {
-        "TitleID": 7012,
-        "TitleNameTextMapHash": 701893295,
-        "Desc": "千岩军教头"
+        "titleID": 4004,
+        "titleNameTextMapHash": 3179181415,
+        "isInverted": true
     },
     {
-        "TitleID": 7111,
-        "TitleNameTextMapHash": 898493423,
-        "Desc": "盗宝团空手胖"
+        "titleID": 4011,
+        "titleNameTextMapHash": 1822534847,
+        "isInverted": true
     },
     {
-        "TitleID": 7112,
-        "TitleNameTextMapHash": 3498832663,
-        "Desc": "盗宝团船橹"
+        "titleID": 4021,
+        "titleNameTextMapHash": 2054457567,
+        "isInverted": true
     },
     {
-        "TitleID": 7121,
-        "TitleNameTextMapHash": 2877411191,
-        "Desc": "盗宝团投掷火"
+        "titleID": 4022,
+        "titleNameTextMapHash": 310413383,
+        "isInverted": true
     },
     {
-        "TitleID": 7122,
-        "TitleNameTextMapHash": 1290509175,
-        "Desc": "盗宝团投掷水"
+        "titleID": 4031,
+        "titleNameTextMapHash": 3295893655
     },
     {
-        "TitleID": 7123,
-        "TitleNameTextMapHash": 748026823,
-        "Desc": "盗宝团投掷电"
+        "titleID": 4032,
+        "titleNameTextMapHash": 3150185015
     },
     {
-        "TitleID": 7124,
-        "TitleNameTextMapHash": 459203023,
-        "Desc": "盗宝团投掷冰"
+        "titleID": 4041,
+        "titleNameTextMapHash": 3354779047
     },
     {
-        "TitleID": 7131,
-        "TitleNameTextMapHash": 1459083847,
-        "Desc": "盗宝团肌肉男空手"
+        "titleID": 4051,
+        "titleNameTextMapHash": 3949690983,
+        "isInverted": true
     },
     {
-        "TitleID": 7132,
-        "TitleNameTextMapHash": 1958846447,
-        "Desc": "盗宝团肌肉男单手锤"
+        "titleID": 4061,
+        "titleNameTextMapHash": 3896091415,
+        "isInverted": true
     },
     {
-        "TitleID": 8001,
-        "TitleNameTextMapHash": 174961871,
-        "Desc": "幼岩龙蜥"
+        "titleID": 5001,
+        "titleNameTextMapHash": 1306608279,
+        "isInverted": true
     },
     {
-        "TitleID": 8002,
-        "TitleNameTextMapHash": 2926371463,
-        "Desc": "岩龙蜥"
+        "titleID": 5002,
+        "titleNameTextMapHash": 510473727,
+        "isInverted": true
     },
     {
-        "TitleID": 8003,
-        "TitleNameTextMapHash": 282390671,
-        "Desc": "古岩龙蜥"
+        "titleID": 5003,
+        "titleNameTextMapHash": 553527231,
+        "isInverted": true
     },
     {
-        "TitleID": 10001,
-        "TitleNameTextMapHash": 841627719,
-        "Desc": "香菱线冰史莱姆-精英"
+        "titleID": 5004,
+        "titleNameTextMapHash": 882519711,
+        "isInverted": true
     },
     {
-        "TitleID": 10002,
-        "TitleNameTextMapHash": 3521985375,
-        "Desc": "钟离线债务处理人-精英"
+        "titleID": 5101,
+        "titleNameTextMapHash": 3682481871,
+        "isInverted": true
     },
     {
-        "TitleID": 10003,
-        "TitleNameTextMapHash": 225429327,
-        "Desc": "远古野猪王"
+        "titleID": 5102,
+        "titleNameTextMapHash": 4062303479,
+        "isInverted": true
     },
     {
-        "TitleID": 10004,
-        "TitleNameTextMapHash": 170546951,
-        "Desc": "历战无相雷"
+        "titleID": 5111,
+        "titleNameTextMapHash": 3368507119,
+        "isInverted": true
     },
     {
-        "TitleID": 10005,
-        "TitleNameTextMapHash": 412604943,
-        "Desc": "历战无相风"
+        "titleID": 5112,
+        "titleNameTextMapHash": 2112511879,
+        "isInverted": true
     },
     {
-        "TitleID": 10006,
-        "TitleNameTextMapHash": 1828698055,
-        "Desc": "历战无相岩"
+        "titleID": 5121,
+        "titleNameTextMapHash": 4135901895,
+        "isInverted": true
     },
     {
-        "TitleID": 10007,
-        "TitleNameTextMapHash": 166226487,
-        "Desc": "魈线盗宝团斥候"
+        "titleID": 5122,
+        "titleNameTextMapHash": 3742072615,
+        "isInverted": true
     },
     {
-        "TitleID": 10008,
-        "TitleNameTextMapHash": 1534503967,
-        "Desc": "雪山活动急冻树"
+        "titleID": 6001,
+        "titleNameTextMapHash": 1074946407
     },
     {
-        "TitleID": 10009,
-        "TitleNameTextMapHash": 3529736143,
-        "IsInverted": true,
-        "Desc": "双子线特殊"
+        "titleID": 6002,
+        "titleNameTextMapHash": 1867418743
+    },
+    {
+        "titleID": 6003,
+        "titleNameTextMapHash": 3768379127
+    },
+    {
+        "titleID": 6004,
+        "titleNameTextMapHash": 376189863
+    },
+    {
+        "titleID": 6011,
+        "titleNameTextMapHash": 2810870263
+    },
+    {
+        "titleID": 6012,
+        "titleNameTextMapHash": 1902706071
+    },
+    {
+        "titleID": 6013,
+        "titleNameTextMapHash": 1022571935
+    },
+    {
+        "titleID": 6014,
+        "titleNameTextMapHash": 4224913535
+    },
+    {
+        "titleID": 6101,
+        "titleNameTextMapHash": 3804864135
+    },
+    {
+        "titleID": 7001,
+        "titleNameTextMapHash": 2475795295
+    },
+    {
+        "titleID": 7002,
+        "titleNameTextMapHash": 1400128311
+    },
+    {
+        "titleID": 7003,
+        "titleNameTextMapHash": 1902406215
+    },
+    {
+        "titleID": 7004,
+        "titleNameTextMapHash": 3843706759
+    },
+    {
+        "titleID": 7005,
+        "titleNameTextMapHash": 1327255903
+    },
+    {
+        "titleID": 7006,
+        "titleNameTextMapHash": 505271079
+    },
+    {
+        "titleID": 7007,
+        "titleNameTextMapHash": 2072107391
+    },
+    {
+        "titleID": 7008,
+        "titleNameTextMapHash": 1341597039
+    },
+    {
+        "titleID": 7011,
+        "titleNameTextMapHash": 3021789503
+    },
+    {
+        "titleID": 7012,
+        "titleNameTextMapHash": 701893295
+    },
+    {
+        "titleID": 7111,
+        "titleNameTextMapHash": 898493423
+    },
+    {
+        "titleID": 7112,
+        "titleNameTextMapHash": 3498832663
+    },
+    {
+        "titleID": 7121,
+        "titleNameTextMapHash": 2877411191
+    },
+    {
+        "titleID": 7122,
+        "titleNameTextMapHash": 1290509175
+    },
+    {
+        "titleID": 7123,
+        "titleNameTextMapHash": 748026823
+    },
+    {
+        "titleID": 7124,
+        "titleNameTextMapHash": 459203023
+    },
+    {
+        "titleID": 7131,
+        "titleNameTextMapHash": 1459083847
+    },
+    {
+        "titleID": 7132,
+        "titleNameTextMapHash": 1958846447
+    },
+    {
+        "titleID": 7141,
+        "titleNameTextMapHash": 4276083191,
+        "isInverted": true
+    },
+    {
+        "titleID": 7142,
+        "titleNameTextMapHash": 1930527327,
+        "isInverted": true
+    },
+    {
+        "titleID": 7143,
+        "titleNameTextMapHash": 585628847,
+        "isInverted": true
+    },
+    {
+        "titleID": 7144,
+        "titleNameTextMapHash": 3192005023,
+        "isInverted": true
+    },
+    {
+        "titleID": 7145,
+        "titleNameTextMapHash": 501044623,
+        "isInverted": true
+    },
+    {
+        "titleID": 7146,
+        "titleNameTextMapHash": 3951346303
+    },
+    {
+        "titleID": 7147,
+        "titleNameTextMapHash": 1956851607
+    },
+    {
+        "titleID": 7148,
+        "titleNameTextMapHash": 2919593911
+    },
+    {
+        "titleID": 7151,
+        "titleNameTextMapHash": 4119265847
+    },
+    {
+        "titleID": 7152,
+        "titleNameTextMapHash": 681212735
+    },
+    {
+        "titleID": 7153,
+        "titleNameTextMapHash": 2254304583
+    },
+    {
+        "titleID": 7201,
+        "titleNameTextMapHash": 3478689231
+    },
+    {
+        "titleID": 8001,
+        "titleNameTextMapHash": 174961871
+    },
+    {
+        "titleID": 8002,
+        "titleNameTextMapHash": 2926371463
+    },
+    {
+        "titleID": 8003,
+        "titleNameTextMapHash": 282390671
+    },
+    {
+        "titleID": 8004,
+        "titleNameTextMapHash": 1183284895
+    },
+    {
+        "titleID": 8005,
+        "titleNameTextMapHash": 1191368287
+    },
+    {
+        "titleID": 8006,
+        "titleNameTextMapHash": 2560859023
+    },
+    {
+        "titleID": 8011,
+        "titleNameTextMapHash": 250559111,
+        "isInverted": true
+    },
+    {
+        "titleID": 8021,
+        "titleNameTextMapHash": 1400422127
+    },
+    {
+        "titleID": 10001,
+        "titleNameTextMapHash": 841627719
+    },
+    {
+        "titleID": 10002,
+        "titleNameTextMapHash": 3521985375
+    },
+    {
+        "titleID": 10003,
+        "titleNameTextMapHash": 225429327
+    },
+    {
+        "titleID": 10004,
+        "titleNameTextMapHash": 170546951
+    },
+    {
+        "titleID": 10005,
+        "titleNameTextMapHash": 412604943
+    },
+    {
+        "titleID": 10006,
+        "titleNameTextMapHash": 1828698055
+    },
+    {
+        "titleID": 10007,
+        "titleNameTextMapHash": 166226487
+    },
+    {
+        "titleID": 10008,
+        "titleNameTextMapHash": 1534503967
+    },
+    {
+        "titleID": 10009,
+        "titleNameTextMapHash": 3529736143,
+        "isInverted": true
+    },
+    {
+        "titleID": 10010,
+        "titleNameTextMapHash": 1434721479
+    },
+    {
+        "titleID": 10011,
+        "titleNameTextMapHash": 2785407935
+    },
+    {
+        "titleID": 10012,
+        "titleNameTextMapHash": 1806263751
+    },
+    {
+        "titleID": 10013,
+        "titleNameTextMapHash": 3420331927
+    },
+    {
+        "titleID": 10014,
+        "titleNameTextMapHash": 4006563327,
+        "isInverted": true
+    },
+    {
+        "titleID": 10015,
+        "titleNameTextMapHash": 746583,
+        "isInverted": true
+    },
+    {
+        "titleID": 10016,
+        "titleNameTextMapHash": 2780071679,
+        "isInverted": true
+    },
+    {
+        "titleID": 10017,
+        "titleNameTextMapHash": 3625070039,
+        "isInverted": true
+    },
+    {
+        "titleID": 10018,
+        "titleNameTextMapHash": 4359615
+    },
+    {
+        "titleID": 10019,
+        "titleNameTextMapHash": 3474341055
+    },
+    {
+        "titleID": 10020,
+        "titleNameTextMapHash": 1787379671
+    },
+    {
+        "titleID": 10021,
+        "titleNameTextMapHash": 3894951967
+    },
+    {
+        "titleID": 10022,
+        "titleNameTextMapHash": 2069642471
+    },
+    {
+        "titleID": 10023,
+        "titleNameTextMapHash": 3794544615
+    },
+    {
+        "titleID": 10024,
+        "titleNameTextMapHash": 2098698831
+    },
+    {
+        "titleID": 10025,
+        "titleNameTextMapHash": 3715356559
+    },
+    {
+        "titleID": 10026,
+        "titleNameTextMapHash": 3577563463
+    },
+    {
+        "titleID": 10027,
+        "titleNameTextMapHash": 4066892823
+    },
+    {
+        "titleID": 10028,
+        "titleNameTextMapHash": 4135205159
+    },
+    {
+        "titleID": 10029,
+        "titleNameTextMapHash": 3525110055
+    },
+    {
+        "titleID": 10030,
+        "titleNameTextMapHash": 3464719295
+    },
+    {
+        "titleID": 10031,
+        "titleNameTextMapHash": 2699341599
+    },
+    {
+        "titleID": 10032,
+        "titleNameTextMapHash": 2795701455
+    },
+    {
+        "titleID": 10033,
+        "titleNameTextMapHash": 3993926567
+    },
+    {
+        "titleID": 10034,
+        "titleNameTextMapHash": 2808417535
+    },
+    {
+        "titleID": 10035,
+        "titleNameTextMapHash": 1421186687
+    },
+    {
+        "titleID": 10036,
+        "titleNameTextMapHash": 1932074351
+    },
+    {
+        "titleID": 10037,
+        "titleNameTextMapHash": 497635471
+    },
+    {
+        "titleID": 10038,
+        "titleNameTextMapHash": 48552703
+    },
+    {
+        "titleID": 10039,
+        "titleNameTextMapHash": 364460599
+    },
+    {
+        "titleID": 10040,
+        "titleNameTextMapHash": 1333421063
+    },
+    {
+        "titleID": 10041,
+        "titleNameTextMapHash": 2621746007
+    },
+    {
+        "titleID": 10042,
+        "titleNameTextMapHash": 347720191
+    },
+    {
+        "titleID": 10043,
+        "titleNameTextMapHash": 3914699591
+    },
+    {
+        "titleID": 10044,
+        "titleNameTextMapHash": 979303295
+    },
+    {
+        "titleID": 10045,
+        "titleNameTextMapHash": 2421358927
+    },
+    {
+        "titleID": 10046,
+        "titleNameTextMapHash": 3108236287
+    },
+    {
+        "titleID": 10047,
+        "titleNameTextMapHash": 1882999935
+    },
+    {
+        "titleID": 10048,
+        "titleNameTextMapHash": 3554706967
+    },
+    {
+        "titleID": 10049,
+        "titleNameTextMapHash": 17236511
+    },
+    {
+        "titleID": 10050,
+        "titleNameTextMapHash": 1793795103
+    },
+    {
+        "titleID": 10051,
+        "titleNameTextMapHash": 469016327,
+        "isInverted": true
+    },
+    {
+        "titleID": 10052,
+        "titleNameTextMapHash": 1541802215
+    },
+    {
+        "titleID": 10053,
+        "titleNameTextMapHash": 406748647
+    },
+    {
+        "titleID": 10054,
+        "titleNameTextMapHash": 3037216599
+    },
+    {
+        "titleID": 10055,
+        "titleNameTextMapHash": 2869597431
+    },
+    {
+        "titleID": 10056,
+        "titleNameTextMapHash": 997421111
+    },
+    {
+        "titleID": 10057,
+        "titleNameTextMapHash": 264098255
+    },
+    {
+        "titleID": 10058,
+        "titleNameTextMapHash": 3682143087
+    },
+    {
+        "titleID": 10059,
+        "titleNameTextMapHash": 3886583495
+    },
+    {
+        "titleID": 10060,
+        "titleNameTextMapHash": 170477151
+    },
+    {
+        "titleID": 10061,
+        "titleNameTextMapHash": 121700391
+    },
+    {
+        "titleID": 10062,
+        "titleNameTextMapHash": 2417736951
+    },
+    {
+        "titleID": 10063,
+        "titleNameTextMapHash": 787337479
+    },
+    {
+        "titleID": 10064,
+        "titleNameTextMapHash": 3398850623
+    },
+    {
+        "titleID": 10065,
+        "titleNameTextMapHash": 447788807
+    },
+    {
+        "titleID": 10067,
+        "titleNameTextMapHash": 2085419679
+    },
+    {
+        "titleID": 10068,
+        "titleNameTextMapHash": 813985311
+    },
+    {
+        "titleID": 10069,
+        "titleNameTextMapHash": 1179393095,
+        "isInverted": true
+    },
+    {
+        "titleID": 10070,
+        "titleNameTextMapHash": 490955143
+    },
+    {
+        "titleID": 10071,
+        "titleNameTextMapHash": 2561370767
+    },
+    {
+        "titleID": 10072,
+        "titleNameTextMapHash": 672111127
+    },
+    {
+        "titleID": 10073,
+        "titleNameTextMapHash": 2777532791
+    },
+    {
+        "titleID": 10074,
+        "titleNameTextMapHash": 440157775
+    },
+    {
+        "titleID": 10075,
+        "titleNameTextMapHash": 3917885975
+    },
+    {
+        "titleID": 10076,
+        "titleNameTextMapHash": 3755794871
+    },
+    {
+        "titleID": 10077,
+        "titleNameTextMapHash": 2562208295
+    },
+    {
+        "titleID": 10078,
+        "titleNameTextMapHash": 2346084735
+    },
+    {
+        "titleID": 10079,
+        "titleNameTextMapHash": 887687583
+    },
+    {
+        "titleID": 10080,
+        "titleNameTextMapHash": 4176219855
+    },
+    {
+        "titleID": 10081,
+        "titleNameTextMapHash": 2585594071
+    },
+    {
+        "titleID": 10082,
+        "titleNameTextMapHash": 4182229031
+    },
+    {
+        "titleID": 10083,
+        "titleNameTextMapHash": 3755944239
+    },
+    {
+        "titleID": 10084,
+        "titleNameTextMapHash": 1234473015
+    },
+    {
+        "titleID": 10085,
+        "titleNameTextMapHash": 3217467799
+    },
+    {
+        "titleID": 10086,
+        "titleNameTextMapHash": 1233568935
+    },
+    {
+        "titleID": 10087,
+        "titleNameTextMapHash": 1307196423
+    },
+    {
+        "titleID": 10088,
+        "titleNameTextMapHash": 3838655807
+    },
+    {
+        "titleID": 10089,
+        "titleNameTextMapHash": 1745050399
+    },
+    {
+        "titleID": 10090,
+        "titleNameTextMapHash": 1878134239
+    },
+    {
+        "titleID": 10093,
+        "titleNameTextMapHash": 702047895
+    },
+    {
+        "titleID": 10094,
+        "titleNameTextMapHash": 131405335
+    },
+    {
+        "titleID": 10095,
+        "titleNameTextMapHash": 3974738703
+    },
+    {
+        "titleID": 10096,
+        "titleNameTextMapHash": 3441040807
+    },
+    {
+        "titleID": 10097,
+        "titleNameTextMapHash": 1587657927
     }
 ]

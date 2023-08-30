@@ -1,13 +1,32 @@
 [
     {
-        "Id": 1,
-        "Type": "WORLD_NORMAL",
-        "MainSceneId": 3,
-        "SubSceneIdVec": [
+        "id": 1,
+        "type": "WORLD_PLAYER",
+        "mainSceneId": 3,
+        "subSceneIdVec": [
             1004,
             1008,
             1009,
-            1018
+            1018,
+            1033,
+            1034,
+            1035,
+            1057,
+            1060,
+            1061,
+            1063,
+            1064,
+            1066,
+            1068
+        ]
+    },
+    {
+        "id": 2,
+        "type": "WORLD_HOME",
+        "mainSceneId": 2001,
+        "subSceneIdVec": [
+            2201,
+            2202
         ]
     }
 ]

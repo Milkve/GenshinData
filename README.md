@@ -1,6 +1,2 @@
 # GenshinData
-Repository containing the game data for the game Genshin Impact.
-
----
-
-This repository is a work between Falzar and I. Use it for whatever you want as long as you don't put words in our mouth.
+Repository containing the data for the live version of Genshin Impact. This repository is a work between [FZFalzar](https://github.com/FZFalzar) and I. If Mihoyo wants to request for a file to be taken down, please contact us.

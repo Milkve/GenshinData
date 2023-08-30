@@ -1,0 +1,44 @@
+[
+    {
+        "ID": 1,
+        "FFAECJAHKOB": [
+            {
+                "ECCIOMOBEOB": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "ECCIOMOBEOB": []
+            },
+            {
+                "ECCIOMOBEOB": []
+            }
+        ],
+        "MCPOHPBPDHC": [
+            1
+        ],
+        "EAHNJPLOINF": 5
+    },
+    {
+        "ID": 2,
+        "FFAECJAHKOB": [
+            {
+                "ECCIOMOBEOB": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "ECCIOMOBEOB": []
+            },
+            {
+                "ECCIOMOBEOB": []
+            }
+        ],
+        "MCPOHPBPDHC": [
+            4
+        ],
+        "EAHNJPLOINF": 5
+    }
+]

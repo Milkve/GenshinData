@@ -1,0 +1,99 @@
+[
+    {
+        "id": 111023,
+        "LLGFMGKCCFM": [
+            {
+                "JJLHEOMOFHP": 9201,
+                "weight": 1.0,
+                "EBKPOJHICNE": 1.0
+            },
+            {
+                "JJLHEOMOFHP": 9200,
+                "EBKPOJHICNE": 1.0
+            },
+            {},
+            {}
+        ],
+        "EKNKDGMIPEH": 2,
+        "KBOEBDEPNIA": []
+    },
+    {
+        "id": 111024,
+        "LLGFMGKCCFM": [
+            {
+                "JJLHEOMOFHP": 9202,
+                "weight": 1.0,
+                "EBKPOJHICNE": 1.0
+            },
+            {
+                "JJLHEOMOFHP": 9200,
+                "EBKPOJHICNE": 1.0
+            },
+            {},
+            {}
+        ],
+        "EKNKDGMIPEH": 3,
+        "KBOEBDEPNIA": []
+    },
+    {
+        "id": 111025,
+        "LLGFMGKCCFM": [
+            {
+                "JJLHEOMOFHP": 9203,
+                "weight": 1.0,
+                "EBKPOJHICNE": 1.0
+            },
+            {
+                "JJLHEOMOFHP": 9200,
+                "EBKPOJHICNE": 1.0
+            },
+            {},
+            {}
+        ],
+        "EKNKDGMIPEH": 4,
+        "KBOEBDEPNIA": []
+    },
+    {
+        "id": 111026,
+        "LLGFMGKCCFM": [
+            {
+                "JJLHEOMOFHP": 9204,
+                "weight": 1.0,
+                "EBKPOJHICNE": 1.0
+            },
+            {
+                "JJLHEOMOFHP": 9205,
+                "weight": 1.0,
+                "EBKPOJHICNE": 1.0
+            },
+            {
+                "JJLHEOMOFHP": 9200,
+                "EBKPOJHICNE": 1.0
+            },
+            {
+                "JJLHEOMOFHP": 9206,
+                "weight": 1.0,
+                "EBKPOJHICNE": 1.0
+            }
+        ],
+        "EKNKDGMIPEH": 5,
+        "KBOEBDEPNIA": []
+    },
+    {
+        "id": 111027,
+        "LLGFMGKCCFM": [
+            {
+                "JJLHEOMOFHP": 9200,
+                "weight": 1.0,
+                "EBKPOJHICNE": 1.0
+            },
+            {},
+            {},
+            {}
+        ],
+        "EKNKDGMIPEH": 1,
+        "KBOEBDEPNIA": [
+            10007
+        ]
+    }
+]

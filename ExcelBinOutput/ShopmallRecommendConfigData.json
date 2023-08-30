@@ -1,22 +1,25 @@
 [
     {
         "Id": 1,
-        "NameTextMapHash": 1731946084,
-        "SubTabId": 4,
-        "ShopType": "SHOP_TYPE_PACKAGE",
-        "GoodsIdVec": [],
-        "ConfigIdVec": [
+        "subTabId": 4,
+        "shopType": "SHOP_TYPE_PACKAGE",
+        "condVec": [],
+        "configIdVec": [
             101
         ],
-        "CondVec": [
+        "goodsIdVec": [
             {
-                "Type": "SHOPMALL_RECOMMEND_COND_PLAYER_LEVEL_GE",
-                "Param1": 1
+                "type": "SHOPMALL_RECOMMEND_COND_PLAYER_LEVEL_GE",
+                "IOODBPEAAKB": "1",
+                "ANACLEHGLHE": ""
             },
-            {}
+            {
+                "IOODBPEAAKB": "",
+                "ANACLEHGLHE": ""
+            }
         ],
-        "Order": 3,
-        "OneCardIconName": "MallPackage_MonthlyCard",
-        "ColShowIconName": []
+        "order": 3,
+        "oneCardIconName": "MallPackage_MonthlyCard",
+        "colShowIconName": []
     }
 ]

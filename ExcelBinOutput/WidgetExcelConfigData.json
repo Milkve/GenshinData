@@ -1,83 +1,221 @@
 [
     {
-        "MaterialID": 220001,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220001,
+        "customizeDesc": [
             3629774591,
             871310425,
             2088703939
         ]
     },
     {
-        "MaterialID": 220002,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220002,
+        "customizeDesc": [
             2560125751,
             1328641489,
             908601947
         ]
     },
     {
-        "MaterialID": 220003,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220003,
+        "customizeDesc": [
             3912737791,
             1994584561,
             1902183123
         ]
     },
     {
-        "MaterialID": 220004,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220004,
+        "customizeDesc": [
             2585787631,
             3772038129,
             3898309475
         ]
     },
     {
-        "MaterialID": 220005,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220005,
+        "customizeDesc": [
             3230239311,
             470813393,
             2996411075
         ]
     },
     {
-        "MaterialID": 220006,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220006,
+        "customizeDesc": [
             1232107607,
             160823129,
             353373587
         ]
     },
     {
-        "MaterialID": 220007,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
-            1442469735,
-            1002095769,
-            3249108155
-        ]
-    },
-    {
-        "MaterialID": 220008,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220008,
+        "customizeDesc": [
             1370426415,
             3930082457,
             3695954083
         ]
     },
     {
-        "MaterialID": 220009,
-        "JsonAddr": "ConfigWidget",
-        "CustomizeDesc": [
+        "materialID": 220009,
+        "customizeDesc": [
             949776055,
             1126483025,
             1853042083
+        ]
+    },
+    {
+        "materialID": 220013,
+        "jsonAddr": true,
+        "customizeDesc": [
+            4024216247,
+            3699059993,
+            4000908827
+        ]
+    },
+    {
+        "materialID": 220022,
+        "jsonAddr": true,
+        "customizeDesc": [
+            4092527983,
+            2007969305,
+            659813587
+        ]
+    },
+    {
+        "materialID": 220025,
+        "jsonAddr": true,
+        "customizeDesc": [
+            3954374743,
+            398784097,
+            1334199211
+        ]
+    },
+    {
+        "materialID": 220032,
+        "customizeDesc": [
+            2411881199,
+            68529857,
+            3332075995
+        ]
+    },
+    {
+        "materialID": 220033,
+        "jsonAddr": true,
+        "customizeDesc": [
+            153164423,
+            789740985,
+            3672517227
+        ]
+    },
+    {
+        "materialID": 220036,
+        "jsonAddr": true,
+        "customizeDesc": [
+            2660381967,
+            2724316497,
+            3204774859
+        ]
+    },
+    {
+        "materialID": 220037,
+        "jsonAddr": true,
+        "customizeDesc": [
+            3206580511,
+            1677452441,
+            3292890323
+        ]
+    },
+    {
+        "materialID": 220040,
+        "jsonAddr": true,
+        "customizeDesc": [
+            4106203023,
+            3286923729,
+            1018109059
+        ]
+    },
+    {
+        "materialID": 220042,
+        "jsonAddr": true,
+        "customizeDesc": [
+            428643663,
+            2236791889,
+            4012790659
+        ],
+        "pushTipsId": 10006
+    },
+    {
+        "materialID": 220043,
+        "jsonAddr": true,
+        "customizeDesc": [
+            790896367,
+            2963530689,
+            3022929467
+        ],
+        "pushTipsId": 7006
+    },
+    {
+        "materialID": 220044,
+        "jsonAddr": true,
+        "customizeDesc": [
+            4291642711,
+            3325182625,
+            3047131171
+        ]
+    },
+    {
+        "materialID": 220045,
+        "customizeDesc": [
+            2612586191,
+            387953225,
+            3587922451
+        ]
+    },
+    {
+        "materialID": 220046,
+        "jsonAddr": true,
+        "customizeDesc": [
+            3420358031,
+            4072873833,
+            291567163
+        ]
+    },
+    {
+        "materialID": 220047,
+        "jsonAddr": true,
+        "customizeDesc": [
+            950031727,
+            1040923481,
+            2648347931
+        ],
+        "pushTipsId": 7007
+    },
+    {
+        "materialID": 220048,
+        "jsonAddr": true,
+        "customizeDesc": [
+            763511239,
+            853619401,
+            348106803
+        ],
+        "pushTipsId": 7008
+    },
+    {
+        "materialID": 220049,
+        "jsonAddr": true,
+        "customizeDesc": [
+            2238263951,
+            2625541041,
+            1430309931
+        ],
+        "pushTipsId": 6047
+    },
+    {
+        "materialID": 220050,
+        "customizeDesc": [
+            3922817951,
+            1437155209,
+            437074419
         ]
     }
 ]

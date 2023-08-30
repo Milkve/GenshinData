@@ -1,0 +1,30 @@
+[
+    {
+        "avatarId": 10000022,
+        "HKAMALMFNDH": 111,
+        "finishCond": {
+            "paramList": [
+                39604
+            ]
+        }
+    },
+    {
+        "avatarId": 10000030,
+        "HKAMALMFNDH": 118,
+        "finishCond": {
+            "paramList": [
+                102510
+            ]
+        }
+    },
+    {
+        "avatarId": 10000052,
+        "HKAMALMFNDH": 139,
+        "finishCond": {
+            "condType": "TRIAL_FETTER_CONDITION_LEVEL",
+            "paramList": [
+                1
+            ]
+        }
+    }
+]

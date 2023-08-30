@@ -1,0 +1,434 @@
+[
+    {
+        "Id": 1,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_NormalAttack",
+        "titleTextMapHash": 1888818478,
+        "descTextMapHash": 2026848900,
+        "descParam": [
+            "15",
+            "50",
+            "8",
+            "4",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 3458230438,
+        "CKIDKHOIEOP": 247
+    },
+    {
+        "Id": 2,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ExtraAttack",
+        "titleTextMapHash": 4254722622,
+        "descTextMapHash": 3830680204,
+        "descParam": [
+            "15",
+            "30",
+            "65",
+            "30",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 2347623342,
+        "CKIDKHOIEOP": 216
+    },
+    {
+        "Id": 3,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_FallingDamage",
+        "titleTextMapHash": 1966603390,
+        "descTextMapHash": 3222065500,
+        "descParam": [
+            "15",
+            "85",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 1468124908,
+        "CKIDKHOIEOP": 134
+    },
+    {
+        "Id": 4,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_GenerateBall_AfterElementalArt",
+        "titleTextMapHash": 3006041230,
+        "descTextMapHash": 4217978076,
+        "descParam": [
+            "15",
+            "20",
+            "5",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 3834395571,
+        "CKIDKHOIEOP": 193
+    },
+    {
+        "Id": 5,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_Elemental_Burst",
+        "titleTextMapHash": 4144478854,
+        "descTextMapHash": 1591056956,
+        "descParam": [
+            "25",
+            "30",
+            "50",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 3022676406,
+        "CKIDKHOIEOP": 106
+    },
+    {
+        "Id": 6,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ShieldBeingHitDoAttack",
+        "titleTextMapHash": 1718305718,
+        "descTextMapHash": 3052686380,
+        "descParam": [
+            "15",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 3052728856,
+        "CKIDKHOIEOP": 254
+    },
+    {
+        "Id": 7,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_TriggerAoe_AfterHealUp",
+        "titleTextMapHash": 2758299374,
+        "descTextMapHash": 83683668,
+        "descParam": [
+            "15",
+            "5",
+            "0.5",
+            "3",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 2735585015,
+        "CKIDKHOIEOP": 198
+    },
+    {
+        "Id": 8,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_Fever_Faster",
+        "titleTextMapHash": 2219183486,
+        "descTextMapHash": 2555546628,
+        "descParam": [
+            "25",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 663852712,
+        "CKIDKHOIEOP": 21
+    },
+    {
+        "Id": 9,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ElemMasteryDelta",
+        "titleTextMapHash": 1578630358,
+        "descTextMapHash": 1553190988,
+        "descParam": [
+            "25",
+            "150",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 2111240122,
+        "CKIDKHOIEOP": 218
+    },
+    {
+        "Id": 10,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ElementAddHurt_Fire",
+        "titleTextMapHash": 2908248582,
+        "descTextMapHash": 516092700,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 611073829,
+        "CKIDKHOIEOP": 132
+    },
+    {
+        "Id": 11,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ElementAddHurt_Ice",
+        "titleTextMapHash": 1205817918,
+        "descTextMapHash": 3616851108,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 1092484415,
+        "CKIDKHOIEOP": 173
+    },
+    {
+        "Id": 12,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ElementAddHurt_Elec",
+        "titleTextMapHash": 246224494,
+        "descTextMapHash": 286896028,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 3600245387,
+        "CKIDKHOIEOP": 144
+    },
+    {
+        "Id": 13,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ElementAddHurt_Rock",
+        "titleTextMapHash": 231665798,
+        "descTextMapHash": 3397554804,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 668582569,
+        "CKIDKHOIEOP": 27
+    },
+    {
+        "Id": 14,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ElementAddHurt_Water",
+        "titleTextMapHash": 1903822606,
+        "descTextMapHash": 2550840028,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 2147398688,
+        "CKIDKHOIEOP": 208
+    },
+    {
+        "Id": 15,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_ElementAddHurt_Wind",
+        "titleTextMapHash": 2666190454,
+        "descTextMapHash": 237739652,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 1317417491,
+        "CKIDKHOIEOP": 188
+    },
+    {
+        "Id": 16,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_PhysicalAddHurt",
+        "titleTextMapHash": 2281063270,
+        "descTextMapHash": 2547860564,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 1154924311,
+        "CKIDKHOIEOP": 4
+    },
+    {
+        "Id": 17,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_CriticalHurtDelta",
+        "titleTextMapHash": 3812625190,
+        "descTextMapHash": 2492209036,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 1081252313,
+        "CKIDKHOIEOP": 249
+    },
+    {
+        "Id": 18,
+        "FGJONOJPIBD": "Ability_Activity_Sumo_AtkUp",
+        "titleTextMapHash": 341201982,
+        "descTextMapHash": 1790711804,
+        "descParam": [
+            "25",
+            "60",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 3022809595,
+        "CKIDKHOIEOP": 208
+    },
+    {
+        "Id": 19,
+        "FGJONOJPIBD": "Activity_Sumo_Cannon",
+        "titleTextMapHash": 1766680054,
+        "descTextMapHash": 675428428,
+        "descParam": [
+            "15",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 4010191744,
+        "CKIDKHOIEOP": 72
+    },
+    {
+        "Id": 20,
+        "FGJONOJPIBD": "Activity_Sumo_ArtAndBurst_DamageUp",
+        "titleTextMapHash": 2552423662,
+        "descTextMapHash": 2974175132,
+        "descParam": [
+            "15",
+            "12.5",
+            "8",
+            "0.5",
+            "50",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 2503402236,
+        "CKIDKHOIEOP": 137
+    },
+    {
+        "Id": 21,
+        "FGJONOJPIBD": "Activity_Sumo_ReviveEnergy",
+        "titleTextMapHash": 1955521606,
+        "descTextMapHash": 2463378612,
+        "descParam": [
+            "15",
+            "3",
+            "0.6",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 58129973,
+        "CKIDKHOIEOP": 246
+    },
+    {
+        "Id": 22,
+        "FGJONOJPIBD": "Activity_Sumo_WindZone",
+        "titleTextMapHash": 2198395846,
+        "descTextMapHash": 3110237396,
+        "descParam": [
+            "15",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 2929424454,
+        "CKIDKHOIEOP": 97
+    },
+    {
+        "Id": 23,
+        "FGJONOJPIBD": "Activity_Sumo_WaterZone",
+        "titleTextMapHash": 4035175758,
+        "descTextMapHash": 3257423620,
+        "descParam": [
+            "15",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 2743595622,
+        "CKIDKHOIEOP": 242
+    },
+    {
+        "Id": 24,
+        "FGJONOJPIBD": "Activity_Sumo_ExtraAttack_RandomDamage",
+        "titleTextMapHash": 1491047606,
+        "descTextMapHash": 2017493076,
+        "descParam": [
+            "15",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "AKDJKMBLKEA": 113457726,
+        "CKIDKHOIEOP": 187
+    }
+]

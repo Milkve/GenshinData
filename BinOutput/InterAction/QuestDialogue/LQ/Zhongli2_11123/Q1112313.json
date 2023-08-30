@@ -1,0 +1,128 @@
+{
+    "DMKFOJGLJCN": "",
+    "LIGJDKPPPGI": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": ""
+        },
+        {
+            "configID": 10385,
+            "alias": "10385",
+            "visible": true,
+            "bornPointName": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "ConfigCameraMoveInterAction",
+                "type": "CAMERA_FOCUS",
+                "targetNpcAlias": ""
+            },
+            {
+                "$type": "ConfigLookAtInterAction",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "enableHead": true,
+                "headTurnTime": 0.5,
+                "targetNpcAlias": "10385"
+            },
+            {
+                "$type": "ConfigLookAtEyeCtrlInterAction",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "useTargetPos": false,
+                "eyeRotateVecLeft": {
+                    "z": 3.0
+                },
+                "eyeRotateVecRight": {
+                    "z": 3.0
+                },
+                "turnTime": 1.0,
+                "targetNpcAlias": "",
+                "targetPoint": "Face"
+            },
+            {
+                "$type": "ConfigSteerInterAction",
+                "type": "STEER_TO",
+                "delayTime": 0.5,
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "steerType": "TO_TARGET",
+                "useSteerAnim": true,
+                "interruptFreestyle": true,
+                "forceSteer": true,
+                "targetNpcAlias": "10385"
+            },
+            {
+                "$type": "ConfigDialogInterAction",
+                "type": "DIALOG",
+                "aliasList": [
+                    "10385"
+                ],
+                "dialogID": 111231301,
+                "protectTime": 0.5
+            },
+            {
+                "$type": "ConfigEmoSyncInterAction",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "10385"
+                ],
+                "dataPath": "",
+                "phonemePath": "Cs_Emo_NPC_Common/Cs_Emo_NPC_Angry04",
+                "emotionPath": "Cs_Emo_NPC_Common/Cs_Emo_NPC_WinkA04",
+                "mateDataPath": "",
+                "matePhonemePath": "",
+                "mateEmotionPath": "",
+                "enableBlink": false,
+                "phonemePathHashList": [
+                    487349004127,
+                    427029504736,
+                    69597937015,
+                    187876993628
+                ],
+                "emotionPathHashList": [
+                    534933208090,
+                    162143549136,
+                    974702017265,
+                    522183428996
+                ]
+            },
+            {
+                "$type": "ConfigLookAtInterAction",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "10385"
+                ],
+                "headTurnTime": 0.5,
+                "targetNpcAlias": "",
+                "lookAtTargetType": "NONE"
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 2619655700,
+            "nextGrpId": 2619655701
+        }
+    ],
+    "freeStyleDic": {
+        "10385": []
+    }
+}

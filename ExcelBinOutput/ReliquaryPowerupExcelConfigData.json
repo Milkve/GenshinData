@@ -1,14 +1,11 @@
 [
     {
-        "PowerupMultiple": 1,
-        "PowerupWeight": 9000
+        "powerupMultiple": 1
     },
     {
-        "PowerupMultiple": 2,
-        "PowerupWeight": 900
+        "powerupMultiple": 2
     },
     {
-        "PowerupMultiple": 5,
-        "PowerupWeight": 100
+        "powerupMultiple": 5
     }
 ]

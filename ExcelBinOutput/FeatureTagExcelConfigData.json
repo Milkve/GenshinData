@@ -1,262 +1,278 @@
 [
     {
-        "TagID": 1001,
-        "TagName": "蒙德",
-        "TagDesp": "角色属于蒙德"
+        "tagID": 1001
     },
     {
-        "TagID": 1002,
-        "TagName": "璃月",
-        "TagDesp": "角色属于璃月"
+        "tagID": 1002
     },
     {
-        "TagID": 1003,
-        "TagName": "稻妻",
-        "TagDesp": "角色属于稻妻"
+        "tagID": 1003
     },
     {
-        "TagID": 1011,
-        "TagName": "主角",
-        "TagDesp": "男主/女主分类"
+        "tagID": 1004
     },
     {
-        "TagID": 1012,
-        "TagName": "魔神",
-        "TagDesp": "目前用于判断 陨石活动中神之眼是否会闪烁（因为魔神的神之眼是假的）"
+        "tagID": 1011
     },
     {
-        "TagID": 1041,
-        "TagName": "成男体型",
-        "TagDesp": ""
+        "tagID": 1012
     },
     {
-        "TagID": 1042,
-        "TagName": "成女体型",
-        "TagDesp": ""
+        "tagID": 1041
     },
     {
-        "TagID": 1043,
-        "TagName": "少男体型",
-        "TagDesp": ""
+        "tagID": 1042
     },
     {
-        "TagID": 1044,
-        "TagName": "少女体型",
-        "TagDesp": ""
+        "tagID": 1043
     },
     {
-        "TagID": 1045,
-        "TagName": "萝莉体型",
-        "TagDesp": ""
+        "tagID": 1044
     },
     {
-        "TagID": 1051,
-        "TagName": "单手剑武器",
-        "TagDesp": ""
+        "tagID": 1045
     },
     {
-        "TagID": 1052,
-        "TagName": "双手剑武器",
-        "TagDesp": ""
+        "tagID": 1051
     },
     {
-        "TagID": 1053,
-        "TagName": "长柄武器",
-        "TagDesp": ""
+        "tagID": 1052
     },
     {
-        "TagID": 1054,
-        "TagName": "法器武器",
-        "TagDesp": ""
+        "tagID": 1053
     },
     {
-        "TagID": 1055,
-        "TagName": "弓箭武器",
-        "TagDesp": ""
+        "tagID": 1054
     },
     {
-        "TagID": 1095,
-        "TagName": "阿贝多",
-        "TagDesp": ""
+        "tagID": 1055
     },
     {
-        "TagID": 1096,
-        "TagName": "诺艾尔",
-        "TagDesp": ""
+        "tagID": 1095
     },
     {
-        "TagID": 1097,
-        "TagName": "北斗",
-        "TagDesp": ""
+        "tagID": 1096
     },
     {
-        "TagID": 1098,
-        "TagName": "行秋",
-        "TagDesp": ""
+        "tagID": 1097
     },
     {
-        "TagID": 1099,
-        "TagName": "钟离",
-        "TagDesp": ""
+        "tagID": 1098
     },
     {
-        "TagID": 3001,
-        "TagName": "生物",
-        "TagDesp": ""
+        "tagID": 1099
     },
     {
-        "TagID": 3002,
-        "TagName": "非生物",
-        "TagDesp": ""
+        "tagID": 3001
     },
     {
-        "TagID": 3003,
-        "TagName": "人形",
-        "TagDesp": ""
+        "tagID": 3002
     },
     {
-        "TagID": 3004,
-        "TagName": "非人形",
-        "TagDesp": ""
+        "tagID": 3003
     },
     {
-        "TagID": 3005,
-        "TagName": "自带元素",
-        "TagDesp": ""
+        "tagID": 3004
     },
     {
-        "TagID": 4001,
-        "TagName": "丘丘人",
-        "TagDesp": "任意类丘丘人"
+        "tagID": 3005
     },
     {
-        "TagID": 4002,
-        "TagName": "史莱姆",
-        "TagDesp": "任意类史莱姆"
+        "tagID": 3006
     },
     {
-        "TagID": 4003,
-        "TagName": "元素球",
-        "TagDesp": "任意类元素球"
+        "tagID": 4001
     },
     {
-        "TagID": 4004,
-        "TagName": "萨满怪",
-        "TagDesp": "任意类萨满"
+        "tagID": 4002
     },
     {
-        "TagID": 4005,
-        "TagName": "遗迹怪",
-        "TagDesp": "任意类遗迹怪"
+        "tagID": 4003
     },
     {
-        "TagID": 4006,
-        "TagName": "盗宝团",
-        "TagDesp": "盗宝团怪物"
+        "tagID": 4004
     },
     {
-        "TagID": 4007,
-        "TagName": "千岩军",
-        "TagDesp": "千岩军怪物"
+        "tagID": 4005
     },
     {
-        "TagID": 4008,
-        "TagName": "植物怪",
-        "TagDesp": "植物怪怪物"
+        "tagID": 4006
     },
     {
-        "TagID": 4009,
-        "TagName": "愚人众先遣队",
-        "TagDesp": "任意类愚人众先遣队"
+        "tagID": 4007
     },
     {
-        "TagID": 4901,
-        "TagName": "远程怪",
-        "TagDesp": "怪物分类_远程"
+        "tagID": 4008
     },
     {
-        "TagID": 4902,
-        "TagName": "近战怪",
-        "TagDesp": "怪物分类_近战"
+        "tagID": 4009
     },
     {
-        "TagID": 4903,
-        "TagName": "队长怪",
-        "TagDesp": "怪物分类 队长"
+        "tagID": 4010
     },
     {
-        "TagID": 9001,
-        "TagName": "动物",
-        "TagDesp": ""
+        "tagID": 4011
     },
     {
-        "TagID": 10016,
-        "TagName": "迪卢克",
-        "TagDesp": ""
+        "tagID": 4012
     },
     {
-        "TagID": 10020,
-        "TagName": "雷泽",
-        "TagDesp": ""
+        "tagID": 4013
     },
     {
-        "TagID": 10023,
-        "TagName": "香菱",
-        "TagDesp": ""
+        "tagID": 4014
     },
     {
-        "TagID": 10025,
-        "TagName": "行秋",
-        "TagDesp": ""
+        "tagID": 4901
     },
     {
-        "TagID": 10026,
-        "TagName": "魈",
-        "TagDesp": "魈——用作魈地城判定"
+        "tagID": 4902
     },
     {
-        "TagID": 10029,
-        "TagName": "可莉",
-        "TagDesp": ""
+        "tagID": 4903
     },
     {
-        "TagID": 10031,
-        "TagName": "菲谢尔",
-        "TagDesp": ""
+        "tagID": 9001
     },
     {
-        "TagID": 10032,
-        "TagName": "班尼特",
-        "TagDesp": ""
+        "tagID": 9002
     },
     {
-        "TagID": 10034,
-        "TagName": "诺埃尔",
-        "TagDesp": ""
+        "tagID": 9003
     },
     {
-        "TagID": 10036,
-        "TagName": "重云",
-        "TagDesp": ""
+        "tagID": 9004
     },
     {
-        "TagID": 10037,
-        "TagName": "甘雨",
-        "TagDesp": ""
+        "tagID": 9005
     },
     {
-        "TagID": 10038,
-        "TagName": "阿贝多",
-        "TagDesp": ""
+        "tagID": 9101
     },
     {
-        "TagID": 10042,
-        "TagName": "刻晴",
-        "TagDesp": ""
+        "tagID": 9102
     },
     {
-        "TagID": 10043,
-        "TagName": "砂糖",
-        "TagDesp": ""
+        "tagID": 9200
+    },
+    {
+        "tagID": 9201
+    },
+    {
+        "tagID": 9202
+    },
+    {
+        "tagID": 9203
+    },
+    {
+        "tagID": 9204
+    },
+    {
+        "tagID": 9205
+    },
+    {
+        "tagID": 9206
+    },
+    {
+        "tagID": 9301
+    },
+    {
+        "tagID": 9302
+    },
+    {
+        "tagID": 9303
+    },
+    {
+        "tagID": 9901
+    },
+    {
+        "tagID": 10016
+    },
+    {
+        "tagID": 10020
+    },
+    {
+        "tagID": 10023
+    },
+    {
+        "tagID": 10025
+    },
+    {
+        "tagID": 10026
+    },
+    {
+        "tagID": 10029
+    },
+    {
+        "tagID": 10030
+    },
+    {
+        "tagID": 10031
+    },
+    {
+        "tagID": 10032
+    },
+    {
+        "tagID": 10033
+    },
+    {
+        "tagID": 10034
+    },
+    {
+        "tagID": 10036
+    },
+    {
+        "tagID": 10037
+    },
+    {
+        "tagID": 10038
+    },
+    {
+        "tagID": 10039
+    },
+    {
+        "tagID": 10042
+    },
+    {
+        "tagID": 10043
+    },
+    {
+        "tagID": 10045
+    },
+    {
+        "tagID": 10047
+    },
+    {
+        "tagID": 10048
+    },
+    {
+        "tagID": 10050
+    },
+    {
+        "tagID": 10051
+    },
+    {
+        "tagID": 10052
+    },
+    {
+        "tagID": 10055
+    },
+    {
+        "tagID": 10056
+    },
+    {
+        "tagID": 10057
+    },
+    {
+        "tagID": 10058
+    },
+    {
+        "tagID": 10062
+    },
+    {
+        "tagID": 10064
+    },
+    {
+        "tagID": 10065
     }
 ]

@@ -1,0 +1,2328 @@
+[
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "AI_LeaveCombat_Reset",
+            "modifiers": {
+                "AI_Reset_HP": {
+                    "modifierName": "",
+                    "duration": 1.0,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "HealHP",
+                            "target": "Target",
+                            "amountByTargetMaxHPRatio": 1.0,
+                            "muteHealEffect": true
+                        }
+                    ]
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "ApplyModifier",
+                    "target": "Target",
+                    "modifierName": "AI_Reset_HP"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Gadget_Level_Paimon_Apple",
+            "onAbilityStart": [
+                {
+                    "$type": "SetPaimonLookAtAvatar",
+                    "from": "Task",
+                    "lookat": true,
+                    "minTime": 2.200000047683716,
+                    "maxTime": 2.200000047683716
+                },
+                {
+                    "$type": "PaimonAction",
+                    "from": "Task",
+                    "actionName": "Hope"
+                },
+                {
+                    "$type": "SetPaimonTempOffset",
+                    "from": "Task",
+                    "offSetPos": {
+                        "x": 0.25,
+                        "y": 1.149999976158142,
+                        "z": 3.049999952316284
+                    },
+                    "time": 3.0
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Gadget_Level_Paimon_Stamina",
+            "onAbilityStart": [
+                {
+                    "$type": "SetPaimonLookAtCamera",
+                    "from": "Task",
+                    "lookat": true,
+                    "minTime": 2.5,
+                    "maxTime": 2.5
+                },
+                {
+                    "$type": "PaimonAction",
+                    "from": "Task",
+                    "actionName": "Guide"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Level_Apply_Switch_SneakBtn",
+            "modifiers": {
+                "UNIQUE_WatchingCurAvatarModifier": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixin",
+                            "modifierName": "UNIQUE_SwtichBtnModifier"
+                        }
+                    ]
+                },
+                "UNIQUE_SwtichBtnModifier": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddAvatarSkillInfo",
+                            "skillID": 10035
+                        },
+                        {
+                            "$type": "ApplyModifier",
+                            "modifierName": "SwithBtnModifier"
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "RemoveModifier",
+                            "modifierName": "SwithBtnModifier"
+                        },
+                        {
+                            "$type": "RemoveAvatarSkillInfo",
+                            "skillID": 10035
+                        }
+                    ]
+                },
+                "SwithBtnModifier": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "SwitchSkillIDMixin",
+                            "priority": "Quest",
+                            "skillIndex": 1,
+                            "skillID": 10035
+                        }
+                    ]
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "ApplyModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_WatchingCurAvatarModifier"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Level_Remove_Switch_SneakBtn",
+            "onAbilityStart": [
+                {
+                    "$type": "RemoveUniqueModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_WatchingCurAvatarModifier"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_Player_RunBomber",
+            "modifiers": {
+                "UNIQUE_Avatar_Start_RunBomber": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "AttachToAnimatorStateIDMixin",
+                            "stateIDs": [
+                                "Run"
+                            ],
+                            "modifierName": "Avatar_Start_RunBomber"
+                        }
+                    ]
+                },
+                "Avatar_Start_RunBomber": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "TriggerBullet",
+                            "bulletID": 40000174,
+                            "born": {
+                                "$type": "ConfigBornByTarget",
+                                "offset": {
+                                    "x": 0.0,
+                                    "y": 0.5,
+                                    "z": 0.10000000149011612
+                                }
+                            }
+                        }
+                    ]
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "ApplyModifier",
+                    "target": "CurTeamAvatars",
+                    "modifierName": "UNIQUE_Avatar_Start_RunBomber"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_Test_FlyingBomber",
+            "modifiers": {
+                "Avatar_Player_CamCtrl_Modifier": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "TriggerAbility",
+                            "doOffStage": true,
+                            "abilityName": "Avatar_Player_CamCtrl"
+                        }
+                    ]
+                },
+                "UNIQUE_WatchingCurAvatarModifier_Flying": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixin",
+                            "modifierName": "UNIQUE_SwtichBtnModifier_Flying"
+                        },
+                        {
+                            "$type": "CurLocalAvatarMixin",
+                            "modifierName": "Avatar_Player_CamCtrl_Modifier"
+                        },
+                        {
+                            "$type": "CurLocalAvatarMixin",
+                            "modifierName": "Avatar_Player_SetFlyState_Modifier"
+                        }
+                    ]
+                },
+                "UNIQUE_SwtichBtnModifier_Flying": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddAvatarSkillInfo",
+                            "doOffStage": true,
+                            "skillID": 10037
+                        },
+                        {
+                            "$type": "ApplyModifier",
+                            "doOffStage": true,
+                            "modifierName": "SwithBtnModifier_Flying"
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "RemoveModifier",
+                            "modifierName": "SwithBtnModifier_Flying"
+                        },
+                        {
+                            "$type": "RemoveAvatarSkillInfo",
+                            "skillID": 10037
+                        }
+                    ]
+                },
+                "SwithBtnModifier_Flying": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "AvatarChangeSkillMixin",
+                            "index": 1,
+                            "priority": "Quest",
+                            "jumpSkillID": 10037,
+                            "flySkillID": 10037
+                        }
+                    ]
+                },
+                "Avatar_Player_SetFlyState_Modifier": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "properties": {
+                        "Actor_FlyBackSpeedMaxRatio": 1.0,
+                        "Actor_FlyHorizontalSpeedMaxRatio": 3.0,
+                        "Actor_FlyRotationAngularVelocityRatio": 1.0,
+                        "Actor_FlyDownSpeedRatio": -0.6100000143051147,
+                        "Actor_FlyForwardSpeedMaxRatio": 0.33000001311302185
+                    }
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "ApplyModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_WatchingCurAvatarModifier_Flying"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Level_Remove_Avatar_Test_FlyingBomber",
+            "onAbilityStart": [
+                {
+                    "$type": "RemoveUniqueModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_WatchingCurAvatarModifier_Flying"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Level_Apply_Switch_FindCatBtn",
+            "modifiers": {
+                "UNIQUE_WatchingCurAvatarModifier_FindCat": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixin",
+                            "modifierName": "UNIQUE_SwtichBtnModifier_FindCat"
+                        }
+                    ]
+                },
+                "UNIQUE_SwtichBtnModifier_FindCat": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddAvatarSkillInfo",
+                            "skillID": 10384
+                        },
+                        {
+                            "$type": "ApplyModifier",
+                            "modifierName": "SwithBtnModifier"
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "RemoveModifier",
+                            "modifierName": "SwithBtnModifier"
+                        },
+                        {
+                            "$type": "RemoveAvatarSkillInfo",
+                            "skillID": 10384
+                        }
+                    ]
+                },
+                "SwithBtnModifier": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "SwitchSkillIDMixin",
+                            "priority": "Quest",
+                            "skillIndex": 1,
+                            "skillID": 10384
+                        }
+                    ]
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "ApplyModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_WatchingCurAvatarModifier_FindCat"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Level_Remove_Switch_FindCatBtn",
+            "onAbilityStart": [
+                {
+                    "$type": "RemoveUniqueModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_WatchingCurAvatarModifier_FindCat"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "LevelBuff_ReviveElemEnergyMinusCD",
+            "modifiers": {
+                "UNIQUE_LevelBuff_ReviveElemEnergy_Check": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 120.0,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixin",
+                            "modifierName": "UNIQUE_LevelBuff_ReviveElemEnergy"
+                        }
+                    ]
+                },
+                "UNIQUE_LevelBuff_ReviveElemEnergy": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 120.0,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "ReviveElemEnergyMixin",
+                            "period": 1.0,
+                            "baseEnergy": 10.0,
+                            "ratio": 1.0
+                        }
+                    ],
+                    "properties": {
+                        "Actor_SkillCDMinusRatio": 0.4000000059604645
+                    },
+                    "onAdded": [
+                        {
+                            "$type": "AttachEffect",
+                            "effectPattern": "Eff_MQ1002_XueyueBuff"
+                        }
+                    ]
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "AttachModifier",
+                    "target": "Team",
+                    "doOffStage": true,
+                    "modifierName": "UNIQUE_LevelBuff_ReviveElemEnergy_Check"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "LevelBuff_Remove_ReviveElemEnergyMinusCD",
+            "onAbilityStart": [
+                {
+                    "$type": "RemoveUniqueModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_LevelBuff_ReviveElemEnergy_Check"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_FallingDamageImmune",
+            "modifiers": {
+                "UNIQUE_Avatar_FallingDamage": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "properties": {
+                        "Actor_FallingDamageRatio": -1.0
+                    }
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "ApplyModifier",
+                    "target": "CurTeamAvatars",
+                    "modifierName": "UNIQUE_Avatar_FallingDamage"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Level_Remove_FallingDamageImmune",
+            "onAbilityStart": [
+                {
+                    "$type": "RemoveUniqueModifier",
+                    "target": "CurTeamAvatars",
+                    "modifierName": "UNIQUE_Avatar_FallingDamage"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_Player_StaminaReduced",
+            "modifiers": {
+                "UNIQUE_StaminaReduced_Team": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixin",
+                            "modifierName": "UNIQUE_Avatar_StaminaReduced"
+                        }
+                    ]
+                },
+                "UNIQUE_Avatar_StaminaReduced": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "AttachToStateIDMixin",
+                            "stateIDs": [
+                                "Fly"
+                            ],
+                            "modifierName": "Avatar_Flying_StaminaReduced"
+                        },
+                        {
+                            "$type": "AttachToAnimatorStateIDMixin",
+                            "stateIDs": [
+                                "Run"
+                            ],
+                            "modifierName": "Avatar_Flying_StaminaReduced"
+                        }
+                    ]
+                },
+                "Avatar_Flying_StaminaReduced": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "properties": {
+                        "Actor_MaxStaminaDelta": 100.0,
+                        "Actor_CostStaminaRatio": -999.0,
+                        "Actor_EndureDelta": 0.0
+                    },
+                    "onAdded": [
+                        {
+                            "$type": "AttachAbilityStateResistance",
+                            "resistanceListID": 11002
+                        },
+                        {
+                            "$type": "SetAvatarHitBuckets",
+                            "overrideAvatarHitBucketSetting": {
+                                "rangedBucketCount": 4
+                            }
+                        }
+                    ]
+                }
+            },
+            "onAbilityStart": [
+                {
+                    "$type": "ApplyModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_StaminaReduced_Team"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Level_Remove_Avatar_Player_StaminaReduced",
+            "onAbilityStart": [
+                {
+                    "$type": "RemoveUniqueModifier",
+                    "target": "Team",
+                    "modifierName": "UNIQUE_Avatar_StaminaReduced"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Electric_Alter",
+            "modifiers": {
+                "Electric_Alter": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_ELECTRIC_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_ELECTRIC_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Electric_Alter"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Swirl_Fire_Alter",
+            "modifiers": {
+                "Swirl_Fire_Alter": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_SWRIL_FIRE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_SWRIL_FIRE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Swirl_Fire_Alter"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Swirl_Electric_Alter",
+            "modifiers": {
+                "Swirl_Electric": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_SWRIL_ELECTRIC_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_SWRIL_ELECTRIC_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Swirl_Electric"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Swirl_Water_Alter",
+            "modifiers": {
+                "Swirl_Water": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_SWRIL_WATER_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_SWRIL_WATER_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Swirl_Water"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Swirl_Ice_Alter",
+            "modifiers": {
+                "Swirl_Ice": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_SWRIL_ICE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_SWRIL_ICE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Swirl_Ice"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Explode_Alter",
+            "modifiers": {
+                "Explode_Alter": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_EXPLODE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_EXPLODE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Explode_Alter"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Superconductor_Alter",
+            "modifiers": {
+                "Superconductor_Alter": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_SUPERCONDUCTOR_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_SUPERCONDUCTOR_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Superconductor_Alter"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Burning_Alter",
+            "modifiers": {
+                "Burning_Alter": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_BURNING_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_BURNING_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Burning_Alter"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Freeze_Alter",
+            "modifiers": {
+                "Freeze_Alter": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": 1.0,
+                            "key": "_IS_FREEZE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Caster",
+                            "value": -1.0,
+                            "key": "_IS_FREEZE_ALTER",
+                            "useLimitRange": true,
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "Freeze_Alter"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "SceneAbility_Monster_GenerateElemBall",
+            "abilityMixins": [
+                {
+                    "$type": "MonsterReadyMixin",
+                    "onMonsterReady": [
+                        {
+                            "$type": "ApplyModifier",
+                            "target": "Target",
+                            "modifierName": "UNIQUE_Monster_GenerateElemBall"
+                        }
+                    ]
+                }
+            ],
+            "modifiers": {
+                "UNIQUE_Monster_GenerateElemBall": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "onBeingHit": [
+                        {
+                            "$type": "ApplyModifier",
+                            "predicates": [
+                                {
+                                    "$type": "ByAny",
+                                    "predicates": [
+                                        {
+                                            "$type": "ByAttackTags",
+                                            "attackTags": [
+                                                "ExplodeDamage"
+                                            ]
+                                        },
+                                        {
+                                            "$type": "ByAttackTags",
+                                            "attackTags": [
+                                                "SuperconductorDamage"
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ],
+                            "modifierName": "UNIQUE_Monster_GenerateElemBall_Timer"
+                        }
+                    ]
+                },
+                "UNIQUE_Monster_GenerateElemBall_Timer": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 2.0,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "GenerateElemBall",
+                            "dropType": "ForceDrop",
+                            "configID": 2024,
+                            "born": {
+                                "$type": "ConfigBornByTarget",
+                                "offset": {
+                                    "x": 0.0,
+                                    "y": 0.0,
+                                    "z": 0.0
+                                }
+                            },
+                            "ratio": 4.0,
+                            "baseEnergy": 2.0
+                        },
+                        {
+                            "$type": "Randomed",
+                            "chance": 0.5,
+                            "successActions": [
+                                {
+                                    "$type": "GenerateElemBall",
+                                    "dropType": "ForceDrop",
+                                    "configID": 2024,
+                                    "born": {
+                                        "$type": "ConfigBornByTarget",
+                                        "offset": {
+                                            "x": 0.0,
+                                            "y": 0.0,
+                                            "z": 0.0
+                                        }
+                                    },
+                                    "ratio": 2.0,
+                                    "baseEnergy": 2.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "LevelAbility_Challenge_RecoverAllState",
+            "modifiers": {
+                "RecoverAllState": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "thinkInterval": 1.0,
+                    "onThinkInterval": [
+                        {
+                            "$type": "ReviveDeadAvatar",
+                            "target": "AllPlayerAvatars",
+                            "doOffStage": true,
+                            "predicates": [
+                                {
+                                    "$type": "ByTargetPositionToSelfPosition",
+                                    "logic": "LesserOrEqual",
+                                    "value": 12.0
+                                }
+                            ],
+                            "amountByTargetMaxHPRatio": 1.0,
+                            "cdRatio": 1.0
+                        },
+                        {
+                            "$type": "ApplyModifier",
+                            "target": "AllPlayerAvatars",
+                            "doOffStage": true,
+                            "predicates": [
+                                {
+                                    "$type": "ByTargetPositionToSelfPosition",
+                                    "logic": "LesserOrEqual",
+                                    "value": 12.0
+                                }
+                            ],
+                            "modifierName": "RecoverHpElemEnergy"
+                        }
+                    ]
+                },
+                "RecoverHpElemEnergy": {
+                    "stacking": "Multiple",
+                    "modifierName": "",
+                    "duration": 1.100000023841858,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "ReviveElemEnergyMixin",
+                            "period": 1.0,
+                            "baseEnergy": 20.0,
+                            "ratio": 1.0
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "HealHP",
+                            "doOffStage": true,
+                            "amountByTargetMaxHPRatio": 1.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "modifierName": "RecoverAllState"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_WindFlora_Dungeon_Load",
+            "modifiers": {
+                "Avatar_Ready": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "StageReadyMixin",
+                            "onStageReady": [
+                                {
+                                    "$type": "ServerLuaCall",
+                                    "target": "Team",
+                                    "luaCallType": "SpecificGroup",
+                                    "isTarget": true,
+                                    "CallParamList": [
+                                        235800001
+                                    ],
+                                    "funcName": "action_player_ready_to_go_single",
+                                    "param1": 0.0,
+                                    "param2": 0.0,
+                                    "param3": 0.0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "ApplyModifier",
+                    "modifierName": "Avatar_Ready"
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_UGC_Dungeon_Ray",
+            "abilityMixins": [
+                {
+                    "$type": "DoActionByRayTagMixin",
+                    "NELGHDGLJLL": [
+                        "Down"
+                    ],
+                    "KFIGHAHCMED": [
+                        1,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "ALDPHEIOPBL": [
+                        "UNIQUE_Team_Fire",
+                        "UNIQUE_Team_Water",
+                        "UNIQUE_Team_Ice",
+                        "UNIQUE_Team_Elec",
+                        "UNIQUE_Team_RocketJump"
+                    ]
+                },
+                {
+                    "$type": "AttachModifierToGlobalValueMixin",
+                    "isUnique": true,
+                    "globalValueTarget": "Team",
+                    "globalValueKey": "GV_UGC_AvatarCanRocketJump",
+                    "valueSteps": [
+                        -0.5,
+                        0.5,
+                        999.0
+                    ],
+                    "modifierNameSteps": [
+                        "UNIQUE_UGC_DisableRocketJump",
+                        "UNIQUE_UGC_EnableRocketJump"
+                    ]
+                },
+                {
+                    "$type": "AttachModifierToGlobalValueMixin",
+                    "isUnique": true,
+                    "globalValueTarget": "Team",
+                    "globalValueKey": "SGV_UGCDungeon_Immune",
+                    "valueSteps": [
+                        -0.5,
+                        0.5,
+                        20.0
+                    ],
+                    "modifierNameSteps": [
+                        "UNIQUE_UGC_DisableImmune",
+                        "UNIQUE_UGC_EnableImmune"
+                    ]
+                },
+                {
+                    "$type": "StageReadyMixin",
+                    "onStageReady": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "target": "Team",
+                            "value": 0.0,
+                            "key": "GV_UGC_AvatarCanRocketJump",
+                            "useLimitRange": true,
+                            "maxValue": 999.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            ],
+            "modifiers": {
+                "UNIQUE_PlayerTrig": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 1.0,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "value": 1.0,
+                            "key": "UGC_Triggered",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "value": 0.0,
+                            "key": "UGC_Triggered",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                },
+                "UNIQUE_UGC_LockHp": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "properties": {
+                        "Actor_FallingDamageRatio": -1.0
+                    },
+                    "state": "LockHP"
+                },
+                "UNIQUE_Team_Fire": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 3.0,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "UNIQUE_UGC_FireCubeElem"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "ApplyModifier",
+                            "target": "CurLocalAvatar",
+                            "modifierName": "UNIQUE_UGC_FireCubeElem"
+                        }
+                    ]
+                },
+                "UNIQUE_Team_Water": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 3.0,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "UNIQUE_UGC_WaterCubeElem"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "ApplyModifier",
+                            "target": "CurLocalAvatar",
+                            "modifierName": "UNIQUE_UGC_WaterCubeElem"
+                        }
+                    ]
+                },
+                "UNIQUE_Team_Ice": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 3.0,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "UNIQUE_UGC_IceCubeElem"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "ApplyModifier",
+                            "target": "CurLocalAvatar",
+                            "modifierName": "UNIQUE_UGC_IceCubeElem"
+                        }
+                    ]
+                },
+                "UNIQUE_Team_Elec": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 3.0,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "UNIQUE_UGC_ElecCubeElem"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "ApplyModifier",
+                            "target": "CurLocalAvatar",
+                            "modifierName": "UNIQUE_UGC_ElecCubeElem"
+                        }
+                    ]
+                },
+                "UNIQUE_Team_RocketJump": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 0.6000000238418579,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Team",
+                            "value": 1.0,
+                            "key": "GV_UGC_AvatarCanRocketJump",
+                            "useLimitRange": true,
+                            "maxValue": 999.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "AddGlobalValue",
+                            "target": "Team",
+                            "value": -1.0,
+                            "key": "GV_UGC_AvatarCanRocketJump",
+                            "useLimitRange": true,
+                            "maxValue": 999.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                },
+                "UNIQUE_UGC_FireCubeElem": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 5.0,
+                    "elementDurability": 100.0
+                },
+                "UNIQUE_UGC_WaterCubeElem": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 5.0,
+                    "elementDurability": 100.0
+                },
+                "UNIQUE_UGC_IceCubeElem": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 5.0,
+                    "elementDurability": 100.0
+                },
+                "UNIQUE_UGC_ElecCubeElem": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "duration": 5.0,
+                    "elementDurability": 100.0
+                },
+                "UNIQUE_UGC_EnableRocketJump": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "UNIQUE_UGC_ROCKETJUMP"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "AttachModifier",
+                            "modifierName": "UNIQUE_UGC_ROCKETJUMP"
+                        }
+                    ]
+                },
+                "UNIQUE_UGC_ROCKETJUMP": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "AttachToStateIDMixin",
+                            "stateIDs": [
+                                "Jump"
+                            ],
+                            "modifierName": "UGC_RocketJumpEffect"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "AttachEffect",
+                            "effectPattern": "Eff_SceneObj_JumpUp_01_Buff"
+                        },
+                        {
+                            "$type": "EnableRocketJump",
+                            "canBeHandledOnRecover": true,
+                            "type": "DungeonJump",
+                            "enable": true,
+                            "extention": {
+                                "xzMultiplier": 3.0,
+                                "yMultiplier": 5.0
+                            }
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "EnableRocketJump",
+                            "target": "CurTeamAvatars",
+                            "doOffStage": true,
+                            "type": "DungeonJump"
+                        }
+                    ]
+                },
+                "UNIQUE_UGC_DisableRocketJump": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0
+                },
+                "UGC_RocketJumpEffect": {
+                    "modifierName": "",
+                    "duration": 0.5,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "FireEffect",
+                            "effectPattern": "Eff_Stages_Level_Common_Jumpplatform_01_Active"
+                        }
+                    ]
+                },
+                "UNIQUE_UGC_EnableImmune": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "UNIQUE_UGC_Immune"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "AttachModifier",
+                            "modifierName": "UNIQUE_UGC_Immune"
+                        }
+                    ]
+                },
+                "UNIQUE_UGC_DisableImmune": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0
+                },
+                "UNIQUE_UGC_Immune": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "EntityDitherMixin",
+                            "predicates": [
+                                {
+                                    "$type": "ByIsLocalAvatar"
+                                }
+                            ],
+                            "ditherValue": 0.5,
+                            "cutInTime": 0.10000000149011612,
+                            "cutOutTime": 0.20000000298023224
+                        }
+                    ],
+                    "state": "Invincible"
+                },
+                "UNIQUE_UGC_ElectricCorePlay": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "thinkInterval": 0.5,
+                    "onThinkInterval": [
+                        {
+                            "$type": "Predicated",
+                            "otherTargets": {
+                                "$type": "SelectTargetsByShape",
+                                "entityTypePriority": [
+                                    "Gadget"
+                                ],
+                                "shapeName": "CircleR15H30",
+                                "campTargetType": "All",
+                                "sizeRatio": 1.0
+                            },
+                            "targetPredicates": [
+                                {
+                                    "$type": "ByEntityTypes",
+                                    "entityTypes": [
+                                        "Gadget"
+                                    ]
+                                },
+                                {
+                                    "$type": "ByTargetGlobalValue",
+                                    "key": "_IS_ELECTRIC_CORE",
+                                    "value": 0.0,
+                                    "compareType": "MoreThanAndEqual"
+                                }
+                            ],
+                            "successActions": [
+                                {
+                                    "$type": "AddGlobalValue",
+                                    "target": "CurTeamAvatars",
+                                    "value": 1.0,
+                                    "key": "GV_ShowTAbility",
+                                    "maxValue": 10.0,
+                                    "minValue": 0.0
+                                }
+                            ]
+                        },
+                        {
+                            "$type": "ApplyModifier",
+                            "target": "CurLocalAvatar",
+                            "predicates": [
+                                {
+                                    "$type": "ByTargetGlobalValue",
+                                    "target": "CurLocalAvatar",
+                                    "key": "GV_ShowTAbility",
+                                    "value": 0.0,
+                                    "compareType": "MoreThan"
+                                }
+                            ],
+                            "modifierName": "UNIQUE_UGC_ShowTAbility"
+                        },
+                        {
+                            "$type": "RemoveModifier",
+                            "target": "CurLocalAvatar",
+                            "predicates": [
+                                {
+                                    "$type": "ByTargetGlobalValue",
+                                    "target": "CurLocalAvatar",
+                                    "key": "GV_ShowTAbility",
+                                    "value": 0.0
+                                }
+                            ],
+                            "modifierName": "UNIQUE_UGC_ShowTAbility"
+                        },
+                        {
+                            "$type": "SetGlobalValue",
+                            "target": "CurTeamAvatars",
+                            "value": 0.0,
+                            "key": "GV_ShowTAbility",
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                },
+                "UNIQUE_UGC_ShowTAbility": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "ShowExtraAbility",
+                            "target": "CurTeamAvatars",
+                            "doOffStage": true,
+                            "skillID": 20008
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "ShowExtraAbility",
+                            "target": "CurTeamAvatars",
+                            "doOffStage": true
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "AttachModifier",
+                    "target": "CurTeamAvatars",
+                    "modifierName": "UNIQUE_UGC_LockHp"
+                },
+                {
+                    "$type": "AttachModifier",
+                    "target": "CurTeamAvatars",
+                    "modifierName": "UNIQUE_UGC_ElectricCorePlay"
+                },
+                {
+                    "$type": "SetGlobalValue",
+                    "target": "CurTeamAvatars",
+                    "value": 0.0,
+                    "key": "GV_ShowTAbility",
+                    "maxValue": 0.0,
+                    "minValue": 0.0
+                },
+                {
+                    "$type": "SetGlobalValue",
+                    "target": "CurTeamAvatars",
+                    "value": 0.0,
+                    "key": "GV_LightCoreNums",
+                    "maxValue": 0.0,
+                    "minValue": 0.0
+                },
+                {
+                    "$type": "SetGlobalValue",
+                    "target": "Team",
+                    "value": 0.0,
+                    "key": "GV_UGC_AvatarCanRocketJump",
+                    "useLimitRange": true,
+                    "maxValue": 999.0,
+                    "minValue": 0.0
+                }
+            ],
+            "GHGADLJHFCM": [
+                {
+                    "$type": "DebugLog",
+                    "doOffStage": true,
+                    "content": "##UGC: RAY TRIGGERED"
+                },
+                {
+                    "$type": "ApplyModifier",
+                    "target": "Target",
+                    "modifierName": "UNIQUE_PlayerTrig"
+                },
+                {
+                    "$type": "Predicated",
+                    "target": "Target",
+                    "targetPredicates": [
+                        {
+                            "$type": "ByTargetGlobalValue",
+                            "key": "GS_UGC_Vanish",
+                            "value": 1.0
+                        }
+                    ],
+                    "successActions": [
+                        {
+                            "$type": "ExecuteGadgetLua",
+                            "target": "Target",
+                            "param1": 201
+                        }
+                    ]
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Avatar_UGC_Dungeon_Skill",
+            "abilityMixins": [
+                {
+                    "$type": "AttachModifierToGlobalValueMixin",
+                    "globalValueTarget": "Team",
+                    "globalValueKey": "SGV_UGCDungeon_ForbidSkill",
+                    "valueSteps": [
+                        -0.5,
+                        0.5,
+                        1.5
+                    ],
+                    "modifierNameSteps": [
+                        "UGC_Normal",
+                        "UGC_ForbidSkill"
+                    ]
+                }
+            ],
+            "modifiers": {
+                "UGC_Normal": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "ChangePlayMode",
+                            "doOffStage": true,
+                            "muteRemoteAction": true
+                        }
+                    ]
+                },
+                "UGC_ForbidSkill": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "ReviveElemEnergyMixin",
+                            "period": 1.0,
+                            "baseEnergy": -20.0,
+                            "ratio": 1.0
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "ChangePlayMode",
+                            "doOffStage": true,
+                            "muteRemoteAction": true,
+                            "predicates": [
+                                {
+                                    "$type": "ByTargetGlobalValue",
+                                    "key": "SGV_UGCDungeon_ForbidSkill",
+                                    "value": 1.0
+                                }
+                            ],
+                            "toPlayMode": "UGCForbidSkill"
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "ChangePlayMode",
+                            "doOffStage": true,
+                            "muteRemoteAction": true
+                        }
+                    ]
+                }
+            },
+            "onRemoved": [
+                {
+                    "$type": "ChangePlayMode",
+                    "doOffStage": true,
+                    "muteRemoteAction": true
+                }
+            ],
+            "onKill": [
+                {
+                    "$type": "ChangePlayMode",
+                    "doOffStage": true,
+                    "muteRemoteAction": true
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    },
+    {
+        "Default": {
+            "$type": "ConfigAbility",
+            "abilityName": "Team_UGC_Electric_Fairy",
+            "abilityMixins": [
+                {
+                    "$type": "AttachModifierToGlobalValueMixin",
+                    "globalValueTarget": "Team",
+                    "globalValueKey": "GV_UGC_Electric_Fairy",
+                    "valueSteps": [
+                        -0.5,
+                        0.5,
+                        100.0
+                    ],
+                    "modifierNameSteps": [
+                        "UGC_Electric_Fairy_Blank",
+                        "UGC_Electric_Fairy_Attach"
+                    ]
+                }
+            ],
+            "modifiers": {
+                "UGC_Electric_Fairy_Blank": {
+                    "modifierName": "",
+                    "elementDurability": 100.0
+                },
+                "UGC_Electric_Fairy_Attach": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AttachModifier",
+                            "target": "Team",
+                            "modifierName": "UNIQUE_Electric_Fairy_Skill_Lv3"
+                        }
+                    ]
+                },
+                "UNIQUE_Electric_Fairy_Skill_Lv3": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "FollowAttachPointEffectMixin",
+                            "modifierName": "UNIQUE_Electric_Fairy_Skill_Init_Lv1",
+                            "EJDMCBPKLHD": "FollowPet",
+                            "DNPIJBMJGFJ": true
+                        },
+                        {
+                            "$type": "FollowAttachPointEffectMixin",
+                            "modifierName": "UNIQUE_Electric_Fairy_Skill_OnTeam_Lv3",
+                            "EJDMCBPKLHD": "ThemePlay",
+                            "DNPIJBMJGFJ": true
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "target": "Team",
+                            "value": 6.0,
+                            "key": "_ABILITY_SceneObj_Electric_Fairy_Immunity_Time",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                },
+                "UNIQUE_Electric_Fairy_Skill_Init_Lv1": {
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "target": "Team",
+                            "value": 6.0,
+                            "key": "_ABILITY_SceneObj_Electric_Fairy_Immunity_Time",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        },
+                        {
+                            "$type": "SetGlobalValue",
+                            "target": "Team",
+                            "value": 0.0,
+                            "key": "_ABILITY_SceneObj_Electric_Fairy_AutoAttack_Time",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                },
+                "UNIQUE_Electric_Fairy_Skill_OnTeam_Lv3": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "UNIQUE_Electric_Fairy_Skill_OnAvatar_Lv3"
+                        },
+                        {
+                            "$type": "AttachModifierToSelfGlobalValueMixin",
+                            "globalValueKey": "_ABILITY_SceneObj_Electric_Fairy_Immunity_Time",
+                            "defaultGlobalValueOnCreate": 1.0,
+                            "valueSteps": [
+                                -0.5,
+                                0.5,
+                                100.0
+                            ],
+                            "modifierNameSteps": [
+                                "Electric_Fairy_Immunity_OnTeam",
+                                "Electric_Fairy_Immunity_OnTeam"
+                            ],
+                            "actionQueues": [
+                                [
+                                    {
+                                        "$type": "ApplyModifier",
+                                        "target": "CurLocalAvatar",
+                                        "modifierName": "Electric_Fairy_Immunity_OnAvatar_LastHit"
+                                    },
+                                    {
+                                        "$type": "RemoveModifier",
+                                        "target": "CurLocalAvatar",
+                                        "modifierName": "UNIQUE_Electric_Fairy_Skill_Lv3"
+                                    }
+                                ],
+                                []
+                            ]
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "ApplyModifier",
+                            "modifierName": "Electric_Fairy_Effect_Lv1"
+                        },
+                        {
+                            "$type": "AttachModifier",
+                            "modifierName": "Electric_Fairy_Effect_Hit_Lv1"
+                        },
+                        {
+                            "$type": "AttachModifier",
+                            "modifierName": "Electric_Fairy_ReviveEnergy"
+                        }
+                    ]
+                },
+                "UNIQUE_Electric_Fairy_Skill_OnAvatar_Lv3": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "isUnique": true,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "AttachModifier",
+                            "modifierName": "Electric_Fairy_Electric_Block_Lv1"
+                        }
+                    ]
+                },
+                "Electric_Fairy_Electric_Block_Lv1": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "DynamicCollisionMixin",
+                            "tags": [
+                                "LEVEL1"
+                            ],
+                            "GKKNFCOOFMJ": true
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "doOffStage": true,
+                            "value": 1.0,
+                            "key": "HAS_ELECTRIC_FAIRY_BUFF",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        },
+                        {
+                            "$type": "SetGlobalValue",
+                            "doOffStage": true,
+                            "value": 1.0,
+                            "key": "_ABILITY_Electric_Fairy_Block_Handle_Level",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "doOffStage": true,
+                            "value": 0.0,
+                            "key": "HAS_ELECTRIC_FAIRY_BUFF",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        },
+                        {
+                            "$type": "SetGlobalValue",
+                            "doOffStage": true,
+                            "value": 0.0,
+                            "key": "_ABILITY_Electric_Fairy_Block_Handle_Level",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                },
+                "Electric_Fairy_Effect_Hit_Lv1": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "AttachModifierToSelfGlobalValueMixin",
+                            "globalValueKey": "_ABILITY_SceneObj_Electric_Fairy_Immunity_Time",
+                            "defaultGlobalValueOnCreate": 0.0,
+                            "valueSteps": [
+                                -0.5,
+                                0.5,
+                                1.5,
+                                2.5,
+                                3.5,
+                                4.5,
+                                5.5
+                            ],
+                            "modifierNameSteps": [
+                                "Blank",
+                                "Blank",
+                                "Blank",
+                                "Blank",
+                                "Blank",
+                                "Blank"
+                            ],
+                            "actionQueues": [
+                                [
+                                    {
+                                        "$type": "FireEffect",
+                                        "effectPattern": "Eff_SceneObj_ElectricFairy_Shield_Hit_Last"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "$type": "FireEffect",
+                                        "effectPattern": "Eff_SceneObj_ElectricFairy_Shield_Hit"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "$type": "FireEffect",
+                                        "effectPattern": "Eff_SceneObj_ElectricFairy_Shield_Hit"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "$type": "FireEffect",
+                                        "effectPattern": "Eff_SceneObj_ElectricFairy_Shield_Hit"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "$type": "FireEffect",
+                                        "effectPattern": "Eff_SceneObj_ElectricFairy_Shield_Hit"
+                                    }
+                                ],
+                                [
+                                    {
+                                        "$type": "FireEffect",
+                                        "effectPattern": "Eff_SceneObj_ElectricFairy_Shield_Hit"
+                                    }
+                                ]
+                            ]
+                        }
+                    ]
+                },
+                "Electric_Fairy_ReviveEnergy": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "thinkInterval": 1.0,
+                    "onThinkInterval": [
+                        {
+                            "$type": "ReviveElemEnergy",
+                            "target": "CurLocalAvatar",
+                            "predicates": [
+                                {
+                                    "$type": "ByEnergyRatio",
+                                    "target": "CurLocalAvatar",
+                                    "logic": "LesserOrEqual",
+                                    "ratio": 0.5
+                                },
+                                {
+                                    "$type": "ByAvatarElementType",
+                                    "elementType": "Electric"
+                                }
+                            ],
+                            "value": 2.0
+                        }
+                    ]
+                },
+                "Electric_Fairy_Immunity_OnAvatar_LastHit": {
+                    "modifierName": "",
+                    "duration": 0.5,
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "RejectAttackMixin",
+                            "attackTag": "Inazuma_Environment_Damage"
+                        }
+                    ]
+                },
+                "Blank": {
+                    "modifierName": "",
+                    "elementDurability": 100.0
+                },
+                "Electric_Fairy_Effect_Lv1": {
+                    "modifierName": "",
+                    "duration": 1.0,
+                    "elementDurability": 1.0,
+                    "thinkInterval": 0.5,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "Electric_Fairy_Effect_Move_Handler"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "AttachEffect",
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_01"
+                        }
+                    ],
+                    "onThinkInterval": [
+                        {
+                            "$type": "AddElementDurability",
+                            "predicates": [
+                                {
+                                    "$type": "ByTargetGlobalValue",
+                                    "key": "HAS_ELECTRIC_FAIRY_BUFF_Team",
+                                    "value": 1.0
+                                }
+                            ],
+                            "value": 1.0,
+                            "modifierName": "Electric_Fairy_Effect_Lv1",
+                            "useLimitRange": true,
+                            "maxValue": 1.0,
+                            "minValue": 0.0
+                        },
+                        {
+                            "$type": "ApplyModifier",
+                            "predicates": [
+                                {
+                                    "$type": "ByTargetGlobalValue",
+                                    "key": "HAS_ELECTRIC_FAIRY_BUFF_Team",
+                                    "value": 0.0
+                                }
+                            ],
+                            "modifierName": "Electric_Fairy_RemoveEffect"
+                        }
+                    ]
+                },
+                "Electric_Fairy_RemoveEffect": {
+                    "modifierName": "",
+                    "duration": 0.5,
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 203,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_01"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 203,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_02"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 203,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_03"
+                        }
+                    ]
+                },
+                "Electric_Fairy_Effect_Move_Handler": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "AttachToAnimatorStateIDMixin",
+                            "stateIDs": [
+                                "Standby",
+                                "RunToIdle",
+                                "WalkToIdle",
+                                "SprintToIdle",
+                                "StandbyShow_01",
+                                "StandbyShow_02"
+                            ],
+                            "modifierName": "Electric_Fairy_Effect_DoStandBy"
+                        },
+                        {
+                            "$type": "AttachToAnimatorStateIDMixin",
+                            "stateIDs": [
+                                "Run",
+                                "Sprint"
+                            ],
+                            "modifierName": "Electric_Fairy_Effect_DoMove"
+                        }
+                    ]
+                },
+                "Electric_Fairy_Effect_DoStandBy": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_01"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_02"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_03"
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 201,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_01"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 201,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_02"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 201,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_03"
+                        }
+                    ]
+                },
+                "Electric_Fairy_Effect_DoMove": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "onAdded": [
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 201,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_01"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 201,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_02"
+                        },
+                        {
+                            "$type": "SendEffectTrigger",
+                            "target": "Team",
+                            "parameter": "State",
+                            "type": "Int",
+                            "value": 201,
+                            "effectPattern": "Eff_SceneObj_ThunderSeed_03"
+                        }
+                    ]
+                },
+                "Electric_Fairy_Immunity_OnTeam": {
+                    "stacking": "Unique",
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "modifierMixins": [
+                        {
+                            "$type": "CurLocalAvatarMixinV2",
+                            "modifierName": "Electric_Fairy_Immunity_OnAvatar"
+                        }
+                    ],
+                    "onAdded": [
+                        {
+                            "$type": "AttachModifier",
+                            "modifierName": "Electric_Fairy_Mark"
+                        }
+                    ]
+                },
+                "Electric_Fairy_Mark": {
+                    "modifierName": "",
+                    "elementDurability": 100.0,
+                    "thinkInterval": 1.0,
+                    "onAdded": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "doOffStage": true,
+                            "value": 1.0,
+                            "key": "HAS_ELECTRIC_FAIRY_BUFF_Team",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onRemoved": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "doOffStage": true,
+                            "value": 0.0,
+                            "key": "HAS_ELECTRIC_FAIRY_BUFF_Team",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ],
+                    "onThinkInterval": [
+                        {
+                            "$type": "SetGlobalValue",
+                            "doOffStage": true,
+                            "value": 1.0,
+                            "key": "HAS_ELECTRIC_FAIRY_BUFF_Team",
+                            "maxValue": 0.0,
+                            "minValue": 0.0
+                        }
+                    ]
+                }
+            },
+            "onAdded": [
+                {
+                    "$type": "SetGlobalValue",
+                    "target": "Team",
+                    "doOffStage": true,
+                    "value": 0.0,
+                    "key": "GV_UGC_Electric_Fairy",
+                    "maxValue": 0.0,
+                    "minValue": 0.0
+                }
+            ],
+            "isDynamicAbility": true
+        }
+    }
+]

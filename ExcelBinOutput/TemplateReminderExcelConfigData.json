@@ -1,207 +1,576 @@
 [
     {
-        "Id": 1,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 906357842
+        "id": 1,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 4238217154,
+        "contentTextMapHash": 906357842,
+        "param": ""
     },
     {
-        "Id": 2,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2838851362
+        "id": 2,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2022810114,
+        "contentTextMapHash": 2838851362,
+        "param": ""
     },
     {
-        "Id": 3,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 4082461946
+        "id": 3,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 2559041634,
+        "contentTextMapHash": 4082461946,
+        "param": ""
     },
     {
-        "Id": 4,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 475434570
+        "id": 4,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3822187258,
+        "contentTextMapHash": 475434570,
+        "param": ""
     },
     {
-        "Id": 5,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 1455788946
+        "id": 5,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1148206906,
+        "contentTextMapHash": 1455788946,
+        "param": ""
     },
     {
-        "Id": 6,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2148511050
+        "id": 6,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2130500634,
+        "contentTextMapHash": 2148511050,
+        "param": ""
     },
     {
-        "Id": 7,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2430815490
+        "id": 7,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1396177098,
+        "contentTextMapHash": 2430815490,
+        "param": ""
     },
     {
-        "Id": 8,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 1325683922
+        "id": 8,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1180987266,
+        "contentTextMapHash": 1325683922,
+        "param": ""
     },
     {
-        "Id": 101,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 1901580370
+        "id": 101,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 2739297410,
+        "contentTextMapHash": 1901580370,
+        "param": ""
     },
     {
-        "Id": 102,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 673915362
+        "id": 102,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 2933110882,
+        "contentTextMapHash": 673915362,
+        "param": ""
     },
     {
-        "Id": 103,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 1164178018
+        "id": 103,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 2035487514,
+        "contentTextMapHash": 1164178018,
+        "param": ""
     },
     {
-        "Id": 104,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 4049234778
+        "id": 104,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3525755898,
+        "contentTextMapHash": 4049234778,
+        "param": ""
     },
     {
-        "Id": 105,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 712203506
+        "id": 105,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2427609562,
+        "contentTextMapHash": 712203506,
+        "param": ""
     },
     {
-        "Id": 106,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2960661714
+        "id": 106,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1497266882,
+        "contentTextMapHash": 2960661714,
+        "param": ""
     },
     {
-        "Id": 107,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2488844770
+        "id": 107,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2426250546,
+        "contentTextMapHash": 2488844770,
+        "param": ""
     },
     {
-        "Id": 108,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 710400322
+        "id": 108,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2821652514,
+        "contentTextMapHash": 710400322,
+        "param": ""
     },
     {
-        "Id": 109,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 1365095930
+        "id": 109,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 4055537762,
+        "contentTextMapHash": 1365095930,
+        "param": ""
     },
     {
-        "Id": 110,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 3002681386
+        "id": 110,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 2204578674,
+        "contentTextMapHash": 3002681386,
+        "param": ""
     },
     {
-        "Id": 111,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 49278346
+        "id": 111,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 935957450,
+        "contentTextMapHash": 49278346,
+        "param": ""
     },
     {
-        "Id": 112,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 3594634154
+        "id": 112,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 1799711682,
+        "contentTextMapHash": 3594634154,
+        "param": ""
     },
     {
-        "Id": 113,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 3234726618
+        "id": 113,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 2860629354,
+        "contentTextMapHash": 3234726618,
+        "param": ""
     },
     {
-        "Id": 114,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 4268999954
+        "id": 114,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 316089690,
+        "contentTextMapHash": 4268999954,
+        "param": ""
     },
     {
-        "Id": 115,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 1848720938
+        "id": 115,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 4248283754,
+        "contentTextMapHash": 1848720938,
+        "param": ""
     },
     {
-        "Id": 116,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 3566286634
+        "id": 116,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 11245706,
+        "contentTextMapHash": 3566286634,
+        "param": ""
     },
     {
-        "Id": 117,
-        "Icon": "UI_Tips_Item_Monster",
-        "ContentTextMapHash": 1522913514
+        "id": 117,
+        "icon": "UI_Tips_Item_Monster",
+        "titleTextMapHash": 2042974178,
+        "contentTextMapHash": 1522913514,
+        "param": ""
     },
     {
-        "Id": 118,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 3322786554
+        "id": 118,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2126971538,
+        "contentTextMapHash": 3322786554,
+        "param": ""
     },
     {
-        "Id": 119,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2730551898
+        "id": 119,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2782690434,
+        "contentTextMapHash": 2730551898,
+        "param": ""
     },
     {
-        "Id": 120,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2013269698
+        "id": 120,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1627558218,
+        "contentTextMapHash": 2013269698,
+        "param": ""
     },
     {
-        "Id": 121,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 22121090
+        "id": 121,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3670120050,
+        "contentTextMapHash": 22121090,
+        "param": ""
     },
     {
-        "Id": 122,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 1081608234
+        "id": 122,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2454834586,
+        "contentTextMapHash": 1081608234,
+        "param": ""
     },
     {
-        "Id": 123,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 3663417194
+        "id": 123,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2715784618,
+        "contentTextMapHash": 3663417194,
+        "param": ""
     },
     {
-        "Id": 127,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2845296530
+        "id": 124,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3121434226,
+        "contentTextMapHash": 781873098,
+        "showTime": 10.0,
+        "param": ""
     },
     {
-        "Id": 128,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 1322296650
+        "id": 125,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 395690482,
+        "contentTextMapHash": 889593706,
+        "showTime": 10.0,
+        "param": ""
     },
     {
-        "Id": 129,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 1565115554
+        "id": 126,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2399233506,
+        "contentTextMapHash": 2244411538,
+        "showTime": 10.0,
+        "param": ""
     },
     {
-        "Id": 130,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 3918749882
+        "id": 127,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2051833538,
+        "contentTextMapHash": 2845296530,
+        "param": ""
     },
     {
-        "Id": 131,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 4164289570
+        "id": 128,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 754878282,
+        "contentTextMapHash": 1322296650,
+        "param": ""
     },
     {
-        "Id": 132,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 3496611146
+        "id": 129,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1684387578,
+        "contentTextMapHash": 1565115554,
+        "param": ""
     },
     {
-        "Id": 133,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 763167946
+        "id": 130,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2607051410,
+        "contentTextMapHash": 3918749882,
+        "param": ""
     },
     {
-        "Id": 134,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 734877114
+        "id": 131,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3114086506,
+        "contentTextMapHash": 4164289570,
+        "param": ""
     },
     {
-        "Id": 135,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 2479931194
+        "id": 132,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1573749546,
+        "contentTextMapHash": 3496611146,
+        "param": ""
     },
     {
-        "Id": 136,
-        "Icon": "UI_Tips_Item_ElemForce",
-        "ContentTextMapHash": 1369699714
+        "id": 133,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3148517954,
+        "contentTextMapHash": 763167946,
+        "param": ""
+    },
+    {
+        "id": 134,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 73543314,
+        "contentTextMapHash": 734877114,
+        "param": ""
+    },
+    {
+        "id": 135,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3350873898,
+        "contentTextMapHash": 2479931194,
+        "param": ""
+    },
+    {
+        "id": 136,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 861381074,
+        "contentTextMapHash": 1369699714,
+        "param": ""
+    },
+    {
+        "id": 137,
+        "style": "MessageDialog",
+        "icon": "",
+        "titleTextMapHash": 3617880290,
+        "contentTextMapHash": 3930840402,
+        "activityType": "NEW_ACTIVITY_CHANNELER_SLAB",
+        "param": ""
+    },
+    {
+        "id": 138,
+        "style": "DialogBox",
+        "icon": "",
+        "titleTextMapHash": 1369474378,
+        "contentTextMapHash": 882716274,
+        "param": ""
+    },
+    {
+        "id": 139,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 1810869410,
+        "contentTextMapHash": 2445536106,
+        "activityType": "NEW_ACTIVITY_BLITZ_RUSH",
+        "param": "6021"
+    },
+    {
+        "id": 140,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 1752414474,
+        "contentTextMapHash": 559756642,
+        "activityType": "NEW_ACTIVITY_BLITZ_RUSH",
+        "param": "6022"
+    },
+    {
+        "id": 141,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 2205623506,
+        "contentTextMapHash": 1100609282,
+        "activityType": "NEW_ACTIVITY_BLITZ_RUSH",
+        "param": "6023"
+    },
+    {
+        "id": 142,
+        "style": "MessageDialog",
+        "icon": "",
+        "titleTextMapHash": 3340219570,
+        "contentTextMapHash": 1088825434,
+        "activityType": "NEW_ACTIVITY_BUOYANT_COMBAT",
+        "param": ""
+    },
+    {
+        "id": 143,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 2842919378,
+        "contentTextMapHash": 2459194250,
+        "activityType": "NEW_ACTIVITY_CHESS",
+        "param": "10004"
+    },
+    {
+        "id": 144,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1948606698,
+        "contentTextMapHash": 2501314074,
+        "showTime": 180.0,
+        "param": ""
+    },
+    {
+        "id": 145,
+        "style": "MessagePushPageFirstTime",
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2473583554,
+        "contentTextMapHash": 1093263482,
+        "activityType": "NEW_ACTIVITY_DIG",
+        "param": "10006"
+    },
+    {
+        "id": 146,
+        "style": "MessagePushPageFirstTime",
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3939239834,
+        "contentTextMapHash": 1092089138,
+        "activityType": "NEW_ACTIVITY_DIG",
+        "param": "10007"
+    },
+    {
+        "id": 147,
+        "style": "MessagePushPageFirstTime",
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1546262690,
+        "contentTextMapHash": 882150074,
+        "activityType": "NEW_ACTIVITY_DIG",
+        "param": "10008"
+    },
+    {
+        "id": 148,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 2624087930,
+        "contentTextMapHash": 2820037906,
+        "activityType": "NEW_ACTIVITY_WINTER_CAMP",
+        "param": "6034"
+    },
+    {
+        "id": 149,
+        "style": "MessageDialog",
+        "icon": "",
+        "titleTextMapHash": 2867048098,
+        "contentTextMapHash": 543902930,
+        "activityType": "NEW_ACTIVITY_CHANNELER_SLAB",
+        "param": ""
+    },
+    {
+        "id": 150,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 1819991482,
+        "contentTextMapHash": 2020943298,
+        "activityType": "NEW_ACTIVITY_SEA_LAMP_2_4",
+        "param": "11022"
+    },
+    {
+        "id": 151,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 2339551778,
+        "contentTextMapHash": 654588826,
+        "activityType": "NEW_ACTIVITY_SEA_LAMP_2_4",
+        "param": "11016"
+    },
+    {
+        "id": 152,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 4115107210,
+        "contentTextMapHash": 930153426,
+        "activityType": "NEW_ACTIVITY_SEA_LAMP_2_4",
+        "param": "11017"
+    },
+    {
+        "id": 153,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 4054719634,
+        "contentTextMapHash": 3925100146,
+        "activityType": "NEW_ACTIVITY_SEA_LAMP_2_4",
+        "param": "11018"
+    },
+    {
+        "id": 154,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3979855274,
+        "contentTextMapHash": 1790257770,
+        "showTime": 3.0,
+        "param": ""
+    },
+    {
+        "id": 155,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 3786759066,
+        "contentTextMapHash": 1058495122,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "param": "6044"
+    },
+    {
+        "id": 156,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 1776652770,
+        "contentTextMapHash": 3818312706,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "param": "6045"
+    },
+    {
+        "id": 157,
+        "icon": "UI_Tips_Item_Warning",
+        "titleTextMapHash": 3943474882,
+        "contentTextMapHash": 4065481890,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "showTime": 300.0,
+        "param": ""
+    },
+    {
+        "id": 158,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 3225080578,
+        "contentTextMapHash": 1593087458,
+        "showTime": 3.0,
+        "param": ""
+    },
+    {
+        "id": 159,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 1007090106,
+        "contentTextMapHash": 2966532650,
+        "showTime": 3.0,
+        "param": ""
+    },
+    {
+        "id": 160,
+        "icon": "UI_Tips_Item_ElemForce",
+        "titleTextMapHash": 2071150402,
+        "contentTextMapHash": 1783195018,
+        "showTime": 3.0,
+        "param": ""
+    },
+    {
+        "id": 161,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 2431250186,
+        "contentTextMapHash": 3116168642,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "param": "6048"
+    },
+    {
+        "id": 162,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 1362441850,
+        "contentTextMapHash": 2337200650,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "param": "6049"
+    },
+    {
+        "id": 163,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 2198417986,
+        "contentTextMapHash": 1536454970,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "param": "6050"
+    },
+    {
+        "id": 164,
+        "style": "MessagePushPageFirstTime",
+        "icon": "",
+        "titleTextMapHash": 2336986786,
+        "contentTextMapHash": 3468842314,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "param": "6051"
+    },
+    {
+        "id": 165,
+        "icon": "UI_Tips_Item_Warning",
+        "titleTextMapHash": 2136576026,
+        "contentTextMapHash": 2510904234,
+        "activityType": "NEW_ACTIVITY_MICHIAE_MATSURI",
+        "showTime": 3.0,
+        "param": ""
+    },
+    {
+        "id": 166,
+        "icon": "UI_Tips_Item_Warning",
+        "titleTextMapHash": 439392842,
+        "contentTextMapHash": 852185090,
+        "showTime": 3600.0,
+        "param": ""
     }
 ]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "order": 1,
+        "icon": "UI_EmotionTagIcon_01"
+    },
+    {
+        "id": 2,
+        "order": 2,
+        "icon": "UI_EmotionTagIcon_02"
+    },
+    {
+        "id": 3,
+        "order": 3,
+        "icon": "UI_EmotionTagIcon_03"
+    },
+    {
+        "id": 4,
+        "order": 4,
+        "icon": "UI_EmotionTagIcon_04"
+    },
+    {
+        "id": 5,
+        "order": 5,
+        "icon": "UI_EmotionTagIcon_05"
+    },
+    {
+        "id": 6,
+        "order": 6,
+        "icon": "UI_EmotionTagIcon_06"
+    }
+]

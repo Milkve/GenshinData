@@ -1,20 +1,56 @@
 [
     {
-        "Id": 1,
-        "SaleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
-        "SaleParam": [
+        "id": 1,
+        "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
+        "saleParam": [
             "11413",
             "1.5"
         ],
-        "BufftipsTextMapHash": 1009858160
+        "bufftipsTextMapHash": 1009858160
     },
     {
-        "Id": 2,
-        "SaleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
-        "SaleParam": [
+        "id": 2,
+        "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
+        "saleParam": [
             "15413",
             "1.5"
         ],
-        "BufftipsTextMapHash": 126576328
+        "bufftipsTextMapHash": 126576328
+    },
+    {
+        "id": 3,
+        "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
+        "saleParam": [
+            "14413",
+            "1.5"
+        ],
+        "bufftipsTextMapHash": 2199438672
+    },
+    {
+        "id": 4,
+        "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
+        "saleParam": [
+            "12412",
+            "1.5"
+        ],
+        "bufftipsTextMapHash": 56460992
+    },
+    {
+        "id": 5,
+        "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
+        "saleParam": [
+            "11415",
+            "1.5"
+        ],
+        "bufftipsTextMapHash": 3147016560
+    },
+    {
+        "id": 6,
+        "saleType": "NEW_ACTIVITY_SALE_TYPE_WEAPON_UPGRADE",
+        "saleParam": [
+            "14415",
+            "1.5"
+        ],
+        "bufftipsTextMapHash": 3599158864
     }
 ]

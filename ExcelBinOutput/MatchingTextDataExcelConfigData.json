@@ -1,0 +1,32 @@
+[
+    {
+        "matchId": 1001,
+        "matchIconHashSuffix": 2463819693,
+        "matchIconHashPre": 191,
+        "matchBtnName": "UI_ONLINE_MATCH_BUTTON_SINGLE",
+        "matchBtnTips": "UI_ONLINE_AUTOMATCH_SINGLE",
+        "requirementDescTextMapHash": 3708003537,
+        "matchLimitReasonDescTextMapHash": 2562319488,
+        "limitWarningDescTextMapHash": 2357156636,
+        "inviteGuestDescTextMapHash": 4225393239,
+        "inviteHostDescTextMapHash": 2164695162,
+        "matchStartDesc": "UI_ONLINE_MATCH_TIP",
+        "matchTitleTextMapHash": 2537487916,
+        "matchSuccessDescTextMapHash": 2561181040
+    },
+    {
+        "matchId": 1002,
+        "matchIconHashSuffix": 2098743537,
+        "matchIconHashPre": 233,
+        "matchBtnName": "UI_ONLINE_MATCH_BUTTON_SINGLE",
+        "matchBtnTips": "UI_ONLINE_AUTOMATCH_SINGLE",
+        "requirementDescTextMapHash": 266058065,
+        "matchLimitReasonDescTextMapHash": 1777073024,
+        "limitWarningDescTextMapHash": 3733421308,
+        "inviteGuestDescTextMapHash": 1561050023,
+        "inviteHostDescTextMapHash": 2180587170,
+        "matchStartDesc": "UI_ONLINE_MATCH_TIP",
+        "matchTitleTextMapHash": 3510721180,
+        "matchSuccessDescTextMapHash": 760144696
+    }
+]

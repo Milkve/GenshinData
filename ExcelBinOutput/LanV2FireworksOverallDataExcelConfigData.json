@@ -1,0 +1,31 @@
+[
+    {
+        "scheduleId": 2010001,
+        "GONHGNFKBDP": 100,
+        "IFACAFEIHLB": [
+            {
+                "MJJDNALGLOJ": [
+                    0,
+                    80
+                ]
+            },
+            {
+                "MJJDNALGLOJ": [
+                    80,
+                    100
+                ],
+                "LPICMNCMNCG": 30
+            },
+            {
+                "MJJDNALGLOJ": [
+                    100,
+                    999
+                ],
+                "LPICMNCMNCG": 50
+            }
+        ],
+        "NEEEOBDOCPP": 0.3449999988079071,
+        "HGFNEAPOIOL": 96.0,
+        "pushTipsId": 6040
+    }
+]

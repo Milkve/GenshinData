@@ -1,0 +1,86 @@
+[
+    {
+        "FOKBDKFGFGF": 1,
+        "HJAAOLIHCMD": 898913422,
+        "PINPKNAJILI": 502698121,
+        "PILMMPGIMEJ": [
+            "30",
+            "20",
+            ""
+        ],
+        "iconPath": "UI_Activity_MichiaeMatsuri_Buff_01",
+        "materialId": 101693,
+        "materialNum": 1,
+        "HDKGACJNFMH": "SGV_MichiaeMatsuri_CrystalSkill_1"
+    },
+    {
+        "FOKBDKFGFGF": 2,
+        "HJAAOLIHCMD": 3986722446,
+        "PINPKNAJILI": 444618249,
+        "PILMMPGIMEJ": [
+            "25",
+            "",
+            ""
+        ],
+        "iconPath": "UI_Activity_MichiaeMatsuri_Buff_02",
+        "materialId": 101693,
+        "materialNum": 1,
+        "HDKGACJNFMH": "SGV_MichiaeMatsuri_CrystalSkill_2"
+    },
+    {
+        "FOKBDKFGFGF": 3,
+        "HJAAOLIHCMD": 1101168414,
+        "PINPKNAJILI": 3354851753,
+        "PILMMPGIMEJ": [
+            "30",
+            "",
+            ""
+        ],
+        "iconPath": "UI_Activity_MichiaeMatsuri_Buff_03",
+        "materialId": 101693,
+        "materialNum": 1,
+        "HDKGACJNFMH": "SGV_MichiaeMatsuri_CrystalSkill_3"
+    },
+    {
+        "FOKBDKFGFGF": 4,
+        "HJAAOLIHCMD": 1772757286,
+        "PINPKNAJILI": 2639596649,
+        "PILMMPGIMEJ": [
+            "15",
+            "",
+            ""
+        ],
+        "iconPath": "UI_Activity_MichiaeMatsuri_Buff_04",
+        "materialId": 101693,
+        "materialNum": 1,
+        "HDKGACJNFMH": "SGV_MichiaeMatsuri_CrystalSkill_4"
+    },
+    {
+        "FOKBDKFGFGF": 5,
+        "HJAAOLIHCMD": 3980700158,
+        "PINPKNAJILI": 1582779417,
+        "PILMMPGIMEJ": [
+            "100",
+            "",
+            ""
+        ],
+        "iconPath": "UI_Activity_MichiaeMatsuri_Buff_05",
+        "materialId": 101693,
+        "materialNum": 1,
+        "HDKGACJNFMH": "SGV_MichiaeMatsuri_CrystalSkill_5"
+    },
+    {
+        "FOKBDKFGFGF": 6,
+        "HJAAOLIHCMD": 1034463622,
+        "PINPKNAJILI": 2871046121,
+        "PILMMPGIMEJ": [
+            "15",
+            "20",
+            ""
+        ],
+        "iconPath": "UI_Activity_MichiaeMatsuri_Buff_06",
+        "materialId": 101693,
+        "materialNum": 1,
+        "HDKGACJNFMH": "SGV_MichiaeMatsuri_CrystalSkill_6"
+    }
+]

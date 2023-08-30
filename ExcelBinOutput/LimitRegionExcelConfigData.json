@@ -1,0 +1,186 @@
+[
+    {
+        "id": 32001,
+        "name": "BigWorld_AsterArea_001",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32002,
+        "name": "BigWorld_CrucibleArea_001",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32003,
+        "name": "BigWorld_CryoRegisvineArea_001",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32004,
+        "name": "BigWorld_FleurFair_Ballon_001",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32005,
+        "name": "BigWorld_FleurFair_Ballon_002",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32006,
+        "name": "BigWorld_FleurFair_Ballon_003",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32007,
+        "name": "BigWorld_FleurFair_Ballon_004",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32008,
+        "name": "BigWorld_FleurFair_Parachute_001",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32009,
+        "name": "BigWorld_FleurFair_Parachute_002",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32010,
+        "name": "BigWorld_FleurFair_Parachute_003",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32011,
+        "name": "BigWorld_FleurFair_Parachute_004",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32012,
+        "name": "BigWorld_HideandSeekArea_001",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32013,
+        "name": "BigWorld_HideandSeekArea_002",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32014,
+        "name": "BigWorld_HideandSeekArea_003",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32015,
+        "name": "BigWorld_HideandSeekArea_004",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32016,
+        "name": "BigWorld_HideandSeekArea_005",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32017,
+        "name": "BigWorld_WaterSpiritArea_001",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 31001,
+        "name": "FreshmeatRegion",
+        "IHCKNINEHPB": "OPEN_STATE_LIMIT_REGION_FRESHMEAT",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_BIGWORLD",
+        "order": 100
+    },
+    {
+        "id": 31006,
+        "name": "GlobalOpenArea2_6",
+        "IHCKNINEHPB": "OPEN_STATE_LIMIT_REGION_GLOBAL",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_BIGWORLD",
+        "order": 5
+    },
+    {
+        "id": 41001,
+        "name": "Map_GoldenAppleIsles_OpenArea_001",
+        "sceneId": 4,
+        "type": "LIMIT_REGION_TYPE_BIGWORLD"
+    },
+    {
+        "id": 51001,
+        "name": "BigWorld_AbyssalPalace_OpenArea_001",
+        "sceneId": 5,
+        "type": "LIMIT_REGION_TYPE_BIGWORLD"
+    },
+    {
+        "id": 61001,
+        "name": "BigWorld_MichiaeMatsuri_OpenArea_001",
+        "sceneId": 7,
+        "type": "LIMIT_REGION_TYPE_BIGWORLD"
+    },
+    {
+        "id": 71001,
+        "name": "BigWorld_TheChasm_OpenArea_001",
+        "sceneId": 6,
+        "type": "LIMIT_REGION_TYPE_BIGWORLD"
+    },
+    {
+        "id": 32018,
+        "name": "BigWorld_HideandSeekArea_006",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32019,
+        "name": "BigWorld_HideandSeekArea_009",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32020,
+        "name": "BigWorld_HideandSeekArea_011",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32021,
+        "name": "BigWorld_HideandSeekArea_012",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32022,
+        "name": "BigWorld_HideandSeekArea_013",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32023,
+        "name": "BigWorld_HideandSeekArea_015",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    },
+    {
+        "id": 32024,
+        "name": "BigWorld_HideandSeekArea_019",
+        "sceneId": 3,
+        "type": "LIMIT_REGION_TYPE_ACTIVITY"
+    }
+]

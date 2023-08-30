@@ -1,0 +1,327 @@
+[
+    {
+        "h5ActivityId": 1001,
+        "nameTextMapHash": 4074841920,
+        "detailTextMapHash": 2640667663,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1002,
+        "nameTextMapHash": 1064911432,
+        "detailTextMapHash": 3380426471,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1003,
+        "nameTextMapHash": 2650931608,
+        "detailTextMapHash": 897004511,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "21"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1004,
+        "nameTextMapHash": 3453164056,
+        "detailTextMapHash": 56858103,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1005,
+        "nameTextMapHash": 4278259776,
+        "detailTextMapHash": 1757838799,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1007,
+        "nameTextMapHash": 2433090584,
+        "detailTextMapHash": 345132591,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1008,
+        "nameTextMapHash": 2233625192,
+        "detailTextMapHash": 2931387007,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1009,
+        "nameTextMapHash": 4012299728,
+        "detailTextMapHash": 1696722479,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1010,
+        "nameTextMapHash": 4081192232,
+        "detailTextMapHash": 728681935,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1011,
+        "nameTextMapHash": 2622070432,
+        "detailTextMapHash": 251431887,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1012,
+        "nameTextMapHash": 342730888,
+        "detailTextMapHash": 850346575,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1013,
+        "nameTextMapHash": 3713422800,
+        "detailTextMapHash": 318866367,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1014,
+        "nameTextMapHash": 3187578688,
+        "detailTextMapHash": 775339871,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1015,
+        "nameTextMapHash": 416359024,
+        "detailTextMapHash": 4243340311,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1016,
+        "nameTextMapHash": 2294296088,
+        "detailTextMapHash": 2040796207,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "20"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1017,
+        "nameTextMapHash": 2705544688,
+        "detailTextMapHash": 3215793399,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1018,
+        "nameTextMapHash": 1067394232,
+        "detailTextMapHash": 2010131791,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "20"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1019,
+        "nameTextMapHash": 3496083656,
+        "detailTextMapHash": 1225231159,
+        "condList": [
+            {
+                "paramStr": ""
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1020,
+        "nameTextMapHash": 488966376,
+        "detailTextMapHash": 655271,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1021,
+        "nameTextMapHash": 4064270816,
+        "detailTextMapHash": 3052052095,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1022,
+        "nameTextMapHash": 1640263696,
+        "detailTextMapHash": 4123936287,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1023,
+        "nameTextMapHash": 1669431136,
+        "detailTextMapHash": 3981348287,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    },
+    {
+        "h5ActivityId": 1024,
+        "nameTextMapHash": 494068480,
+        "detailTextMapHash": 1117462479,
+        "condComb": "LOGIC_AND",
+        "condList": [
+            {
+                "type": "H5_ACTIVITY_COND_PLAYER_LEVEL",
+                "paramStr": "10"
+            },
+            {
+                "paramStr": ""
+            }
+        ]
+    }
+]

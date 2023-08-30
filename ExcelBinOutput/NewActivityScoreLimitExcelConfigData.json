@@ -1,0 +1,37 @@
+[
+    {
+        "id": 5023001,
+        "activityID": 5023,
+        "limitValue": 1200
+    },
+    {
+        "id": 5023002,
+        "activityID": 5023,
+        "limitValue": 1800
+    },
+    {
+        "id": 5023003,
+        "activityID": 5023,
+        "limitValue": 2400
+    },
+    {
+        "id": 5023004,
+        "activityID": 5023,
+        "limitValue": 3000
+    },
+    {
+        "id": 5023005,
+        "activityID": 5023,
+        "limitValue": 3800
+    },
+    {
+        "id": 5023006,
+        "activityID": 5023,
+        "limitValue": 4600
+    },
+    {
+        "id": 5023007,
+        "activityID": 5023,
+        "limitValue": 6000
+    }
+]

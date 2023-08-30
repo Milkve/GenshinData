@@ -1,25 +1,26 @@
 [
     {
-        "Id": 1,
-        "DungeonEntryId": 48,
-        "Type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
-        "DescTextMapHash": 1612886129,
-        "CooldownTipsDungeonId": [],
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 1,
+        "dungeonEntryId": 48,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 1612886129,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 22
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 39604
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
             }
         ],
-        "PicPath": "UI_DungeonPic_Cubic_Normal",
-        "SystemOpenUiId": 4,
-        "RewardDataId": 220404,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Cubic_Normal",
+        "systemOpenUiId": 4,
+        "rewardDataId": 220404,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -27,27 +28,28 @@
         ]
     },
     {
-        "Id": 2,
-        "DungeonEntryId": 50,
-        "Type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
-        "DescTextMapHash": 3914992809,
-        "CooldownTipsDungeonId": [],
-        "IsDailyRefresh": true,
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 2,
+        "dungeonEntryId": 50,
+        "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 3914992809,
+        "cooldownTipsDungeonId": [],
+        "isDailyRefresh": true,
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 16
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 16
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 38406
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 38406
             }
         ],
-        "PicPath": "UI_DungeonPic_Water",
-        "SystemOpenUiId": 8,
-        "RewardDataId": 220402,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Water",
+        "systemOpenUiId": 8,
+        "rewardDataId": 220402,
+        "descriptionCycleRewardList": [
             [
                 114001,
                 114002,
@@ -83,26 +85,27 @@
         ]
     },
     {
-        "Id": 3,
-        "DungeonEntryId": 135,
-        "Type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
-        "DescTextMapHash": 1293176289,
-        "CooldownTipsDungeonId": [],
-        "IsDailyRefresh": true,
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 3,
+        "dungeonEntryId": 135,
+        "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 1293176289,
+        "cooldownTipsDungeonId": [],
+        "isDailyRefresh": true,
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 16
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 16
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 38406
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 38406
             }
         ],
-        "PicPath": "UI_DungeonPic_Thunder",
-        "RewardDataId": 220407,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Thunder",
+        "rewardDataId": 220407,
+        "descriptionCycleRewardList": [
             [
                 114013,
                 114014,
@@ -138,18 +141,18 @@
         ]
     },
     {
-        "Id": 4,
-        "DungeonEntryId": 117,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 77310385,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 4,
+        "dungeonEntryId": 117,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 77310385,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_HuZhongTian",
-        "RewardDataId": 220406,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_HuZhongTian",
+        "rewardDataId": 220406,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -157,25 +160,26 @@
         ]
     },
     {
-        "Id": 6,
-        "DungeonEntryId": 42,
-        "Type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
-        "DescTextMapHash": 2667941777,
-        "CooldownTipsDungeonId": [],
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 6,
+        "dungeonEntryId": 42,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 2667941777,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 22
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 39604
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
             }
         ],
-        "PicPath": "UI_DungeonPic_Cubic_Normal_1",
-        "RewardDataId": 220405,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Cubic_Normal_1",
+        "rewardDataId": 220405,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -183,25 +187,26 @@
         ]
     },
     {
-        "Id": 7,
-        "DungeonEntryId": 137,
-        "Type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
-        "DescTextMapHash": 767933225,
-        "CooldownTipsDungeonId": [],
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 7,
+        "dungeonEntryId": 137,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 767933225,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 22
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 39604
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
             }
         ],
-        "PicPath": "UI_DungeonPic_Cubic_Normal_2",
-        "RewardDataId": 220409,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Cubic_Normal_2",
+        "rewardDataId": 220409,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -209,25 +214,26 @@
         ]
     },
     {
-        "Id": 8,
-        "DungeonEntryId": 107,
-        "Type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
-        "DescTextMapHash": 692041689,
-        "CooldownTipsDungeonId": [],
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 8,
+        "dungeonEntryId": 107,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 692041689,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 22
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 39604
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
             }
         ],
-        "PicPath": "UI_DungeonPic_Cubic_Normal_3",
-        "RewardDataId": 220410,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Cubic_Normal_3",
+        "rewardDataId": 220410,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -235,25 +241,26 @@
         ]
     },
     {
-        "Id": 9,
-        "DungeonEntryId": 139,
-        "Type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
-        "DescTextMapHash": 142290817,
-        "CooldownTipsDungeonId": [],
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 9,
+        "dungeonEntryId": 139,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 142290817,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 22
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 39604
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
             }
         ],
-        "PicPath": "UI_DungeonPic_Cubic_Normal_4",
-        "RewardDataId": 220411,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Cubic_Normal_4",
+        "rewardDataId": 220411,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -261,27 +268,28 @@
         ]
     },
     {
-        "Id": 10,
-        "DungeonEntryId": 44,
-        "Type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
-        "DescTextMapHash": 2905358345,
-        "CooldownTipsDungeonId": [],
-        "IsDailyRefresh": true,
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 10,
+        "dungeonEntryId": 44,
+        "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 2905358345,
+        "cooldownTipsDungeonId": [],
+        "isDailyRefresh": true,
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 27
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 27
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 101801
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 101801
             }
         ],
-        "PicPath": "UI_DungeonPic_Ice",
-        "SystemOpenUiId": 6,
-        "RewardDataId": 220403,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Ice",
+        "systemOpenUiId": 6,
+        "rewardDataId": 220403,
+        "descriptionCycleRewardList": [
             [
                 104301,
                 104302,
@@ -311,26 +319,27 @@
         ]
     },
     {
-        "Id": 11,
-        "DungeonEntryId": 131,
-        "Type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
-        "DescTextMapHash": 2189301337,
-        "CooldownTipsDungeonId": [],
-        "IsDailyRefresh": true,
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 11,
+        "dungeonEntryId": 131,
+        "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 2189301337,
+        "cooldownTipsDungeonId": [],
+        "isDailyRefresh": true,
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 27
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 27
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 101801
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 101801
             }
         ],
-        "PicPath": "UI_DungeonPic_Fire",
-        "RewardDataId": 220408,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Fire",
+        "rewardDataId": 220408,
+        "descriptionCycleRewardList": [
             [
                 104310,
                 104311,
@@ -360,25 +369,26 @@
         ]
     },
     {
-        "Id": 12,
-        "DungeonEntryId": 221,
-        "Type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
-        "DescTextMapHash": 4215300953,
-        "CooldownTipsDungeonId": [],
-        "CondComb": "LOGIC_OR",
-        "SatisfiedCond": [
+        "id": 12,
+        "dungeonEntryId": 221,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 4215300953,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 22
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
             },
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_QUEST",
-                "Param1": 39604
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
             }
         ],
-        "PicPath": "UI_DungeonPic_Cubic_Cold_1",
-        "RewardDataId": 220414,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Cubic_Cold_1",
+        "rewardDataId": 220414,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -386,22 +396,236 @@
         ]
     },
     {
-        "Id": 1001,
-        "DungeonEntryId": 45,
-        "Type": "DUNGEON_ENTRY_TYPE_OBSCURAE",
-        "DescTextMapHash": 2708589641,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 13,
+        "dungeonEntryId": 282,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 407495801,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
             {
-                "Type": "DUNGEON_ENTRY_CONDITION_LEVEL",
-                "Param1": 20
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
+            }
+        ],
+        "picPath": "UI_DungeonPic_Cubic_Normal_1",
+        "rewardDataId": 220415,
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 14,
+        "dungeonEntryId": 368,
+        "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 3563711113,
+        "cooldownTipsDungeonId": [],
+        "isDailyRefresh": true,
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 30
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 201310
+            }
+        ],
+        "picPath": "UI_DungeonPic_Rock",
+        "rewardDataId": 220416,
+        "descriptionCycleRewardList": [
+            [
+                114025,
+                114026,
+                114027,
+                114028
+            ],
+            [
+                114029,
+                114030,
+                114031,
+                114032
+            ],
+            [
+                114033,
+                114034,
+                114035,
+                114036
+            ],
+            [
+                114025,
+                114026,
+                114027,
+                114028,
+                114029,
+                114030,
+                114031,
+                114032,
+                114033,
+                114034,
+                114035,
+                114036
+            ]
+        ]
+    },
+    {
+        "id": 15,
+        "dungeonEntryId": 310,
+        "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 1335742113,
+        "cooldownTipsDungeonId": [],
+        "isDailyRefresh": true,
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 30
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 201310
+            }
+        ],
+        "picPath": "UI_DungeonPic_Thunder_Dq",
+        "rewardDataId": 220417,
+        "descriptionCycleRewardList": [
+            [
+                104320,
+                104321,
+                104322
+            ],
+            [
+                104323,
+                104324,
+                104325
+            ],
+            [
+                104326,
+                104327,
+                104328
+            ],
+            [
+                104320,
+                104321,
+                104322,
+                104323,
+                104324,
+                104325,
+                104326,
+                104327,
+                104328
+            ]
+        ]
+    },
+    {
+        "id": 16,
+        "dungeonEntryId": 361,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 2252726481,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 30
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 201310
+            }
+        ],
+        "picPath": "UI_DungeonPic_ThunderCave_Dq",
+        "rewardDataId": 220418,
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 17,
+        "dungeonEntryId": 433,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 831946953,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 30
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 201310
+            }
+        ],
+        "picPath": "UI_DungeonPic_ThunderCave_Dq",
+        "rewardDataId": 220419,
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 18,
+        "dungeonEntryId": 516,
+        "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 2021257257,
+        "cooldownTipsDungeonId": [],
+        "condComb": "LOGIC_OR",
+        "satisfiedCond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 22
+            },
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_QUEST",
+                "param1": 39604
+            }
+        ],
+        "picPath": "UI_DungeonPic_CycleDungeonChasm",
+        "rewardDataId": 220420,
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1001,
+        "dungeonEntryId": 45,
+        "type": "DUNGEON_ENTRY_TYPE_OBSCURAE",
+        "descTextMapHash": 2708589641,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
+            {
+                "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
+                "param1": 20
             },
             {}
         ],
-        "PicPath": "UI_DungeonPic_Tower_Normal",
-        "SystemOpenUiId": 3,
-        "RewardDataId": 220412,
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Tower_Normal",
+        "systemOpenUiId": 3,
+        "rewardDataId": 220412,
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -409,17 +633,17 @@
         ]
     },
     {
-        "Id": 1002,
-        "DungeonEntryId": 1,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 3239234745,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1002,
+        "dungeonEntryId": 1,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3239234745,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Kaeya",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Kaeya",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -427,17 +651,17 @@
         ]
     },
     {
-        "Id": 1003,
-        "DungeonEntryId": 20,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 1162985985,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1003,
+        "dungeonEntryId": 20,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 1162985985,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Amber",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Amber",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -445,17 +669,17 @@
         ]
     },
     {
-        "Id": 1004,
-        "DungeonEntryId": 22,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 3920998985,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1004,
+        "dungeonEntryId": 22,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3920998985,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Lise",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Lise",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -463,17 +687,17 @@
         ]
     },
     {
-        "Id": 1005,
-        "DungeonEntryId": 40,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 1972150497,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1005,
+        "dungeonEntryId": 40,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 1972150497,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_DragonTear",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_DragonTear",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -481,11 +705,12 @@
         ]
     },
     {
-        "Id": 1006,
-        "DungeonEntryId": 38,
-        "Type": "DUNGEON_ENTRY_TYPE_TRIAL",
-        "DescTextMapHash": 792448241,
-        "CooldownTipsDungeonId": [
+        "id": 1006,
+        "dungeonEntryId": 38,
+        "type": "DUNGEON_ENTRY_TYPE_TRIAL",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 792448241,
+        "cooldownTipsDungeonId": [
             2020,
             2021,
             2022,
@@ -493,13 +718,13 @@
             2024,
             2025
         ],
-        "IsDefaultOpen": true,
-        "SatisfiedCond": [
+        "isDefaultOpen": true,
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Stormterror",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Stormterror",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -507,17 +732,17 @@
         ]
     },
     {
-        "Id": 1007,
-        "DungeonEntryId": 52,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 3246634345,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1007,
+        "dungeonEntryId": 52,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3246634345,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Kaeya",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Kaeya",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -525,17 +750,17 @@
         ]
     },
     {
-        "Id": 1008,
-        "DungeonEntryId": 113,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 332916601,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1008,
+        "dungeonEntryId": 113,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 332916601,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Fatui",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Fatui",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -543,17 +768,17 @@
         ]
     },
     {
-        "Id": 1009,
-        "DungeonEntryId": 102,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 1575215929,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1009,
+        "dungeonEntryId": 102,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 1575215929,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Diluc",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -561,17 +786,17 @@
         ]
     },
     {
-        "Id": 1010,
-        "DungeonEntryId": 89,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 2484444193,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1010,
+        "dungeonEntryId": 89,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2484444193,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Diluc",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -579,17 +804,17 @@
         ]
     },
     {
-        "Id": 1011,
-        "DungeonEntryId": 119,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 4121744817,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1011,
+        "dungeonEntryId": 119,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 4121744817,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Diluc",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -597,17 +822,17 @@
         ]
     },
     {
-        "Id": 1012,
-        "DungeonEntryId": 125,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 692976025,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1012,
+        "dungeonEntryId": 125,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 692976025,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_XiangLing",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_XiangLing",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -615,17 +840,17 @@
         ]
     },
     {
-        "Id": 1013,
-        "DungeonEntryId": 129,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 2511450889,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1013,
+        "dungeonEntryId": 129,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2511450889,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Diluc",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Diluc",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -633,17 +858,17 @@
         ]
     },
     {
-        "Id": 1014,
-        "DungeonEntryId": 146,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 3994909113,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1014,
+        "dungeonEntryId": 146,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3994909113,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_YunHai",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_YunHai",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -651,17 +876,17 @@
         ]
     },
     {
-        "Id": 1015,
-        "DungeonEntryId": 133,
-        "Type": "DUNGEON_ENTRY_TYPE_NORMAL",
-        "DescTextMapHash": 3007793081,
-        "CooldownTipsDungeonId": [],
-        "SatisfiedCond": [
+        "id": 1015,
+        "dungeonEntryId": 133,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 3007793081,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_YunHai",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_YunHai",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -669,23 +894,24 @@
         ]
     },
     {
-        "Id": 1016,
-        "DungeonEntryId": 218,
-        "Type": "DUNGEON_ENTRY_TYPE_TRIAL",
-        "DescTextMapHash": 1047671777,
-        "CooldownTipsDungeonId": [
+        "id": 1016,
+        "dungeonEntryId": 218,
+        "type": "DUNGEON_ENTRY_TYPE_TRIAL",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 1047671777,
+        "cooldownTipsDungeonId": [
             103,
             104,
             105,
             106
         ],
-        "IsDefaultOpen": true,
-        "SatisfiedCond": [
+        "isDefaultOpen": true,
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_Goldenhouse",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_Goldenhouse",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -693,18 +919,18 @@
         ]
     },
     {
-        "Id": 1017,
-        "DungeonEntryId": 223,
-        "Type": "DUNGEON_ENTRY_TYPE_EFFIGY",
-        "DescTextMapHash": 2923105409,
-        "CooldownTipsDungeonId": [],
-        "IsDefaultOpen": true,
-        "SatisfiedCond": [
+        "id": 1017,
+        "dungeonEntryId": 223,
+        "type": "DUNGEON_ENTRY_TYPE_EFFIGY",
+        "descTextMapHash": 2923105409,
+        "cooldownTipsDungeonId": [],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_EffigyChallenge",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_EffigyChallenge",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],
@@ -712,20 +938,552 @@
         ]
     },
     {
-        "Id": 1018,
-        "DungeonEntryId": 265,
-        "Type": "DUNGEON_ENTRY_TYPE_FLEUR_FAIR",
-        "DescTextMapHash": 3303313457,
-        "CooldownTipsDungeonId": [
+        "id": 1018,
+        "dungeonEntryId": 265,
+        "type": "DUNGEON_ENTRY_TYPE_FLEUR_FAIR",
+        "descTextMapHash": 3303313457,
+        "cooldownTipsDungeonId": [
             5310
         ],
-        "IsDefaultOpen": true,
-        "SatisfiedCond": [
+        "isDefaultOpen": true,
+        "satisfiedCond": [
             {},
             {}
         ],
-        "PicPath": "UI_DungeonPic_FleurFair",
-        "DescriptionCycleRewardList": [
+        "picPath": "UI_DungeonPic_FleurFair",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1019,
+        "dungeonEntryId": 274,
+        "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+        "descTextMapHash": 2262718049,
+        "cooldownTipsDungeonId": [
+            7202
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Kaeya",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1020,
+        "dungeonEntryId": 276,
+        "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+        "descTextMapHash": 2797072865,
+        "cooldownTipsDungeonId": [
+            7203
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_XiangLing",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1021,
+        "dungeonEntryId": 278,
+        "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+        "descTextMapHash": 2491644225,
+        "cooldownTipsDungeonId": [
+            7201
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_DragonTear",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1022,
+        "dungeonEntryId": 280,
+        "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
+        "descTextMapHash": 350839273,
+        "cooldownTipsDungeonId": [
+            7204
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_ChannellerSlab",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1023,
+        "dungeonEntryId": 271,
+        "type": "DUNGEON_ENTRY_TYPE_TRIAL",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 3790866161,
+        "cooldownTipsDungeonId": [
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_DahakaBoss_1",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1024,
+        "dungeonEntryId": 294,
+        "type": "DUNGEON_ENTRY_TYPE_EFFIGY",
+        "descTextMapHash": 3135140769,
+        "cooldownTipsDungeonId": [],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_EffigyChallenge_01",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1025,
+        "dungeonEntryId": 334,
+        "type": "DUNGEON_ENTRY_TYPE_BLITZ_RUSH",
+        "descTextMapHash": 3528534825,
+        "cooldownTipsDungeonId": [
+            7301
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Perpetual",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1026,
+        "dungeonEntryId": 357,
+        "type": "DUNGEON_ENTRY_TYPE_SUMO",
+        "descTextMapHash": 1657396761,
+        "cooldownTipsDungeonId": [
+            3011
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Sumo",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1027,
+        "dungeonEntryId": 350,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 268653081,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_HFDungeon01",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1028,
+        "dungeonEntryId": 308,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2309605713,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_HFDungeon02_01",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1029,
+        "dungeonEntryId": 359,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2262274449,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_HFDungeon02_02",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1030,
+        "dungeonEntryId": 396,
+        "type": "DUNGEON_ENTRY_TYPE_TRIAL",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 1251280409,
+        "cooldownTipsDungeonId": [
+            127,
+            128,
+            129,
+            130
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_DonjonBattle",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1031,
+        "dungeonEntryId": 351,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2428969633,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_HFDungeon01_02",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1032,
+        "dungeonEntryId": 417,
+        "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+        "descTextMapHash": 3512394897,
+        "cooldownTipsDungeonId": [],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_OnmyoMaze",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1033,
+        "dungeonEntryId": 426,
+        "type": "DUNGEON_ENTRY_TYPE_HACHI",
+        "descTextMapHash": 746465721,
+        "cooldownTipsDungeonId": [
+            7310
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Hachi",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1034,
+        "dungeonEntryId": 424,
+        "type": "DUNGEON_ENTRY_TYPE_NORMAL",
+        "descTextMapHash": 2323875993,
+        "cooldownTipsDungeonId": [],
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_HFDungeon02_02",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1035,
+        "dungeonEntryId": 436,
+        "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
+        "descTextMapHash": 76103177,
+        "cooldownTipsDungeonId": [
+            7221
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_ChannellerSlab",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1036,
+        "dungeonEntryId": 447,
+        "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+        "descTextMapHash": 433396889,
+        "cooldownTipsDungeonId": [
+            2150
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Qiqi",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1037,
+        "dungeonEntryId": 449,
+        "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+        "descTextMapHash": 512326977,
+        "cooldownTipsDungeonId": [
+            2154
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_XiangLing",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1038,
+        "dungeonEntryId": 451,
+        "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+        "descTextMapHash": 3872861745,
+        "cooldownTipsDungeonId": [
+            2158
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_YunHai",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1039,
+        "dungeonEntryId": 457,
+        "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+        "descTextMapHash": 474765937,
+        "cooldownTipsDungeonId": [
+            7302
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Eldritch_Minor01",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1040,
+        "dungeonEntryId": 469,
+        "type": "DUNGEON_ENTRY_TYPE_SUMO",
+        "descTextMapHash": 916511777,
+        "cooldownTipsDungeonId": [
+            3027
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Sumo",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1041,
+        "dungeonEntryId": 512,
+        "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+        "descTextMapHash": 1872280993,
+        "cooldownTipsDungeonId": [
+            2122,
+            2120,
+            2121,
+            2119,
+            2123
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_Steeplechase_1",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1042,
+        "dungeonEntryId": 520,
+        "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+        "descTextMapHash": 3392902889,
+        "cooldownTipsDungeonId": [],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_CrystalLink",
+        "descriptionCycleRewardList": [
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": 1043,
+        "dungeonEntryId": 503,
+        "type": "DUNGEON_ENTRY_TYPE_TRIAL",
+        "isShowInAdvHandbook": true,
+        "descTextMapHash": 1825844521,
+        "cooldownTipsDungeonId": [
+            131,
+            132,
+            133,
+            134
+        ],
+        "isDefaultOpen": true,
+        "satisfiedCond": [
+            {},
+            {}
+        ],
+        "picPath": "UI_DungeonPic_WeekDungeon_Baal",
+        "descriptionCycleRewardList": [
             [],
             [],
             [],

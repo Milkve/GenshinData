@@ -5,7 +5,7 @@ E você:
 
 Houve uma época em que os deuses caminharam pela terra.
 Para pensadores e sábios, revelaram sua aparência:
-O brilho das estrelas, a órbita da Lua.
+O brilho das estrelas, a órbita da lua.
 E você.
 
 <image name=ReadPic_Test />

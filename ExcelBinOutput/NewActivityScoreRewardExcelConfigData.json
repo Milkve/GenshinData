@@ -1,0 +1,138 @@
+[
+    {
+        "id": 5023001,
+        "activityId": 5023,
+        "rewardID": 3014001,
+        "score": 300,
+        "activityScoreTipsTextMapHash": 2530615193,
+        "activityScoreExtraTipsTextMapHash": 1473860363
+    },
+    {
+        "id": 5023002,
+        "activityId": 5023,
+        "rewardID": 3014002,
+        "score": 600,
+        "activityScoreTipsTextMapHash": 4020159881,
+        "activityScoreExtraTipsTextMapHash": 165551899
+    },
+    {
+        "id": 5023003,
+        "activityId": 5023,
+        "rewardID": 3014003,
+        "score": 900,
+        "activityScoreTipsTextMapHash": 822420873,
+        "activityScoreExtraTipsTextMapHash": 3494428075
+    },
+    {
+        "id": 5023004,
+        "activityId": 5023,
+        "rewardID": 3014004,
+        "score": 1200,
+        "activityScoreTipsTextMapHash": 1053419545,
+        "activityScoreExtraTipsTextMapHash": 3224352395
+    },
+    {
+        "id": 5023005,
+        "activityId": 5023,
+        "rewardID": 3014005,
+        "score": 1500,
+        "activityScoreTipsTextMapHash": 36044001,
+        "activityScoreExtraTipsTextMapHash": 1627839843
+    },
+    {
+        "id": 5023006,
+        "activityId": 5023,
+        "rewardID": 3014006,
+        "score": 1800,
+        "activityScoreTipsTextMapHash": 2446442553,
+        "activityScoreExtraTipsTextMapHash": 1158437915
+    },
+    {
+        "id": 5023007,
+        "activityId": 5023,
+        "rewardID": 3014007,
+        "score": 2100,
+        "activityScoreTipsTextMapHash": 1580027097,
+        "activityScoreExtraTipsTextMapHash": 2098011427
+    },
+    {
+        "id": 5023008,
+        "activityId": 5023,
+        "rewardID": 3014008,
+        "score": 2400,
+        "activityScoreTipsTextMapHash": 1142746961,
+        "activityScoreExtraTipsTextMapHash": 3273823403
+    },
+    {
+        "id": 5023009,
+        "activityId": 5023,
+        "rewardID": 3014009,
+        "score": 2700,
+        "activityScoreTipsTextMapHash": 1207310337,
+        "activityScoreExtraTipsTextMapHash": 4023407507
+    },
+    {
+        "id": 5023010,
+        "activityId": 5023,
+        "rewardID": 3014010,
+        "score": 3000,
+        "activityScoreTipsTextMapHash": 1445829105,
+        "activityScoreExtraTipsTextMapHash": 3955646971
+    },
+    {
+        "id": 5023011,
+        "activityId": 5023,
+        "rewardID": 3014011,
+        "score": 3400,
+        "activityScoreTipsTextMapHash": 1777986377,
+        "activityScoreExtraTipsTextMapHash": 1256900939
+    },
+    {
+        "id": 5023012,
+        "activityId": 5023,
+        "rewardID": 3014012,
+        "score": 3800,
+        "activityScoreTipsTextMapHash": 929842233,
+        "activityScoreExtraTipsTextMapHash": 2809608835
+    },
+    {
+        "id": 5023013,
+        "activityId": 5023,
+        "rewardID": 3014013,
+        "score": 4200,
+        "activityScoreTipsTextMapHash": 843969457,
+        "activityScoreExtraTipsTextMapHash": 2449896107
+    },
+    {
+        "id": 5023014,
+        "activityId": 5023,
+        "rewardID": 3014014,
+        "score": 4600,
+        "activityScoreTipsTextMapHash": 3210741873,
+        "activityScoreExtraTipsTextMapHash": 1474401339
+    },
+    {
+        "id": 5023015,
+        "activityId": 5023,
+        "rewardID": 3014015,
+        "score": 5000,
+        "activityScoreTipsTextMapHash": 1116321465,
+        "activityScoreExtraTipsTextMapHash": 1437878667
+    },
+    {
+        "id": 5023016,
+        "activityId": 5023,
+        "rewardID": 3014016,
+        "score": 5500,
+        "activityScoreTipsTextMapHash": 2786277465,
+        "activityScoreExtraTipsTextMapHash": 4016023899
+    },
+    {
+        "id": 5023017,
+        "activityId": 5023,
+        "rewardID": 3014017,
+        "score": 6000,
+        "activityScoreTipsTextMapHash": 942831785,
+        "activityScoreExtraTipsTextMapHash": 4000689771
+    }
+]

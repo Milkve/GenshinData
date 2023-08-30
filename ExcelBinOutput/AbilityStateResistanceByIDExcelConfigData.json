@@ -1,7 +1,7 @@
 [
     {
-        "Id": 11001,
-        "AbilityStates": [
+        "id": 11001,
+        "abilityStates": [
             "ElementFreeze",
             "ElementBurning",
             "ElementWet",
@@ -15,8 +15,8 @@
         ]
     },
     {
-        "Id": 11002,
-        "AbilityStates": [
+        "id": 11002,
+        "abilityStates": [
             "ElementFreeze",
             "ElementBurning",
             "ElementWet",
@@ -30,23 +30,23 @@
         ]
     },
     {
-        "Id": 11003,
-        "AbilityStates": [
+        "id": 11003,
+        "abilityStates": [
             "ElementFreeze",
             "ElementFrozen",
             "Struggle",
-            "Paralyze",
             "DefenseDown",
             "MuteTaunt",
             "ElementIce",
             "ElementPetrifaction",
             "None",
+            "None",
             "None"
         ]
     },
     {
-        "Id": 12001,
-        "AbilityStates": [
+        "id": 12001,
+        "abilityStates": [
             "ElementFreeze",
             "ElementBurning",
             "ElementWet",
@@ -60,8 +60,8 @@
         ]
     },
     {
-        "Id": 12002,
-        "AbilityStates": [
+        "id": 12002,
+        "abilityStates": [
             "ElementFire",
             "ElementIce",
             "ElementElectric",
@@ -75,8 +75,23 @@
         ]
     },
     {
-        "Id": 13001,
-        "AbilityStates": [
+        "id": 12003,
+        "abilityStates": [
+            "ElementFreeze",
+            "ElementBurning",
+            "ElementWet",
+            "ElementShock",
+            "ElementPetrifaction",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "id": 13001,
+        "abilityStates": [
             "ElementFreeze",
             "ElementIce",
             "None",
@@ -90,8 +105,8 @@
         ]
     },
     {
-        "Id": 13002,
-        "AbilityStates": [
+        "id": 13002,
+        "abilityStates": [
             "ElementFreeze",
             "Struggle",
             "ElementPetrifaction",
@@ -105,8 +120,8 @@
         ]
     },
     {
-        "Id": 14001,
-        "AbilityStates": [
+        "id": 14001,
+        "abilityStates": [
             "Struggle",
             "None",
             "None",
@@ -120,8 +135,8 @@
         ]
     },
     {
-        "Id": 14002,
-        "AbilityStates": [
+        "id": 14002,
+        "abilityStates": [
             "ElementFreeze",
             "None",
             "None",
@@ -135,9 +150,9 @@
         ]
     },
     {
-        "Id": 14003,
-        "AbilityStates": [
-            "ElementConductive",
+        "id": 14003,
+        "abilityStates": [
+            "None",
             "None",
             "None",
             "None",
@@ -150,8 +165,8 @@
         ]
     },
     {
-        "Id": 14004,
-        "AbilityStates": [
+        "id": 14004,
+        "abilityStates": [
             "ElementShock",
             "None",
             "None",
@@ -165,8 +180,8 @@
         ]
     },
     {
-        "Id": 14005,
-        "AbilityStates": [
+        "id": 14005,
+        "abilityStates": [
             "ElementFrozen",
             "None",
             "None",
@@ -180,13 +195,58 @@
         ]
     },
     {
-        "Id": 14006,
-        "AbilityStates": [
+        "id": 14006,
+        "abilityStates": [
             "ElementPetrifaction",
             "None",
             "None",
             "None",
             "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "id": 14007,
+        "abilityStates": [
+            "ElementDeadTime",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "id": 15001,
+        "abilityStates": [
+            "ElementBurning",
+            "ElementWet",
+            "ElementFrozen",
+            "ElementShock",
+            "Struggle",
+            "ElementRock",
+            "ElementIce",
+            "None",
+            "None",
+            "None"
+        ]
+    },
+    {
+        "id": 15002,
+        "abilityStates": [
+            "ElementFreeze",
+            "ElementWind",
+            "ElementElectric",
+            "ElementFire",
+            "ElementPetrifaction",
             "None",
             "None",
             "None",

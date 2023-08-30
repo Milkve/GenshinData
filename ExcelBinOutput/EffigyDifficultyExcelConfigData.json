@@ -1,198 +1,254 @@
 [
     {
-        "Id": 1,
-        "ChallengeId": 1,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
-        "MonsterLevel": 19,
-        "ScoreRatio": 1.0
+        "id": 1,
+        "challengeId": 1,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
+        "monsterLevel": 29,
+        "scoreRatio": 1.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 2,
-        "ChallengeId": 1,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
-        "MonsterLevel": 39,
-        "ScoreRatio": 1.5
+        "id": 2,
+        "challengeId": 1,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
+        "monsterLevel": 49,
+        "scoreRatio": 2.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 3,
-        "ChallengeId": 1,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
-        "MonsterLevel": 59,
-        "ScoreRatio": 2.5
+        "id": 3,
+        "challengeId": 1,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
+        "monsterLevel": 69,
+        "scoreRatio": 3.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 4,
-        "ChallengeId": 1,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
-        "MonsterLevel": 79,
-        "ScoreRatio": 4.5
+        "id": 4,
+        "challengeId": 1,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
+        "monsterLevel": 89,
+        "scoreRatio": 5.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 5,
-        "ChallengeId": 2,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
-        "MonsterLevel": 19,
-        "ScoreRatio": 1.0
+        "id": 5,
+        "challengeId": 2,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
+        "monsterLevel": 29,
+        "scoreRatio": 1.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 6,
-        "ChallengeId": 2,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
-        "MonsterLevel": 39,
-        "ScoreRatio": 1.5
+        "id": 6,
+        "challengeId": 2,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
+        "monsterLevel": 49,
+        "scoreRatio": 2.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 7,
-        "ChallengeId": 2,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
-        "MonsterLevel": 59,
-        "ScoreRatio": 2.5
+        "id": 7,
+        "challengeId": 2,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
+        "monsterLevel": 69,
+        "scoreRatio": 3.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 8,
-        "ChallengeId": 2,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
-        "MonsterLevel": 79,
-        "ScoreRatio": 4.5
+        "id": 8,
+        "challengeId": 2,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
+        "monsterLevel": 89,
+        "scoreRatio": 5.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 9,
-        "ChallengeId": 3,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
-        "MonsterLevel": 19,
-        "ScoreRatio": 1.0
+        "id": 9,
+        "challengeId": 3,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
+        "monsterLevel": 29,
+        "scoreRatio": 1.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 10,
-        "ChallengeId": 3,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
-        "MonsterLevel": 39,
-        "ScoreRatio": 1.5
+        "id": 10,
+        "challengeId": 3,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
+        "monsterLevel": 49,
+        "scoreRatio": 2.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 11,
-        "ChallengeId": 3,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
-        "MonsterLevel": 59,
-        "ScoreRatio": 2.5
+        "id": 11,
+        "challengeId": 3,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
+        "monsterLevel": 69,
+        "scoreRatio": 3.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 12,
-        "ChallengeId": 3,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
-        "MonsterLevel": 79,
-        "ScoreRatio": 4.5
+        "id": 12,
+        "challengeId": 3,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
+        "monsterLevel": 89,
+        "scoreRatio": 5.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 13,
-        "ChallengeId": 4,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
-        "MonsterLevel": 19,
-        "ScoreRatio": 1.0
+        "id": 13,
+        "challengeId": 4,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
+        "monsterLevel": 29,
+        "scoreRatio": 1.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 14,
-        "ChallengeId": 4,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
-        "MonsterLevel": 39,
-        "ScoreRatio": 1.5
+        "id": 14,
+        "challengeId": 4,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
+        "monsterLevel": 49,
+        "scoreRatio": 2.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 15,
-        "ChallengeId": 4,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
-        "MonsterLevel": 59,
-        "ScoreRatio": 2.5
+        "id": 15,
+        "challengeId": 4,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
+        "monsterLevel": 69,
+        "scoreRatio": 3.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 16,
-        "ChallengeId": 4,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
-        "MonsterLevel": 79,
-        "ScoreRatio": 4.5
+        "id": 16,
+        "challengeId": 4,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
+        "monsterLevel": 89,
+        "scoreRatio": 5.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 17,
-        "ChallengeId": 5,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
-        "MonsterLevel": 19,
-        "ScoreRatio": 1.0
+        "id": 17,
+        "challengeId": 5,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
+        "monsterLevel": 29,
+        "scoreRatio": 1.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 18,
-        "ChallengeId": 5,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
-        "MonsterLevel": 39,
-        "ScoreRatio": 1.5
+        "id": 18,
+        "challengeId": 5,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
+        "monsterLevel": 49,
+        "scoreRatio": 2.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 19,
-        "ChallengeId": 5,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
-        "MonsterLevel": 59,
-        "ScoreRatio": 2.5
+        "id": 19,
+        "challengeId": 5,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
+        "monsterLevel": 69,
+        "scoreRatio": 3.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 20,
-        "ChallengeId": 5,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
-        "MonsterLevel": 79,
-        "ScoreRatio": 4.5
+        "id": 20,
+        "challengeId": 5,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
+        "monsterLevel": 89,
+        "scoreRatio": 5.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 21,
-        "ChallengeId": 6,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
-        "MonsterLevel": 19,
-        "ScoreRatio": 1.0
+        "id": 21,
+        "challengeId": 6,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
+        "monsterLevel": 29,
+        "scoreRatio": 1.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 22,
-        "ChallengeId": 6,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
-        "MonsterLevel": 39,
-        "ScoreRatio": 1.5
+        "id": 22,
+        "challengeId": 6,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
+        "monsterLevel": 49,
+        "scoreRatio": 2.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 23,
-        "ChallengeId": 6,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
-        "MonsterLevel": 59,
-        "ScoreRatio": 2.5
+        "id": 23,
+        "challengeId": 6,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
+        "monsterLevel": 69,
+        "scoreRatio": 3.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 24,
-        "ChallengeId": 6,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
-        "MonsterLevel": 79,
-        "ScoreRatio": 4.5
+        "id": 24,
+        "challengeId": 6,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
+        "monsterLevel": 89,
+        "scoreRatio": 5.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 25,
-        "ChallengeId": 7,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
-        "MonsterLevel": 19,
-        "ScoreRatio": 1.0
+        "id": 25,
+        "challengeId": 7,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_PRIMER",
+        "monsterLevel": 29,
+        "scoreRatio": 1.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 26,
-        "ChallengeId": 7,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
-        "MonsterLevel": 39,
-        "ScoreRatio": 1.5
+        "id": 26,
+        "challengeId": 7,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_NORMAL",
+        "monsterLevel": 49,
+        "scoreRatio": 2.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 27,
-        "ChallengeId": 7,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
-        "MonsterLevel": 59,
-        "ScoreRatio": 2.5
+        "id": 27,
+        "challengeId": 7,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_HARD",
+        "monsterLevel": 69,
+        "scoreRatio": 3.0,
+        "KFAPPIPPEOO": 1
     },
     {
-        "Id": 28,
-        "ChallengeId": 7,
-        "MonsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
-        "MonsterLevel": 79,
-        "ScoreRatio": 4.5
+        "id": 28,
+        "challengeId": 7,
+        "baseScore": 150,
+        "monsterDifficulty": "EFFIGY_DIFFICULTY_EXPERT",
+        "monsterLevel": 89,
+        "scoreRatio": 5.0,
+        "KFAPPIPPEOO": 1
     }
 ]

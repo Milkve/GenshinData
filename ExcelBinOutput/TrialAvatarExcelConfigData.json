@@ -1,698 +1,990 @@
 [
     {
-        "TrialAvatarId": 1,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1,
+        "trialAvatarParamList": [
             10000021,
             5
         ],
-        "TrialWeaponParamList": [
-            15201,
-            5
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 2,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 2,
+        "trialAvatarParamList": [
             10000015,
             5
         ],
-        "TrialWeaponParamList": [
-            11201,
-            5
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 3,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 3,
+        "trialAvatarParamList": [
             10000006,
             5
         ],
-        "TrialWeaponParamList": [
-            14201,
-            5
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 4,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 4,
+        "trialAvatarParamList": [
             10000016,
             23
         ],
-        "TrialWeaponParamList": [
-            12401,
-            23
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 5,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 5,
+        "trialAvatarParamList": [
             10000022,
             26
         ],
-        "TrialWeaponParamList": [
-            15501,
-            26
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 6,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 6,
+        "trialAvatarParamList": [
             10000015,
             10
         ],
-        "TrialWeaponParamList": [
-            11301,
-            10
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 7,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 7,
+        "trialAvatarParamList": [
             10000003,
             30
         ],
-        "TrialWeaponParamList": [
-            11401,
-            30
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 8,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 8,
+        "trialAvatarParamList": [
             10000021,
             15
         ],
-        "TrialWeaponParamList": [
-            15301,
-            15
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 9,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 9,
+        "trialAvatarParamList": [
             10000020,
             26
         ],
-        "TrialWeaponParamList": [
-            12401,
-            26
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 10,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 10,
+        "trialAvatarParamList": [
             10000006,
             19
         ],
-        "TrialWeaponParamList": [
-            14301,
-            19
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 11,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 11,
+        "trialAvatarParamList": [
             10000016,
             18
         ],
-        "TrialWeaponParamList": [
-            12401,
-            18
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 12,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 12,
+        "trialAvatarParamList": [
             10000025,
             26
         ],
-        "TrialWeaponParamList": [
-            11401,
-            26
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 13,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 13,
+        "trialAvatarParamList": [
             10000023,
             16
         ],
-        "TrialWeaponParamList": [
-            13301,
-            16
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 14,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 14,
+        "trialAvatarParamList": [
             10000029,
             30
         ],
-        "TrialWeaponParamList": [
-            14401,
-            30
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 15,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 15,
+        "trialAvatarParamList": [
             10000026,
             28
         ],
-        "TrialWeaponParamList": [
-            13505,
-            28
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 16,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 16,
+        "trialAvatarParamList": [
             10000026,
             26
         ],
-        "TrialWeaponParamList": [
-            13505,
-            26
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 17,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 17,
+        "trialAvatarParamList": [
             10000030,
             35
         ],
-        "TrialWeaponParamList": [
-            13504,
-            35
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 18,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 18,
+        "trialAvatarParamList": [
             10000022,
             28
         ],
-        "TrialWeaponParamList": [
-            15501,
-            28
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 19,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 19,
+        "trialAvatarParamList": [
             10000041,
             30
         ],
-        "TrialWeaponParamList": [
-            14501,
-            30
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 20,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 20,
+        "trialAvatarParamList": [
             10000035,
             35
         ],
-        "TrialWeaponParamList": [
-            11501,
-            35
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 21,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 21,
+        "trialAvatarParamList": [
             10000033,
             35
         ],
-        "TrialWeaponParamList": [
-            15501,
-            35
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 22,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 22,
+        "trialAvatarParamList": [
             10000041,
             26
         ],
-        "TrialWeaponParamList": [
-            14501,
-            26
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 23,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 23,
+        "trialAvatarParamList": [
             10000037,
             35
         ],
-        "TrialWeaponParamList": [
-            15502,
-            35
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 24,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 24,
+        "trialAvatarParamList": [
             10000046,
             35
         ],
-        "TrialWeaponParamList": [
-            13501,
-            35
-        ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 500,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 25,
+        "trialAvatarParamList": [
+            10000051,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 26,
+        "trialAvatarParamList": [
+            10000030,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 27,
+        "trialAvatarParamList": [
+            10000002,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 28,
+        "trialAvatarParamList": [
+            10000049,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 29,
+        "trialAvatarParamList": [
+            10000052,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 30,
+        "trialAvatarParamList": [
+            10000054,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 31,
+        "trialAvatarParamList": [
+            10000056,
+            30
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 32,
+        "trialAvatarParamList": [
+            10000057,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 33,
+        "trialAvatarParamList": [
+            10000042,
+            33
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 34,
+        "trialAvatarParamList": [
+            10000024,
+            33
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 35,
+        "trialAvatarParamList": [
+            10000063,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 36,
+        "trialAvatarParamList": [
+            10000052,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 37,
+        "trialAvatarParamList": [
+            10000058,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 38,
+        "trialAvatarParamList": [
+            10000066,
+            35
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 500,
+        "trialAvatarParamList": [
             10000034,
             26
         ],
-        "TrialWeaponParamList": [
-            12401,
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 501,
+        "trialAvatarParamList": [
+            10000050,
             26
         ],
-        "IsDynamicLevel": true
+        "isDynamicLevel": true
     },
     {
-        "TrialAvatarId": 1003,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 502,
+        "trialAvatarParamList": [
+            10000053,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 503,
+        "trialAvatarParamList": [
+            10000055,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 504,
+        "trialAvatarParamList": [
+            10000027,
+            26
+        ],
+        "isDynamicLevel": true
+    },
+    {
+        "trialAvatarId": 1002,
+        "trialAvatarParamList": [
+            10000002,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1003,
+        "trialAvatarParamList": [
             10000003,
             80
-        ],
-        "TrialWeaponParamList": [
-            11401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1004,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1004,
+        "trialAvatarParamList": [
             10000006,
             80
-        ],
-        "TrialWeaponParamList": [
-            14401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1014,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1014,
+        "trialAvatarParamList": [
             10000014,
             80
-        ],
-        "TrialWeaponParamList": [
-            14401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1015,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1015,
+        "trialAvatarParamList": [
             10000015,
             80
-        ],
-        "TrialWeaponParamList": [
-            11401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1016,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1016,
+        "trialAvatarParamList": [
             10000016,
             80
-        ],
-        "TrialWeaponParamList": [
-            12401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1020,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1020,
+        "trialAvatarParamList": [
             10000020,
             80
-        ],
-        "TrialWeaponParamList": [
-            12411,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1021,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1021,
+        "trialAvatarParamList": [
             10000021,
             80
-        ],
-        "TrialWeaponParamList": [
-            15401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1022,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1022,
+        "trialAvatarParamList": [
             10000022,
             80
-        ],
-        "TrialWeaponParamList": [
-            15503,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1023,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1023,
+        "trialAvatarParamList": [
             10000023,
             80
-        ],
-        "TrialWeaponParamList": [
-            13401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1024,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1024,
+        "trialAvatarParamList": [
             10000024,
             80
-        ],
-        "TrialWeaponParamList": [
-            12404,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1025,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1025,
+        "trialAvatarParamList": [
             10000025,
             80
-        ],
-        "TrialWeaponParamList": [
-            11401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1026,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1026,
+        "trialAvatarParamList": [
             10000026,
             80
-        ],
-        "TrialWeaponParamList": [
-            13505,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1027,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1027,
+        "trialAvatarParamList": [
             10000027,
             80
-        ],
-        "TrialWeaponParamList": [
-            14401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1029,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1029,
+        "trialAvatarParamList": [
             10000029,
             80
-        ],
-        "TrialWeaponParamList": [
-            14401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1030,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1030,
+        "trialAvatarParamList": [
             10000030,
             80
-        ],
-        "TrialWeaponParamList": [
-            13501,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1031,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1031,
+        "trialAvatarParamList": [
             10000031,
             80
-        ],
-        "TrialWeaponParamList": [
-            15401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1032,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1032,
+        "trialAvatarParamList": [
             10000032,
             80
-        ],
-        "TrialWeaponParamList": [
-            11401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1033,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1033,
+        "trialAvatarParamList": [
             10000033,
             80
-        ],
-        "TrialWeaponParamList": [
-            15501,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1034,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1034,
+        "trialAvatarParamList": [
             10000034,
             80
-        ],
-        "TrialWeaponParamList": [
-            12407,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1035,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1035,
+        "trialAvatarParamList": [
             10000035,
             80
-        ],
-        "TrialWeaponParamList": [
-            11401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1036,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1036,
+        "trialAvatarParamList": [
             10000036,
             80
-        ],
-        "TrialWeaponParamList": [
-            12404,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1037,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1037,
+        "trialAvatarParamList": [
             10000037,
             80
-        ],
-        "TrialWeaponParamList": [
-            15502,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1038,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1038,
+        "trialAvatarParamList": [
             10000038,
             80
-        ],
-        "TrialWeaponParamList": [
-            11413,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1039,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1039,
+        "trialAvatarParamList": [
             10000039,
             80
-        ],
-        "TrialWeaponParamList": [
-            15401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1041,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1041,
+        "trialAvatarParamList": [
             10000041,
             80
-        ],
-        "TrialWeaponParamList": [
-            14401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1042,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1042,
+        "trialAvatarParamList": [
             10000042,
             80
-        ],
-        "TrialWeaponParamList": [
-            11405,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1043,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1043,
+        "trialAvatarParamList": [
             10000043,
             80
-        ],
-        "TrialWeaponParamList": [
-            14401,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1044,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1044,
+        "trialAvatarParamList": [
             10000044,
             80
-        ],
-        "TrialWeaponParamList": [
-            12407,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1045,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1045,
+        "trialAvatarParamList": [
             10000045,
             80
-        ],
-        "TrialWeaponParamList": [
-            13409,
-            80
         ]
     },
     {
-        "TrialAvatarId": 1046,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1046,
+        "trialAvatarParamList": [
             10000046,
             80
-        ],
-        "TrialWeaponParamList": [
-            13501,
+        ]
+    },
+    {
+        "trialAvatarId": 1047,
+        "trialAvatarParamList": [
+            10000050,
             80
         ]
     },
     {
-        "TrialAvatarId": 5000,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 1048,
+        "trialAvatarParamList": [
+            10000048,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1049,
+        "trialAvatarParamList": [
+            10000051,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1050,
+        "trialAvatarParamList": [
+            10000047,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1051,
+        "trialAvatarParamList": [
+            10000049,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1052,
+        "trialAvatarParamList": [
+            10000052,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1053,
+        "trialAvatarParamList": [
+            10000053,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1054,
+        "trialAvatarParamList": [
+            10000054,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1055,
+        "trialAvatarParamList": [
+            10000055,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1056,
+        "trialAvatarParamList": [
+            10000056,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1057,
+        "trialAvatarParamList": [
+            10000057,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1063,
+        "trialAvatarParamList": [
+            10000063,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1064,
+        "trialAvatarParamList": [
+            10000064,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1065,
+        "trialAvatarParamList": [
+            10000058,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 1066,
+        "trialAvatarParamList": [
+            10000066,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 5000,
+        "trialAvatarParamList": [
             10000015,
             20
-        ],
-        "TrialWeaponParamList": [
-            11301,
-            20
         ]
     },
     {
-        "TrialAvatarId": 5001,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 5001,
+        "trialAvatarParamList": [
             10000006,
             20
-        ],
-        "TrialWeaponParamList": [
-            14301,
-            20
         ]
     },
     {
-        "TrialAvatarId": 5002,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 5002,
+        "trialAvatarParamList": [
             10000023,
             20
-        ],
-        "TrialWeaponParamList": [
-            13301,
-            20
         ]
     },
     {
-        "TrialAvatarId": 5003,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 5003,
+        "trialAvatarParamList": [
             10000014,
             20
-        ],
-        "TrialWeaponParamList": [
-            14301,
-            20
         ]
     },
     {
-        "TrialAvatarId": 5004,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 5004,
+        "trialAvatarParamList": [
             10000027,
             20
-        ],
-        "TrialWeaponParamList": [
-            14301,
+        ]
+    },
+    {
+        "trialAvatarId": 5005,
+        "trialAvatarParamList": [
+            10000043,
             20
         ]
     },
     {
-        "TrialAvatarId": 5005,
-        "TrialAvatarParamList": [
+        "trialAvatarId": 6000,
+        "trialAvatarParamList": [
+            10000026,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6001,
+        "trialAvatarParamList": [
+            10000033,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6002,
+        "trialAvatarParamList": [
+            10000037,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6003,
+        "trialAvatarParamList": [
+            10000048,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6004,
+        "trialAvatarParamList": [
+            10000027,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6005,
+        "trialAvatarParamList": [
+            10000031,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6006,
+        "trialAvatarParamList": [
+            10000002,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6007,
+        "trialAvatarParamList": [
+            10000041,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6008,
+        "trialAvatarParamList": [
+            10000039,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6009,
+        "trialAvatarParamList": [
+            10000014,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6010,
+        "trialAvatarParamList": [
+            10000025,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6011,
+        "trialAvatarParamList": [
+            10000015,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6012,
+        "trialAvatarParamList": [
+            10000052,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6015,
+        "trialAvatarParamList": [
+            10000024,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6016,
+        "trialAvatarParamList": [
+            10000056,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6017,
+        "trialAvatarParamList": [
+            10000016,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6018,
+        "trialAvatarParamList": [
+            10000023,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6019,
+        "trialAvatarParamList": [
             10000043,
-            20
-        ],
-        "TrialWeaponParamList": [
-            14301,
-            20
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6020,
+        "trialAvatarParamList": [
+            10000045,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6021,
+        "trialAvatarParamList": [
+            10000050,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6022,
+        "trialAvatarParamList": [
+            10000049,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6023,
+        "trialAvatarParamList": [
+            10000038,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6025,
+        "trialAvatarParamList": [
+            10000053,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6026,
+        "trialAvatarParamList": [
+            10000051,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6027,
+        "trialAvatarParamList": [
+            10000006,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6028,
+        "trialAvatarParamList": [
+            10000047,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6029,
+        "trialAvatarParamList": [
+            10000042,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6030,
+        "trialAvatarParamList": [
+            10000063,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6031,
+        "trialAvatarParamList": [
+            10000064,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6032,
+        "trialAvatarParamList": [
+            10000036,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6033,
+        "trialAvatarParamList": [
+            10000054,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6034,
+        "trialAvatarParamList": [
+            10000035,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6035,
+        "trialAvatarParamList": [
+            10000020,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6036,
+        "trialAvatarParamList": [
+            10000057,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6037,
+        "trialAvatarParamList": [
+            10000066,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6038,
+        "trialAvatarParamList": [
+            10000022,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6039,
+        "trialAvatarParamList": [
+            10000058,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 6040,
+        "trialAvatarParamList": [
+            10000055,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 10000,
+        "trialAvatarParamList": [
+            10000005,
+            80
+        ]
+    },
+    {
+        "trialAvatarId": 10001,
+        "trialAvatarParamList": [
+            10000007,
+            80
         ]
     }
 ]

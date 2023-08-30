@@ -1,353 +1,1015 @@
 [
     {
-        "Id": 1001,
-        "NameTextMapHash": 1503890796,
-        "RankLevel": 1,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 60,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1001,
+        "groupID": 1,
+        "nameTextMapHash": 1503890796,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100017,
-                "Count": 1
+                "id": 100017,
+                "count": 1
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110001,
-                "Count": 1
+                "id": 110001,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110001",
-        "DescTextMapHash": 4133506695
+        "icon": "UI_ItemIcon_110001",
+        "descTextMapHash": 4133506695,
+        "OFGAOOLMFMM": 773767581
     },
     {
-        "Id": 1002,
-        "NameTextMapHash": 372703804,
-        "RankLevel": 2,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 180,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1002,
+        "groupID": 4,
+        "nameTextMapHash": 372703804,
+        "rankLevel": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100078,
-                "Count": 1
+                "id": 100078,
+                "count": 1
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110002,
-                "Count": 1
+                "id": 110002,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110002",
-        "DescTextMapHash": 3186098687
+        "icon": "UI_ItemIcon_110002",
+        "descTextMapHash": 3186098687,
+        "OFGAOOLMFMM": 3633219749
     },
     {
-        "Id": 1003,
-        "NameTextMapHash": 1695683036,
-        "RankLevel": 2,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 300,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1003,
+        "groupID": 5,
+        "nameTextMapHash": 1695683036,
+        "rankLevel": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 300,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100064,
-                "Count": 3
+                "id": 100064,
+                "count": 3
             },
             {
-                "Id": 100075,
-                "Count": 1
+                "id": 100075,
+                "count": 1
             },
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110003,
-                "Count": 1
+                "id": 110003,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110003",
-        "DescTextMapHash": 393688495
+        "icon": "UI_ItemIcon_110003",
+        "descTextMapHash": 393688495,
+        "OFGAOOLMFMM": 1786867701
     },
     {
-        "Id": 1004,
-        "NameTextMapHash": 2216020564,
-        "RankLevel": 2,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 300,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1004,
+        "groupID": 6,
+        "nameTextMapHash": 2216020564,
+        "rankLevel": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 300,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100078,
-                "Count": 2
+                "id": 100078,
+                "count": 2
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110004,
-                "Count": 1
+                "id": 110004,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110004",
-        "DescTextMapHash": 909688039
+        "icon": "UI_ItemIcon_110004",
+        "descTextMapHash": 909688039,
+        "OFGAOOLMFMM": 1567682341
     },
     {
-        "Id": 1005,
-        "NameTextMapHash": 1168901260,
-        "RankLevel": 2,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 300,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1005,
+        "groupID": 7,
+        "nameTextMapHash": 1168901260,
+        "rankLevel": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 300,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100061,
-                "Count": 2
+                "id": 100061,
+                "count": 2
             },
             {
-                "Id": 100075,
-                "Count": 1
+                "id": 100075,
+                "count": 1
             },
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110005,
-                "Count": 1
+                "id": 110005,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110005",
-        "DescTextMapHash": 1930344319
+        "icon": "UI_ItemIcon_110005",
+        "descTextMapHash": 1930344319,
+        "OFGAOOLMFMM": 63563437
     },
     {
-        "Id": 1006,
-        "NameTextMapHash": 810292988,
-        "RankLevel": 2,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 180,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1006,
+        "groupID": 8,
+        "nameTextMapHash": 810292988,
+        "rankLevel": 2,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100012,
-                "Count": 2
+                "id": 100012,
+                "count": 2
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110006,
-                "Count": 1
+                "id": 110006,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110006",
-        "DescTextMapHash": 4069199271
+        "icon": "UI_ItemIcon_110006",
+        "descTextMapHash": 4069199271,
+        "OFGAOOLMFMM": 3000956821
     },
     {
-        "Id": 1007,
-        "NameTextMapHash": 1665383932,
-        "RankLevel": 3,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 1200,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1007,
+        "groupID": 9,
+        "nameTextMapHash": 1665383932,
+        "rankLevel": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 1200,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100073,
-                "Count": 4
+                "id": 100073,
+                "count": 4
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 100074,
-                "Count": 1
+                "id": 100074,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110007",
-        "DescTextMapHash": 2497807391
+        "icon": "UI_ItemIcon_110007",
+        "descTextMapHash": 2497807391,
+        "OFGAOOLMFMM": 2824490261
     },
     {
-        "Id": 1008,
-        "NameTextMapHash": 928312324,
-        "RankLevel": 3,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 600,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1008,
+        "groupID": 10,
+        "nameTextMapHash": 928312324,
+        "rankLevel": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 600,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100002,
-                "Count": 3
+                "id": 100002,
+                "count": 3
             },
             {
-                "Id": 100051,
-                "Count": 2
+                "id": 100051,
+                "count": 2
             },
             {
-                "Id": 110006,
-                "Count": 1
+                "id": 110006,
+                "count": 1
             },
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110008,
-                "Count": 1
+                "id": 110008,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110008",
-        "DescTextMapHash": 246504895
+        "icon": "UI_ItemIcon_110008",
+        "descTextMapHash": 246504895,
+        "OFGAOOLMFMM": 1462909461
     },
     {
-        "Id": 1009,
-        "NameTextMapHash": 2114171828,
-        "RankLevel": 3,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 600,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1009,
+        "groupID": 11,
+        "nameTextMapHash": 2114171828,
+        "rankLevel": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 600,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100078,
-                "Count": 3
+                "id": 100078,
+                "count": 3
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110009,
-                "Count": 1
+                "id": 110009,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110009",
-        "DescTextMapHash": 1273674727
+        "icon": "UI_ItemIcon_110009",
+        "descTextMapHash": 1273674727,
+        "OFGAOOLMFMM": 1060559621
     },
     {
-        "Id": 1010,
-        "NameTextMapHash": 440106668,
-        "RankLevel": 3,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 900,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1010,
+        "groupID": 12,
+        "nameTextMapHash": 440106668,
+        "rankLevel": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 900,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100061,
-                "Count": 2
+                "id": 100061,
+                "count": 2
             },
             {
-                "Id": 100075,
-                "Count": 2
+                "id": 100075,
+                "count": 2
             },
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110010,
-                "Count": 1
+                "id": 110010,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110010",
-        "DescTextMapHash": 2283884551
+        "icon": "UI_ItemIcon_110010",
+        "descTextMapHash": 2283884551,
+        "OFGAOOLMFMM": 2426403141
     },
     {
-        "Id": 1011,
-        "NameTextMapHash": 1422746788,
-        "RankLevel": 3,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 1200,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1011,
+        "groupID": 13,
+        "nameTextMapHash": 1422746788,
+        "rankLevel": 3,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 1200,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100061,
-                "Count": 3
+                "id": 100061,
+                "count": 3
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 110011,
-                "Count": 1
+                "id": 110011,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_110011",
-        "DescTextMapHash": 3271894575
+        "icon": "UI_ItemIcon_110011",
+        "descTextMapHash": 3271894575,
+        "OFGAOOLMFMM": 1839966589
     },
     {
-        "Id": 1012,
-        "NameTextMapHash": 776597748,
-        "RankLevel": 1,
-        "Type": "COMPOUND_COOK",
-        "IsDefaultUnlocked": true,
-        "CostTime": 60,
-        "QueueSize": 99,
-        "InputVec": [
+        "id": 1012,
+        "groupID": 2,
+        "nameTextMapHash": 776597748,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "isDefaultUnlocked": true,
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
             {
-                "Id": 100094,
-                "Count": 1
+                "id": 100094,
+                "count": 1
             },
             {},
             {},
             {},
             {}
         ],
-        "OutputVec": [
+        "outputVec": [
             {
-                "Id": 100061,
-                "Count": 1
+                "id": 100061,
+                "count": 1
             },
             {}
         ],
-        "Icon": "UI_ItemIcon_100061",
-        "DescTextMapHash": 3982212023
+        "icon": "UI_ItemIcon_100061",
+        "descTextMapHash": 3982212023,
+        "OFGAOOLMFMM": 3134662493
+    },
+    {
+        "id": 1013,
+        "groupID": 3,
+        "nameTextMapHash": 299615948,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131000,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 1453924119,
+        "OFGAOOLMFMM": 2374092493
+    },
+    {
+        "id": 1014,
+        "groupID": 3,
+        "nameTextMapHash": 660610300,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131001,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 2059829623,
+        "OFGAOOLMFMM": 1362831181
+    },
+    {
+        "id": 1015,
+        "groupID": 3,
+        "nameTextMapHash": 616729348,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131002,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 4186693711,
+        "OFGAOOLMFMM": 185107381
+    },
+    {
+        "id": 1016,
+        "groupID": 3,
+        "nameTextMapHash": 1130716292,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131003,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 1961759935,
+        "OFGAOOLMFMM": 2509048661
+    },
+    {
+        "id": 1017,
+        "groupID": 3,
+        "nameTextMapHash": 1942858524,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131004,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 2670525863,
+        "OFGAOOLMFMM": 723015253
+    },
+    {
+        "id": 1018,
+        "groupID": 3,
+        "nameTextMapHash": 1232497948,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 60,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131005,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 1
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 285420503,
+        "OFGAOOLMFMM": 1584498989
+    },
+    {
+        "id": 1019,
+        "groupID": 3,
+        "nameTextMapHash": 2724530796,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131006,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 3828786055,
+        "OFGAOOLMFMM": 3781772381
+    },
+    {
+        "id": 1020,
+        "groupID": 3,
+        "nameTextMapHash": 2741832340,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131007,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 745441967,
+        "OFGAOOLMFMM": 3720117469
+    },
+    {
+        "id": 1021,
+        "groupID": 3,
+        "nameTextMapHash": 2541819436,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131008,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 3985534391,
+        "OFGAOOLMFMM": 1501633525
+    },
+    {
+        "id": 1022,
+        "groupID": 3,
+        "nameTextMapHash": 2473810172,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131009,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 3438792199,
+        "OFGAOOLMFMM": 2352183221
+    },
+    {
+        "id": 1023,
+        "groupID": 3,
+        "nameTextMapHash": 2689448956,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131010,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 1861748343,
+        "OFGAOOLMFMM": 444435773
+    },
+    {
+        "id": 1024,
+        "groupID": 3,
+        "nameTextMapHash": 764784388,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131011,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 3
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 980580111,
+        "OFGAOOLMFMM": 4205251277
+    },
+    {
+        "id": 1025,
+        "groupID": 3,
+        "nameTextMapHash": 382362620,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131012,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 3
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 2134177623,
+        "OFGAOOLMFMM": 4063655373
+    },
+    {
+        "id": 1026,
+        "groupID": 3,
+        "nameTextMapHash": 1845013196,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131013,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 2784012295,
+        "OFGAOOLMFMM": 2882984973
+    },
+    {
+        "id": 1027,
+        "groupID": 3,
+        "nameTextMapHash": 1958606100,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131014,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 1458111671,
+        "OFGAOOLMFMM": 1907849245
+    },
+    {
+        "id": 1028,
+        "groupID": 3,
+        "nameTextMapHash": 1594975972,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131015,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 2319961863,
+        "OFGAOOLMFMM": 2862328493
+    },
+    {
+        "id": 1029,
+        "groupID": 3,
+        "nameTextMapHash": 998617388,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131016,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 725356407,
+        "OFGAOOLMFMM": 605534197
+    },
+    {
+        "id": 1030,
+        "groupID": 3,
+        "nameTextMapHash": 664903340,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 120,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131017,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 2
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 1995693207,
+        "OFGAOOLMFMM": 237291869
+    },
+    {
+        "id": 1031,
+        "groupID": 3,
+        "nameTextMapHash": 1659416172,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131019,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 3
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 207807143,
+        "OFGAOOLMFMM": 725720637
+    },
+    {
+        "id": 1032,
+        "groupID": 3,
+        "nameTextMapHash": 3009091668,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131020,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 3
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 460621679,
+        "OFGAOOLMFMM": 3412369645
+    },
+    {
+        "id": 1033,
+        "groupID": 3,
+        "nameTextMapHash": 3349136644,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131021,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 3
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 1083870343,
+        "OFGAOOLMFMM": 1066333581
+    },
+    {
+        "id": 1034,
+        "groupID": 3,
+        "nameTextMapHash": 1399428684,
+        "rankLevel": 1,
+        "type": "COMPOUND_COOK",
+        "costTime": 180,
+        "queueSize": 99,
+        "inputVec": [
+            {
+                "id": 131022,
+                "count": 1
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "outputVec": [
+            {
+                "id": 100084,
+                "count": 3
+            },
+            {}
+        ],
+        "icon": "UI_ItemIcon_100084",
+        "descTextMapHash": 1260803015,
+        "OFGAOOLMFMM": 478442589
     }
 ]

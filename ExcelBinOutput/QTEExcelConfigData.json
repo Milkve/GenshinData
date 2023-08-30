@@ -1,0 +1,116 @@
+[
+    {
+        "id": 1,
+        "BFABAMKLNKA": 1,
+        "ONHHICGKHKI": "QTE_TYPE_NEVER_FAIL",
+        "MLHMMLPCJGL": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "HCMJAPOFDHB": [
+            {
+                "type": "QTE_ACTION_FINISH_QUEST",
+                "param": [
+                    202007
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "BFABAMKLNKA": 2,
+        "ONHHICGKHKI": "QTE_TYPE_NEVER_FAIL",
+        "MLHMMLPCJGL": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "HCMJAPOFDHB": [
+            {
+                "type": "QTE_ACTION_FINISH_QUEST",
+                "param": [
+                    202008
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ],
+        "failExec": [
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            },
+            {
+                "param": [
+                    0
+                ]
+            }
+        ]
+    }
+]

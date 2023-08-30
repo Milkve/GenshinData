@@ -1,0 +1,212 @@
+{
+    "DMKFOJGLJCN": "",
+    "isSimpleTalk": true,
+    "LIGJDKPPPGI": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": ""
+        },
+        {
+            "configID": 10014,
+            "alias": "10014",
+            "visible": true,
+            "bornPointName": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "ConfigCameraMoveInterAction",
+                "type": "CAMERA_FOCUS",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.10000000149011612,
+                "targetNpcAlias": ""
+            },
+            {
+                "$type": "ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.4000000059604645
+            }
+        ],
+        [
+            {
+                "$type": "ConfigLookAtInterAction",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "enableHead": true,
+                "headTurnTime": 0.5,
+                "targetNpcAlias": "10014"
+            },
+            {
+                "$type": "ConfigDialogInterAction",
+                "type": "DIALOG",
+                "aliasList": [
+                    "10014"
+                ],
+                "dialogID": 110080513,
+                "protectTime": 0.5
+            },
+            {
+                "$type": "ConfigSteerInterAction",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "10014"
+                ],
+                "steerType": "TO_LOCAL_AVATAR",
+                "steerDir": {
+                    "x": -509.60888671875,
+                    "y": 209.80479431152344,
+                    "z": 324.7395935058594
+                },
+                "useSteerAnim": true,
+                "targetNpcAlias": ""
+            },
+            {
+                "$type": "ConfigLookAtInterAction",
+                "type": "LOOK_AT",
+                "delayTime": 0.7690944075584412,
+                "aliasList": [
+                    "10014"
+                ],
+                "enableHead": true,
+                "headTurnTime": 0.5,
+                "targetNpcAlias": "Avatar"
+            },
+            {
+                "$type": "ConfigLookAtInterAction",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "10014"
+                ],
+                "headTurnTime": 0.5,
+                "targetNpcAlias": ""
+            },
+            {
+                "$type": "ConfigEmoSyncInterAction",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "10014"
+                ],
+                "dataPath": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_Avatar_Event/Cs_Emo_Homeworld/Cs_Emo_110080513",
+                "phonemePath": "",
+                "emotionPath": "",
+                "mateDataPath": "",
+                "matePhonemePath": "",
+                "mateEmotionPath": "",
+                "dataPathHashList": [
+                    43026559155,
+                    110232950193,
+                    742435310081,
+                    966519317883
+                ]
+            },
+            {
+                "$type": "ConfigBodyLangInterAction",
+                "type": "BODY_LANG",
+                "delayTime": 1.1360042095184326,
+                "aliasList": [
+                    "10014"
+                ],
+                "bodyLangParam": 1120,
+                "forceDoFreeStyle": true
+            },
+            {
+                "$type": "ConfigBodyLangInterAction",
+                "type": "BODY_LANG",
+                "delayTime": 5.082798004150391,
+                "aliasList": [
+                    "10014"
+                ],
+                "isContinue": true,
+                "forceDoFreeStyle": true
+            },
+            {
+                "$type": "ConfigBodyLangInterAction",
+                "type": "BODY_LANG",
+                "delayTime": 6.082481384277344,
+                "aliasList": [
+                    "10014"
+                ],
+                "bodyLangParam": 1060,
+                "forceDoFreeStyle": true
+            },
+            {
+                "$type": "ConfigBodyLangInterAction",
+                "type": "BODY_LANG",
+                "delayTime": 4.098260402679443,
+                "aliasList": [
+                    "10014"
+                ],
+                "bodyLangParam": 4030,
+                "forceDoFreeStyle": true
+            }
+        ],
+        [
+            {
+                "$type": "ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "ConfigSteerInterAction",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "10014"
+                ],
+                "steerType": "RETURN",
+                "steerDir": {
+                    "x": -509.60888671875,
+                    "y": 209.80479431152344,
+                    "z": 324.7395935058594
+                },
+                "useSteerAnim": true,
+                "targetNpcAlias": ""
+            },
+            {
+                "$type": "ConfigBodyLangInterAction",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "10014"
+                ],
+                "isContinue": true,
+                "forceDoFreeStyle": true
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 1237248134,
+            "nextGrpId": 1237248135
+        },
+        {
+            "index": 1,
+            "grpId": 1237248135,
+            "nextGrpId": 1237248136
+        },
+        {
+            "index": 2,
+            "grpId": 1237248136,
+            "nextGrpId": 1237248137
+        }
+    ],
+    "freeStyleDic": {
+        "10014": [
+            1120,
+            1060,
+            4030
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "ID": 1,
+        "NFBBPIEEBAJ": "2_4_Day",
+        "LJAACEPDCBK": [],
+        "KFLODNLKHFF": [
+            120
+        ],
+        "EACLGGPNALJ": 5,
+        "PDHCLCEOPDB": 8.0
+    },
+    {
+        "ID": 2,
+        "NFBBPIEEBAJ": "2_4_Night",
+        "LJAACEPDCBK": [
+            120
+        ],
+        "KFLODNLKHFF": [],
+        "EACLGGPNALJ": 5,
+        "PDHCLCEOPDB": 20.0
+    },
+    {
+        "ID": 3,
+        "NFBBPIEEBAJ": "2_5_Day",
+        "LJAACEPDCBK": [],
+        "KFLODNLKHFF": [
+            123
+        ],
+        "EACLGGPNALJ": 7,
+        "PDHCLCEOPDB": 8.0
+    },
+    {
+        "ID": 4,
+        "NFBBPIEEBAJ": "2_5_Night",
+        "LJAACEPDCBK": [
+            123
+        ],
+        "KFLODNLKHFF": [],
+        "EACLGGPNALJ": 7,
+        "PDHCLCEOPDB": 20.0
+    }
+]
